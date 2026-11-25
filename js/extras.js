@@ -51,7 +51,7 @@ document.addEventListener('submit', function (e) {
   }
   b.disabled = true; say('Sending.');
   fetch(X.endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify({ kind: draft.kind, message: m, name: draft.name.trim(), email: em, page: location.hash }) })
-    .then(function (r) { if (!r.ok) throw 0; draft.message = ''; f.message.value = ''; say('Sent. Thank you.'); })
+    .then(function (r) { if (!r.ok) throw 0; draft.message = ''; f.message.value = ''; say('Sent. Thank you.'); if (RTD.track) RTD.track('message sent'); })
     .catch(function () { say('It did not send. Your message is still here, so try again.', true); }).then(function () { b.disabled = false; });
 });
 var host = document.querySelector('.tools-top'); if (host) host.insertAdjacentHTML('afterbegin', X.coffeeHTML('icon-btn coffee', 'short'));

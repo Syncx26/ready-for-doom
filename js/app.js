@@ -98,7 +98,7 @@ function menuHTML() {
     '<h3 class="m-h">Spoiler shield</h3><p class="small">Plot details, theories and cast details stay behind one Show button per beat or story. Stories you have watched always show. Card titles always show.</p><button type="button" class="btn secondary" data-act="spoilers" aria-pressed="' + S.spoilers + '">' + (S.spoilers ? 'Spoilers are shown. Tap to hide.' : 'Spoilers are hidden. Tap to show all.') + '</button>' +
     '<h3 class="m-h">Your progress</h3><div class="row wrap"><button type="button" class="btn secondary" data-act="redo">What have I watched?</button><button type="button" class="btn secondary" data-act="reset">Clear all progress</button></div>' +
     RTD.extras.menuHTML() +
-    '<p class="small fine">Unofficial, free fan guide. Not made by or affiliated with Marvel or Disney. Your progress is saved only in this browser. Visits are counted with Cloudflare Web Analytics.</p>';
+    '<p class="small fine">Unofficial, free fan guide. Not made by or affiliated with Marvel or Disney. Your progress is saved only in this browser. Visits are counted with Cloudflare, and anonymous taps with Umami, to improve the site. What you type is never included.</p>';
 }
 function openMenu() { openModal(menuHTML(), 'menu'); }
 function refreshMenu() { if (modalEl && modalEl.classList.contains('menu')) { var f = document.activeElement && document.activeElement.dataset ? { a: document.activeElement.dataset.act, v: document.activeElement.dataset.v } : null; modalEl.querySelector('.modal-card').innerHTML = menuHTML(); if (f) { var t = modalEl.querySelector('[data-act="' + f.a + '"]' + (f.v != null ? '[data-v="' + f.v + '"]' : '')); if (t) t.focus(); } } }
