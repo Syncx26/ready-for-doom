@@ -17,11 +17,10 @@ wrap(RTD.sheet, 'openFilm', function (id) { t('film notes', { film: id }); });
 wrap(RTD.sheet, 'openPerson', function (s) { t('cast profile', { person: s }); });
 wrap(RTD.nav, 'goTVA', function () { t('lost button'); });
 wrap(RTD.nav, 'setMode', function (m) { t('story length', { mode: m }); });
-var last = 'map';
-wrap(RTD, 'go', function (v) { if (v !== last) { last = v; t('page', { page: v }); } });
 document.addEventListener('click', function (e) {
   var a = e.target.closest && e.target.closest('a[href]'), b = e.target.closest && e.target.closest('[data-act]');
   if (a) { if (a.classList.contains('vid')) t('trailer', { video: a.querySelector('b').textContent }); else if (a.classList.contains('pay')) t('donate link', { to: /buymeatea/.test(a.href) ? 'chai' : 'coffee' }); return; }
+  var tab = e.target.closest && e.target.closest('.tab[data-view]'); if (tab) { t('page', { page: tab.dataset.view }); return; }
   if (!b) return; var k = b.dataset.act;
   if (k === 'welcome') t('start'); else if (k === 'coffee') t('donate box'); else if (k === 'contact') t('tell us opened');
   else if (k === 'bnext') t('next'); else if (k === 'bprev') t('previous'); else if (k === 'openall') t('open all branches'); else if (k === 'search') t('search opened');
