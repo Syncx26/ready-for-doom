@@ -500,3 +500,4 @@ a.icon-btn{color:inherit;display:grid;place-items:center}
 .icon-btn.coffee{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;width:auto;min-width:48px;padding:0 2px;color:var(--gold);text-decoration:none;font:700 14px/1 var(--f-body)}.icon-btn.coffee svg{width:22px;height:22px}
 @media (max-width:439px){.icon-btn.coffee{min-width:50px}.doom-btn{padding:4px 6px;gap:4px}.tools-top{gap:0}}
 @media (max-width:359px){.doom-btn .mask{display:none}}
+.vid-list{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:8px}.vid{display:flex;gap:12px;align-items:center;min-height:52px;padding:8px 12px;background:#fff;border:2px solid var(--ink);color:var(--ink);text-decoration:none}.vid svg{width:28px;height:28px;flex:none;fill:#b5121b}.vid b,.vid small{display:block;line-height:1.25}.vid small{font-size:14px}.vid:hover b{text-decoration:underline}

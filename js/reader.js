@@ -81,7 +81,7 @@ function beatHTML(b) {
     '<div class="r-head"><div class="r-bar"><button type="button" class="btn ghost sm" data-act="close">Close</button><button type="button" class="btn ghost sm only-m" data-act="expand" aria-pressed="' + el.classList.contains('full') + '">' + (el.classList.contains('full') ? 'Shrink' : 'Expand') + '</button></div>' +
     '<div class="chips">' + certChip(b.certainty) + '<span class="chip">Chapter ' + (g.chIdx[b.chapter] + 1) + ': ' + esc(ch.title) + '</span>' + (b.when ? '<span class="chip">' + esc(b.when) + '</span>' : '') + (b.doom ? '<span class="chip doom-chip">' + RTD.doomMask('c-mask') + 'Doom is in this' + '</span>' : '') + (b.key ? '' : '<span class="chip">Extra detail</span>') + '</div>' +
     '<h2 id="sheet-title" tabindex="-1" class="r-title">' + esc(b.title) + '</h2><p class="note">' + esc(Nv.branchTitle(b.id)) + '. ' + esc(Nv.counterFor(b.id)) + (b.id === g.startId ? '. Start here.' : '') + '</p></div>' +
-    panels +
+    panels + RTD.videos.beat(b.id) +
     '<section class="whos rels"><h3 class="cap">Happens because of</h3>' + (causes ? '<ul class="rel-list">' + causes + '</ul>' : '<p class="small">Nothing earlier. This is where the story starts.</p>') + '</section>' +
     '<section class="whos rels"><h3 class="cap">Leads to</h3>' + (leads ? '<ul class="rel-list">' + leads + '</ul>' : '<p class="small">Nothing after. This is where the guide ends.</p>') + '</section>' +
     (isEnd ? '<section class="whos"><h3 class="cap">The film</h3><p class="small">Countdown, cast ring and hot theories.</p><div class="row"><button type="button" class="btn secondary" data-act="core">Open the Doomsday page</button></div></section>' : '') +
@@ -143,7 +143,7 @@ function coreHTML() {
     '<h2 id="sheet-title" tabindex="-1" class="r-title">Avengers: Doomsday</h2>' +
     '<p class="note">Showtimes vary by theater. Check yours.</p>' +
     '<p class="one">' + esc(n ? n.oneLiner : '') + '</p>' + (last ? '<div class="row"><button type="button" class="btn secondary" data-act="beat" data-id="' + esc(last.id) + '">Back to the last beat</button></div>' : '') + '</div>' + leadHere() +
-    panels +
+    panels + RTD.videos.film('avengers-doomsday') +
     '<section class="whos ringbox"><h3 class="cap">The cast ring</h3>' + castRing() + '<p class="small">Solid ring: ' + cf + ' confirmed by Marvel. Dashed ring: reported, rumored or hoped for. Tap a dot.</p><div class="row"><button type="button" class="btn secondary" data-act="view" data-view="cast">Open the full cast</button></div></section>' +
     (th ? '<section class="whos"><h3 class="cap">Hot theories</h3><div class="row wrap">' + th + '</div></section>' : '') +
     '<p class="small fine">Unofficial fan guide. Not made by or affiliated with Marvel or Disney.</p></div>';
