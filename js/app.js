@@ -177,7 +177,7 @@ function act(a, t, e) {
     case 'menu': openMenu(); break;
     case 'reload': location.reload(); break;
     case 'contact': openModal(RTD.extras.contactHTML(t.dataset.kind), 'menu'); break;
-    case 'coffee': closeModal(); RTD.toast('The coffee link is coming soon.'); break;
+    case 'coffee': openModal(RTD.extras.donateHTML(), 'menu'); break;
     case 'modalclose': closeModal(); break;
     case 'setup': applySetup(t.dataset.v); break;
     case 'redo': closeModal(true); openModal(setupHTML(), 'setup'); break;

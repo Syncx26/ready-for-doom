@@ -3,12 +3,23 @@
 'use strict';
 var RTD = window.RTD, C = window.RTD_CONFIG || {}, esc = RTD.util.esc, draft = { kind: 'theory', message: '', name: '', email: '' };
 function https(u) { return /^https:\/\//.test(u || '') ? u : ''; }
-var X = RTD.extras = { coffee: https(C.coffeeUrl), endpoint: https(C.contactEndpoint) };
+var X = RTD.extras = { india: https(C.donateIndia), world: https(C.donateWorld), endpoint: https(C.contactEndpoint) };
 var CUP = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 9h11v6a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4zM16 10.5h1.5a2.5 2.5 0 0 1 0 5H16M8 3.5c-.8 1 .8 2 0 3M12.5 3.5c-.8 1 .8 2 0 3" fill="none"/></svg>';
 var KINDS = [['theory', 'A theory'], ['fix', 'Something is wrong'], ['idea', 'An idea'], ['other', 'Something else']];
 X.coffeeHTML = function (cls, text) {
-  return X.coffee ? '<a class="' + cls + '" href="' + esc(X.coffee) + '" target="_blank" rel="noopener noreferrer" aria-label="Donate, buy me a coffee">' + CUP + (text === 'short' ? '<span>Donate</span>' : text ? '<span>Donate / Buy me a coffee</span>' : '') + '</a>'
-    : '<button type="button" class="' + cls + '" data-act="coffee" aria-label="Donate, buy me a coffee, link coming soon">' + CUP + (text === 'short' ? '<span>Donate</span>' : text ? '<span>Donate / Buy me a coffee</span>' : '') + '</button>';
+  return '<button type="button" class="' + cls + '" data-act="coffee" aria-haspopup="dialog" aria-label="Donate, buy me a coffee">' + CUP + (text === 'short' ? '<span>Donate</span>' : text ? '<span>Donate / Buy me a coffee</span>' : '') + '</button>';
+};
+/* The device's own clock setting decides which option comes first. Nothing is sent anywhere. */
+X.inIndia = function () { try { return /^Asia\/(Kolkata|Calcutta)$/.test(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (e) { return false; } };
+X.donateHTML = function () {
+  var ind = X.inIndia(), first = ind ? 'india' : 'world', second = ind ? 'world' : 'india';
+  var T = { india: ['Buy me a chai', 'For India, pay with UPI'], world: ['Buy me a coffee', 'For everywhere else'] };
+  function opt(k, main) {
+    var u = X[k], t = T[k], body = CUP + '<span><b>' + t[0] + '</b><small>' + t[1] + '</small></span>';
+    return u ? '<a class="pay' + (main ? ' main' : '') + '" href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + body + '<span class="sr"> (opens another site)</span></a>' : '<p class="pay off">' + body.replace(t[1], t[1] + ', coming soon') + '</p>';
+  }
+  return '<div class="m-top"><h2 id="modal-title" class="m-title" tabindex="-1" data-first>Support this guide</h2><button type="button" class="btn ghost sm" data-act="modalclose">Close</button></div><p>It is free and always will be. If it helped, thank you for chipping in.</p>' +
+    opt(first, true) + '<p class="small">' + (ind ? 'Paying from outside India?' : 'In India?') + '</p>' + opt(second, false) + '<p class="small">Payments happen on those sites. Nothing is taken here.</p>';
 };
 X.bigHTML = function () { return X.coffeeHTML('donate', true); };
 X.menuHTML = function () { return '<h3 class="m-h">Help this guide</h3><div class="row wrap"><button type="button" class="btn secondary" data-act="contact">Send a theory or idea</button>' + X.coffeeHTML('btn secondary coffee-b', true) + '</div>'; };

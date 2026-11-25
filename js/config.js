@@ -1,5 +1,6 @@
-/* Site settings. Fill these in before going live; blank means "not switched on yet". */
+/* Site settings. Blank means "not switched on yet". Links must be https. */
 window.RTD_CONFIG = {
-  coffeeUrl: '',       // e.g. your Buy Me a Coffee page, https only
-  contactEndpoint: 'https://formspree.io/f/xeagnrze'  // https address that accepts a JSON POST { kind, message, name, email, page }
+  donateIndia: 'https://buymeatea.in/fromabipolarmind',  // for visitors in India (UPI)
+  donateWorld: '',                                       // for everyone else
+  contactEndpoint: 'https://formspree.io/f/xeagnrze'     // accepts a JSON POST { kind, message, name, email, page }
 };
