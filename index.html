@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#170f2b">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://formspree.io https://cloudflareinsights.com; manifest-src 'self'; base-uri 'none'; form-action 'none'">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta name="description" content="An unofficial, free fan guide. Tap through the story, one event at a time, and walk into Avengers: Doomsday knowing exactly what happened.">
+<link rel="canonical" href="https://readyfordoom.com/">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="assets/icon-180.png"><link rel="manifest" href="site.webmanifest">
+<meta property="og:type" content="website"><meta property="og:url" content="https://readyfordoom.com/"><meta property="og:title" content="Ready for Doom"><meta property="og:description" content="The whole story before Avengers: Doomsday, one tap at a time. Free and unofficial."><meta property="og:image" content="https://readyfordoom.com/assets/share.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Ready for Doom: a glowing timeline with branches leading to one point"><meta name="twitter:card" content="summary_large_image">
+<title>Ready for Doom: the unofficial Doomsday story guide</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Familjen+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/app.css?v=5">
+</head>
+<body data-view="map">
+<a class="skip" href="#main">Skip to the content</a>
+
+<header class="top" id="top">
+  <button type="button" class="brand" data-act="home" aria-label="Ready for Doom. Back to the start of the timeline."><span class="brand-mark" aria-hidden="true"></span><span class="brand-t">Ready for Doom</span></button>
+  <nav class="dock" id="dock" aria-label="Sections">
+    <button type="button" class="tab" data-view="map" aria-current="page"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="4.5" width="7" height="5" rx="1" fill="none"/><rect x="13.5" y="10" width="7" height="5" rx="1" fill="none"/><rect x="3.5" y="15.5" width="7" height="5" rx="1" fill="none"/><path d="M10.5 7h1.5a2 2 0 0 1 2 2v1M13.5 12.5H12a2 2 0 0 0-2 2v1" fill="none"/></svg><span>Timeline</span></button>
+    <button type="button" class="tab" data-view="plan"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="5.5" width="16" height="14" rx="2" fill="none"/><path d="M4 10h16M8.5 3.5v4M15.5 3.5v4" fill="none"/></svg><span>Plan</span></button>
+    <button type="button" class="tab" data-view="cast"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="9" r="3.2" fill="none"/><path d="M3.5 19c.6-3.4 2.8-5 5.5-5s4.9 1.6 5.5 5M16 6.2a3 3 0 0 1 0 5.6M17.5 14.3c1.6.6 2.7 2 3 4.7" fill="none"/></svg><span>Cast</span></button>
+    <button type="button" class="tab" data-view="theories"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 17.5h6M9.8 20.5h4.4M12 3.5a6 6 0 0 0-3.6 10.8c.7.6 1.1 1.3 1.1 2.2h5c0-.9.4-1.6 1.1-2.2A6 6 0 0 0 12 3.5z" fill="none"/></svg><span>Theories</span></button>
+    <button type="button" class="tab" data-view="list"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.5 7h11M8.5 12h11M8.5 17h11" fill="none"/><circle cx="4.6" cy="7" r="1.1"/><circle cx="4.6" cy="12" r="1.1"/><circle cx="4.6" cy="17" r="1.1"/></svg><span>List</span></button>
+  </nav>
+  <div class="tools-top">
+    <button type="button" class="btn secondary sm doom-btn" id="btn-doom" data-act="doom" aria-haspopup="dialog" aria-label="What Doom is doing"><svg class="mask" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 1.6 19.6 5l.9 7.5L17 20l-5 2.6L7 20l-3.5-7.5L4.4 5z" fill="#25c26e" stroke="#080414" stroke-width="1.8" stroke-linejoin="round"/><path d="M6.6 9.8l4 1.5-.5 2.3-3.7-1.2zM17.4 9.8l-4 1.5.5 2.3 3.7-1.2z" fill="#080414"/><path d="M12 12.6l1.1 4.2L12 18.4l-1.1-1.6zM9.2 19.2h5.6" fill="#080414" stroke="#080414" stroke-width="1.2" stroke-linejoin="round"/></svg><span class="dl-long">What Doom is doing</span><span class="dl-short" aria-hidden="true">Doom</span></button>
+    <button type="button" class="icon-btn" id="btn-search" data-act="search" aria-label="Search stories and cast" aria-expanded="false" aria-controls="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6" fill="none"/><path d="M15 15l5 5" fill="none"/></svg></button>
+    <button type="button" class="btn secondary sm" id="btn-menu" data-act="menu" aria-haspopup="dialog">View</button>
+  </div>
+  <div class="search" id="search" hidden>
+    <label class="sr" for="q">Search stories and cast</label>
+    <input type="search" id="q" placeholder="Search a title or a character" autocomplete="off" spellcheck="false" enterkeyhint="search">
+    <ul id="results" class="results" aria-label="Search results"></ul>
+  </div>
+</header>
+
+<main id="main">
+  <section id="v-map" class="view on" aria-label="Sacred Timeline">
+    <button type="button" class="lost" data-act="lost"><span><b>Lost?</b> See it on the TVA's Sacred Timeline</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none"/></svg></button>
+    <div id="tl" class="tl" tabindex="-1" aria-label="Sacred Timeline. One line from the first event to Doomsday. Every card is a button."></div>
+    <noscript><p class="fatal">This guide needs JavaScript to draw the timeline.</p></noscript>
+  </section>
+  <section id="v-tva" class="view" hidden aria-label="TVA monitor">
+    <div class="tv-head">
+      <div class="tv-row"><button type="button" class="btn secondary sm tv-back" data-act="simple"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none"/></svg>Back to the simple view</button><div class="seg bb-seg" role="group" aria-label="How much of the story"><button type="button" class="seg-b" data-act="mode" data-v="short" aria-pressed="false">Short story</button><button type="button" class="seg-b" data-act="mode" data-v="full" aria-pressed="true">Full story</button></div><span class="tv-cap" aria-hidden="true">TVA monitor</span></div>
+      <div class="tv-row tv-ctl">
+        <div class="tv-btns" role="group" aria-label="Zoom"><button type="button" class="btn secondary sm" data-act="whole">Whole timeline</button><button type="button" class="btn secondary sm tv-sq" data-act="zoomout" aria-label="Zoom out">&minus;</button><button type="button" class="btn secondary sm tv-sq" data-act="zoomin" aria-label="Zoom in">+</button></div>
+        <div id="tv-chips" class="tv-chips" role="group" aria-label="Zoom to a branch"></div>
+      </div>
+      <button type="button" class="btn secondary sm tv-doom" data-act="doomtrail" hidden>Showing Doom only. Show everything</button>
+    </div>
+    <div id="tv" class="tv" tabindex="-1" role="group" aria-label="TVA monitor. Drag to move, pinch or use plus and minus to zoom. Every card is a button."></div>
+  </section>
+  <section id="v-list" class="view page" hidden aria-label="List of every story"><div class="pg-in"></div></section>
+  <section id="v-plan" class="view page" hidden aria-label="Catch-up plan"><div class="pg-in"></div></section>
+  <section id="v-cast" class="view page" hidden aria-label="Cast"><div class="pg-in"></div></section>
+  <section id="v-theories" class="view page" hidden aria-label="Theories"><div class="pg-in"></div></section>
+</main>
+
+<div id="bbar" class="bbar" role="group" aria-label="Walk the story" hidden>
+  <div class="bb-row">
+    <button type="button" class="btn secondary" id="bar-prev" data-act="bprev">Previous</button>
+    <div class="bar-mid"><span id="bar-count" class="bar-count" aria-live="polite"></span><span id="bar-title" class="bar-title"></span></div>
+    <button type="button" class="btn primary" id="bar-next" data-act="bnext">Next</button>
+  </div>
+</div>
+<aside id="sheet" class="sheet" hidden></aside>
+<div id="toast" class="toast" role="status" hidden></div>
+<div id="live" class="sr" aria-live="polite" role="status"></div>
+
+<script src="js/tva-layout.js?v=5"></script>
+<script src="js/data.js?v=5"></script>
+<script src="js/plan.js?v=5"></script>
+<script src="js/timeline.js?v=5"></script>
+<script src="js/reader.js?v=5"></script>
+<script src="js/tva.js?v=5"></script>
+<script src="js/views.js?v=5"></script>
+<script src="js/config.js?v=5"></script>
+<script src="js/extras.js?v=5"></script>
+<script src="js/app.js?v=5"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "b61433ccef464bb1b6f56a24f0342ee7"}'></script>
+</body>
+</html>

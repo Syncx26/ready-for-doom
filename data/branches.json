@@ -1,0 +1,195 @@
+{
+ "trunk": [
+  "avengers-form",
+  "thanos-snap",
+  "endgame-undo",
+  "tony-dies",
+  "loki-escapes",
+  "tva-arrests-loki",
+  "he-who-remains",
+  "multiverse-branches",
+  "loki-s2-loom",
+  "encore-tva-collapse",
+  "trailer-doom",
+  "doomsday"
+ ],
+ "branches": [
+  {
+   "id": "wanda",
+   "title": "Wanda and Vision",
+   "color": "#ff5a5a",
+   "leaves": "avengers-form",
+   "because": "Thanos comes for the Stone in Vision’s head",
+   "beats": [
+    "vision-dies",
+    "wandavision-grief",
+    "wanda-buried",
+    "agatha-billy",
+    "visionquest-vision",
+    "doom-wakes-wanda"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Wanda is awake. Whether she is in Doomsday is not confirmed."
+  },
+  {
+   "id": "hulk",
+   "title": "Hulk",
+   "color": "#8fd14f",
+   "leaves": "thanos-snap",
+   "because": "After losing to Thanos, Banner works to fix himself",
+   "beats": [
+    "smart-hulk",
+    "bnd-banner",
+    "encore-banner-collected"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Banner is gone. Whether he is in Doomsday is not confirmed."
+  },
+  {
+   "id": "steve",
+   "title": "Steve and Peggy",
+   "color": "#4a94ff",
+   "leaves": "endgame-undo",
+   "because": "With the Stones returned, Steve chooses his own life",
+   "beats": [
+    "steve-stays",
+    "encore-loki-door",
+    "trailer-steve-ff"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "In the final trailer he joins the heroes at New Avengers Tower."
+  },
+  {
+   "id": "newavengers",
+   "title": "Sam and the New Avengers",
+   "color": "#ff8a4d",
+   "leaves": "endgame-undo",
+   "because": "Steve hands his shield to Sam",
+   "beats": [
+    "sam-takes-shield",
+    "bnw",
+    "thunderbolts-escape",
+    "bob-void",
+    "trailer-tower"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "thor",
+   "title": "Thor",
+   "color": "#9fb4ff",
+   "leaves": "endgame-undo",
+   "because": "After the win, Thor leaves to find himself",
+   "beats": [
+    "love-and-thunder"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "kang",
+   "title": "Ant-Man and Kang",
+   "color": "#d7a6ff",
+   "leaves": "he-who-remains",
+   "because": "He warned that his other selves would go to war",
+   "beats": [
+    "quantumania-kang"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "strange",
+   "title": "Doctor Strange",
+   "color": "#7f8dff",
+   "leaves": "multiverse-branches",
+   "because": "With time branching, whole worlds can collide",
+   "beats": [
+    "strange-incursion"
+   ],
+   "separate": false,
+   "rejoins": "encore-tva-collapse",
+   "ending": "The Encore later shows universes colliding. No film says this is the collision Strange was warned about."
+  },
+  {
+   "id": "spider",
+   "title": "Spider-Man",
+   "color": "#ff5f8f",
+   "leaves": "multiverse-branches",
+   "because": "Once time branches, a botched spell can reach other worlds",
+   "beats": [
+    "no-way-home",
+    "bnd-tracker"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Where Spider-Man went is not shown. Tom Holland is not on the official cast list."
+  },
+  {
+   "id": "ff",
+   "title": "Fantastic Four",
+   "color": "#22d0d6",
+   "leaves": "multiverse-branches",
+   "because": "Meanwhile, in a separate universe",
+   "beats": [
+    "ff-earth-828",
+    "franklin-born",
+    "doom-meets-franklin",
+    "ff-ship-arrives"
+   ],
+   "separate": true,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "wakanda",
+   "title": "Wakanda",
+   "color": "#c66bff",
+   "leaves": "multiverse-branches",
+   "because": "Meanwhile, in Wakanda",
+   "beats": [
+    "wakanda-forever",
+    "trailer-wakanda"
+   ],
+   "separate": false,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "xmen",
+   "title": "X-Men",
+   "color": "#ffe14a",
+   "leaves": "loki-s2-loom",
+   "because": "Meanwhile, in the X-Men’s own universe",
+   "beats": [
+    "xmen-world",
+    "deadpool-wolverine",
+    "trailer-x-men"
+   ],
+   "separate": true,
+   "rejoins": "doomsday",
+   "ending": "Next seen in the Doomsday story."
+  },
+  {
+   "id": "doom",
+   "title": "Doom prepares",
+   "color": "#25c26e",
+   "leaves": "encore-tva-collapse",
+   "because": "Doom appears in scenes of his own",
+   "beats": [
+    "special-look",
+    "encore-mask"
+   ],
+   "separate": true,
+   "rejoins": "trailer-doom",
+   "ending": "Next, he stands among his followers."
+  }
+ ]
+}

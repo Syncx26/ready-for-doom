@@ -1,0 +1,285 @@
+[
+ {
+  "id": "doom-is-tony-variant",
+  "title": "Doom is a Tony Stark variant",
+  "heat": 3,
+  "evidenceFor": "Downey plays Doom. The Endgame Encore re-release ends with Doom hammering a mask into shape, and the hammering sound echoes the one that ends Endgame. Joe Russo told Soundsphere that there is a moment in the film where we understand why Doom looks like Tony Stark.",
+  "evidenceAgainst": "Kevin Feige told Empire that Doom is not a Tony Stark variant: \"He's Victor von Doom.\" He asked whether Steve Rogers is a Johnny Storm variant just because Chris Evans plays both.",
+  "comicsBasis": "In the comics Doom and Tony Stark are separate people, though both are armored geniuses. In Secret Wars Doom is the villain, not a Stark.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "fantastic-four-first-steps",
+   "iron-man"
+  ],
+  "sourceUrls": [
+   "https://www.superherohype.com/news/707124-doctor-doom-not-a-tony-stark-variant-avengers-doomsday-theory",
+   "https://thegameofnerds.com/2026/10/12/avengers-endgame-encore-everything-we-learned-from-the-new-scenes/"
+  ]
+ },
+ {
+  "id": "doom-face-and-mask",
+  "title": "Why Doom looks like Tony: mask and Downey's face",
+  "heat": 2,
+  "evidenceFor": "Fan idea: Downey's face belongs to Victor across the multiverse and Tony is the anomaly, or the mask hides the resemblance. The Encore scene shows the mask being forged.",
+  "evidenceAgainst": "SuperHeroHype credits the multiverse-face idea to the YouTube channel New Rockstars. Feige and Russo have not endorsed it, and Feige's on-record line says only that Doom is Victor.",
+  "comicsBasis": "In the comics Doom's face is scarred by a lab accident, and the mask hides his face from the world.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "fantastic-four-first-steps"
+  ],
+  "sourceUrls": [
+   "https://www.superherohype.com/news/707124-doctor-doom-not-a-tony-stark-variant-avengers-doomsday-theory",
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday",
+   "https://thegameofnerds.com/2026/10/12/avengers-endgame-encore-everything-we-learned-from-the-new-scenes/"
+  ]
+ },
+ {
+  "id": "doom-origin-earth-828",
+  "title": "Doom's origin: Reed's old friend from Earth-828",
+  "heat": 2,
+  "evidenceFor": "Some coverage describes Doom as coming from Earth-828, the Fantastic Four's universe, and as Reed's friend from college.",
+  "evidenceAgainst": "The trailers do not spell out where Doom comes from, so this is worth waiting for the film to confirm.",
+  "comicsBasis": "In the comics Victor and Reed were college rivals at Empire State University, and Doom blamed Reed for the accident that scarred him.",
+  "relatedNodes": [
+   "fantastic-four-first-steps"
+  ],
+  "sourceUrls": [
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday"
+  ]
+ },
+ {
+  "id": "incursions-and-encore",
+  "title": "Incursions and the Endgame Encore footage",
+  "heat": 3,
+  "evidenceFor": "The Encore re-release adds a TVA scene where Mobius and O.B. watch universes fire missiles at each other, one of them the Fox X-Men Earth-10005, and an alarm or screen shows thousands of universes in the same crisis; accounts give the figure as 3,000 or just thousands.",
+  "evidenceAgainst": "Marvel has not called these incursions, and the Encore scenes do not say why the worlds collide. The TVA scene is missing from some theater prints, and the 3,000 figure is what fan-site coverage reports from the scene, not a Marvel statement.",
+  "comicsBasis": "In Hickman's Avengers and New Avengers, incursions are collisions of parallel Earths; one world must be destroyed to save the other. They end with the Beyonders and the Secret Wars event.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "loki-season-2"
+  ],
+  "sourceUrls": [
+   "https://lazybatman.com/2026/09/26/endgame-encore-new-scenes-explained/",
+   "https://sundayguardianlive.com/entertainment-news/avengers-endgame-encore-all-4-post-credits-scenes-explained-loki-doctor-doom-hulk-and-the-3000-universes-twist-292440/",
+   "https://thegameofnerds.com/2026/10/12/avengers-endgame-encore-everything-we-learned-from-the-new-scenes/",
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday"
+  ]
+ },
+ {
+  "id": "steve-peggy-son-doom",
+  "title": "Steve and Peggy's son: who is he and how is he tied to Doom?",
+  "heat": 3,
+  "evidenceFor": "The final trailer shows a teenage son, played by Wesley Holloway according to ABC News, who asks his dad if he was a superhero. Some fans think Doom may target Steve's choice to leave the timeline.",
+  "evidenceAgainst": "No source says the son is connected to Doom. Gizmodo first read Peggy's use of the full name Steven Grant Rogers as the boy's name, then added a correction saying she probably stressed Steve's name and the boy is not a different Steve. Marvel has not explained the son's role.",
+  "comicsBasis": "Unconfirmed. Fans sometimes point to a comics character named Ian Rogers, but no outlet connects him to the film.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "loki-season-2"
+  ],
+  "sourceUrls": [
+   "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+   "https://abcnews.com/GMA/Culture/avengers-doomsday-final-trailer-released/story?id=138375955"
+  ]
+ },
+ {
+  "id": "why-fantastic-four-recruit-steve",
+  "title": "Why the Fantastic Four come for Steve",
+  "heat": 3,
+  "evidenceFor": "In the final trailer the Fantastic Four arrive at Steve's family home and ask whether he is Steve Rogers, and Steve ends up with them at New Avengers Tower. Screen Rant reads the trailer as Loki leading Steve and Peggy to safety, and infers from the Fantastic Four's question that they were moved to Earth-828; both are inference. Steve tells his son there were six original Avengers.",
+  "evidenceAgainst": "The trailer has not shown why Steve in particular is needed. Anything beyond that is guesswork.",
+  "comicsBasis": "In the comics the Fantastic Four are Doom's oldest enemies and central to Secret Wars, but Steve is not their link to Doom.",
+  "relatedNodes": [
+   "fantastic-four-first-steps",
+   "avengers-endgame"
+  ],
+  "sourceUrls": [
+   "https://screenrant.com/avengers-doomsday-final-trailer-breakdown-new-scenes-ranked-explained/",
+   "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+   "https://www.yahoo.com/entertainment/movies/trailers/articles/avengers-doomsday-final-trailer-reveals-161500670.html"
+  ]
+ },
+ {
+  "id": "x-men-universe-dying",
+  "title": "The X-Men's universe is dying",
+  "heat": 3,
+  "evidenceFor": "The Encore TVA scene reportedly includes Earth-10005, the Fox X-Men universe, among the colliding worlds. In the final trailer Cyclops says 'To me, my X-Men,' and Gizmodo notes a building in the background that may be Xavier's school.",
+  "evidenceAgainst": "Marvel has not said Earth-10005 is destroyed in the film. Another reading is that the X-Men come for refuge or as allies.",
+  "comicsBasis": "In the 2015 Secret Wars the main-universe and Ultimate-universe collision ends in destruction, which is the comics model fans compare this to.",
+  "relatedNodes": [
+   "fox-x-men",
+   "avengers-endgame"
+  ],
+  "sourceUrls": [
+   "https://sundayguardianlive.com/entertainment-news/avengers-endgame-encore-all-4-post-credits-scenes-explained-loki-doctor-doom-hulk-and-the-3000-universes-twist-292440/",
+   "https://thegameofnerds.com/2026/10/12/avengers-endgame-encore-everything-we-learned-from-the-new-scenes/",
+   "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday"
+  ]
+ },
+ {
+  "id": "loki-end-of-time",
+  "title": "Loki's role at the end of time",
+  "heat": 3,
+  "evidenceFor": "The Encore ending shows Loki in a TVA jacket offering help to Steve and Peggy at their door. Coverage infers that he moved the Fantastic Four between Earths, but he is not shown doing it.",
+  "evidenceAgainst": "Marvel has not explained Loki's motive. He could be helping Doom or the heroes.",
+  "comicsBasis": "We have not matched this to a specific comic.",
+  "relatedNodes": [
+   "loki-season-2",
+   "avengers-endgame"
+  ],
+  "sourceUrls": [
+   "https://lazybatman.com/2026/09/26/endgame-encore-new-scenes-explained/",
+   "https://sundayguardianlive.com/entertainment-news/avengers-endgame-encore-all-4-post-credits-scenes-explained-loki-doctor-doom-hulk-and-the-3000-universes-twist-292440/",
+   "https://thegameofnerds.com/2026/10/12/avengers-endgame-encore-everything-we-learned-from-the-new-scenes/"
+  ]
+ },
+ {
+  "id": "stolen-lives-line",
+  "title": "Doom's 'stolen lives' line",
+  "heat": 3,
+  "evidenceFor": "In the final trailer Doom says, 'All of you have lived stolen lives. But now you must give them back.' Gizmodo reads the line as aimed at children such as Thor's daughter Love and Cassie Lang.",
+  "evidenceAgainst": "The trailer does not say who stole what or why. Tying the line to children is interpretation.",
+  "comicsBasis": "In the comics Doom claims he saves the remains of the multiverse by creating Battleworld; this is not the same as a stolen-lives claim.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "quantumania"
+  ],
+  "sourceUrls": [
+   "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986"
+  ]
+ },
+ {
+  "id": "battleworld-secret-wars",
+  "title": "Battleworld and the Secret Wars setup",
+  "heat": 3,
+  "evidenceFor": "Feige told Empire that Secret Wars is a whole other genre of story compared with Doomsday. Fans read that as a hint at something like Battleworld.",
+  "evidenceAgainst": "Marvel has not confirmed Battleworld. Feige did not say what the different genre is.",
+  "comicsBasis": "In the 2015 Secret Wars, Doom with the Beyonders' power and the Molecule Man builds Battleworld from surviving realities and rules as God Emperor with Sue Storm as his wife.",
+  "relatedNodes": [
+   "fantastic-four-first-steps",
+   "avengers-endgame"
+  ],
+  "sourceUrls": [
+   "https://www.comicbasics.com/kevin-feige-teases-that-avengers-secret-wars-will-feel-nothing-like-doomsday/",
+   "https://en.wikipedia.org/wiki/Secret_Wars_(2015_comic_book)"
+  ]
+ },
+ {
+  "id": "spider-man-in-space",
+  "title": "Tom Holland's Spider-Man and the space tracker",
+  "heat": 2,
+  "evidenceFor": "The Brand New Day post-credits scene shows Ned's Spidey Tracker app zooming out past Earth into deep space, with a Spider-Man will return title card. Theories say Peter is thrown into an incursion, travels with the Fantastic Four, or heads for Secret Wars.",
+  "evidenceAgainst": "Holland is not announced for Doomsday. The Tab says he filmed Christopher Nolan's The Odyssey during much of the shoot, and the title card names no film. The clue may lead to Secret Wars.",
+  "comicsBasis": "The 2015 Secret Wars features Miles Morales as a notable survivor of the multiverse collapse; no specific comic matches the space clue.",
+  "relatedNodes": [
+   "spider-man-brand-new-day"
+  ],
+  "sourceUrls": [
+   "https://screenrant.com/avengers-doomsday-spider-man-wolverine-roles/",
+   "https://thetab.com/filmshrine/2026/11/24/will-spider-man-and-dr-strange-be-in-avengers-doomsday-here-are-all-major-characters-missing/"
+  ]
+ },
+ {
+  "id": "deaths-predicted",
+  "title": "Who dies in Doomsday",
+  "heat": 2,
+  "evidenceFor": "Fans predict heavy losses, but no verifiable source gives a death list.",
+  "evidenceAgainst": "No verifiable source gives a death list, and Feige has not said who dies.",
+  "comicsBasis": "Secret Wars (2015) ended with most of the Marvel multiverse destroyed and rebuilt, so major deaths are standard.",
+  "relatedNodes": [
+   "avengers-endgame"
+  ],
+  "sourceUrls": [
+   "https://thetab.com/filmshrine/2026/11/24/will-spider-man-and-dr-strange-be-in-avengers-doomsday-here-are-all-major-characters-missing/"
+  ]
+ },
+ {
+  "id": "thunderbolts-vs-avengers",
+  "title": "Thunderbolts/New Avengers vs the Avengers",
+  "heat": 2,
+  "evidenceFor": "Thunderbolts* ends with the team branded the New Avengers and, 14 months later, Sam Wilson suing them over the Avengers name. In the final trailer Gizmodo describes Thor leading a New Avengers group at the tower that includes Bucky, Sam, Scott, Shang-Chi and Kate.",
+  "evidenceAgainst": "The trailer shows them working together, with no open conflict yet.",
+  "comicsBasis": "The comics' Thunderbolts have historically had tension with the Avengers over methods.",
+  "relatedNodes": [
+   "thunderbolts",
+   "captain-america-brave-new-world"
+  ],
+  "sourceUrls": [
+   "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986"
+  ]
+ },
+ {
+  "id": "franklin-richards-power",
+  "title": "Franklin Richards' power",
+  "heat": 2,
+  "evidenceFor": "In First Steps he is a baby with strong abilities, and the mid-credits scene shows a figure in a green cloak holding a mask beside him.",
+  "evidenceAgainst": "Marvel has not shown him in the trailers, and no outlet confirms his casting.",
+  "comicsBasis": "In Secret Wars 2015 Franklin's power helps Reed and others rebuild the multiverse. Doom adopts Franklin and Valeria as his own kids on Battleworld.",
+  "relatedNodes": [
+   "fantastic-four-first-steps"
+  ],
+  "sourceUrls": [
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday",
+   "https://en.wikipedia.org/wiki/Secret_Wars_(2015_comic_book)"
+  ]
+ },
+ {
+  "id": "wanda-return",
+  "title": "Wanda's return",
+  "heat": 3,
+  "evidenceFor": "In the VisionQuest finale's second end scene a shadowed, hooded figure wakes Wanda under Mount Wundagore and says her power will be his. SlashFilm and others read him as Doom; the scene does not name him. Fans wonder if a Latverian witch is Wanda.",
+  "evidenceAgainst": "Olsen is not on the official list or in the final trailer, and the scene does not show Wanda agreeing to anything.",
+  "comicsBasis": "In the comics Wanda's reality warping drives House of M.",
+  "relatedNodes": [
+   "visionquest"
+  ],
+  "sourceUrls": [
+   "https://www.slashfilm.com/2313195/visionquest-avengers-doomsday-post-credits-scene-scarlet-witch/"
+  ]
+ },
+ {
+  "id": "hulk-banner-absence",
+  "title": "Hulk and Banner's absence",
+  "heat": 2,
+  "evidenceFor": "The Encore scene shows a voice that sounds like Doom coming to collect Banner. Ruffalo is not on the official cast list.",
+  "evidenceAgainst": "The Tab says Ruffalo earlier indicated Hulk will not appear; sources conflict, and none came from Marvel.",
+  "comicsBasis": "We have not matched this to a specific comic.",
+  "relatedNodes": [
+   "avengers-endgame",
+   "she-hulk"
+  ],
+  "sourceUrls": [
+   "https://lazybatman.com/2026/09/26/endgame-encore-new-scenes-explained/",
+   "https://thetab.com/filmshrine/2026/11/24/will-spider-man-and-dr-strange-be-in-avengers-doomsday-here-are-all-major-characters-missing/"
+  ]
+ },
+ {
+  "id": "kang-leftovers",
+  "title": "Kang's leftovers: Council of Kangs and the Loom",
+  "heat": 1,
+  "evidenceFor": "Fans speculate Kang technology or timelines remain. Jonathan Majors was dropped from the role and Downey's Doom was announced as the new Multiverse Saga villain.",
+  "evidenceAgainst": "No sourced reporting links Doomsday to the Council of Kangs or the Loom.",
+  "comicsBasis": "We have not matched this to a specific comic.",
+  "relatedNodes": [
+   "quantumania"
+  ],
+  "sourceUrls": [
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday"
+  ]
+ },
+ {
+  "id": "wolverine-deadpool-surprise",
+  "title": "Wolverine and Deadpool surprise cameos",
+  "heat": 2,
+  "evidenceFor": "The Tab notes that Cyclops calls his team into action in the final trailer, which fans take as a possible cue for Wolverine.",
+  "evidenceAgainst": "Jackman has hinted he is not in the film; Marvel has announced neither.",
+  "comicsBasis": "In the comics both characters often join the X-Men or Avengers.",
+  "relatedNodes": [
+   "deadpool-and-wolverine"
+  ],
+  "sourceUrls": [
+   "https://thetab.com/filmshrine/2026/11/24/will-spider-man-and-dr-strange-be-in-avengers-doomsday-here-are-all-major-characters-missing/",
+   "https://en.wikipedia.org/wiki/Avengers:_Doomsday"
+  ]
+ }
+]

@@ -1,0 +1,1502 @@
+{
+ "chapters": [
+  {
+   "id": "c1",
+   "n": 1,
+   "title": "Earth loses half its heroes",
+   "summary": "Loki's attack brings the Avengers together, then Thanos snaps away half of all life."
+  },
+  {
+   "id": "c2",
+   "n": 2,
+   "title": "Time is undone, then splits",
+   "summary": "The Avengers reverse the Snap, but the cost and the shortcut leave Loki loose and time branching."
+  },
+  {
+   "id": "c3",
+   "n": 3,
+   "title": "The multiverse opens",
+   "summary": "A bad spell and a grieving witch show that other universes can reach ours."
+  },
+  {
+   "id": "c4",
+   "n": 4,
+   "title": "Worlds start to die",
+   "summary": "Loki holds time together alone, and the TVA shows what a dying universe looks like."
+  },
+  {
+   "id": "c5",
+   "n": 5,
+   "title": "New teams, and a first glimpse of Doom",
+   "summary": "A new Avengers team forms and the Fantastic Four's world is introduced, with a masked visitor at the end."
+  },
+  {
+   "id": "c6",
+   "n": 6,
+   "title": "Doom starts to collect",
+   "summary": "In 2026 someone read as Doom comes for Bruce Banner and wakes Wanda, while the multiverse starts to collapse."
+  },
+  {
+   "id": "c7",
+   "n": 7,
+   "title": "The heroes answer",
+   "summary": "The final trailer gathers the Avengers, Fantastic Four and X-Men against Doom."
+  },
+  {
+   "id": "c8",
+   "n": 8,
+   "title": "Doomsday",
+   "summary": "December 18, 2026."
+  }
+ ],
+ "lanes": [
+  {
+   "id": "avengers",
+   "title": "Steve and the Avengers",
+   "color": "#ffc23d"
+  },
+  {
+   "id": "loki",
+   "title": "Loki and time",
+   "color": "#a878ff"
+  },
+  {
+   "id": "wanda",
+   "title": "Wanda and Vision",
+   "color": "#f0353f"
+  },
+  {
+   "id": "hulk",
+   "title": "Hulk and Spider-Man",
+   "color": "#22d0d6"
+  },
+  {
+   "id": "newavengers",
+   "title": "New Avengers",
+   "color": "#ff8f3d"
+  },
+  {
+   "id": "ff",
+   "title": "Fantastic Four",
+   "color": "#4aa8ff"
+  },
+  {
+   "id": "xmen",
+   "title": "X-Men",
+   "color": "#ff5f8f"
+  },
+  {
+   "id": "doom",
+   "title": "Doom",
+   "color": "#25c26e"
+  }
+ ],
+ "beats": [
+  {
+   "id": "avengers-form",
+   "chapter": "c1",
+   "lane": "avengers",
+   "order": 1,
+   "title": "Loki attacks New York and the Avengers team up",
+   "happens": "Loki, the scheming adopted brother of the thunder god Thor, steals a glowing cube of cosmic power called the Tesseract and leads an alien army against New York. Nick Fury, who runs a spy agency, brings together Tony Stark (Iron Man), Steve Rogers (Captain America, a super-soldier from World War II), Thor and Bruce Banner, a scientist who turns into the Hulk. Together they win and become the Avengers.",
+   "why": "Almost every hero in this story starts on that team. A scene after the credits shows Loki's army was sent by Thanos, a far bigger threat.",
+   "source": "the-avengers",
+   "when": "2012",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki",
+    "tony-stark",
+    "steve-rogers",
+    "thor",
+    "bruce-banner"
+   ]
+  },
+  {
+   "id": "vision-dies",
+   "chapter": "c1",
+   "lane": "wanda",
+   "order": 2,
+   "title": "Thanos kills Vision, the android Wanda loves",
+   "happens": "Thanos, a warlord from space, hunts six gems called the Infinity Stones, each of which controls something like time or minds. One sits in the forehead of Vision, an android with a human mind who is the partner of Wanda Maximoff, a hero who can bend reality. Wanda destroys the stone to stop Thanos and loses Vision, then Thanos turns back time and kills him anyway.",
+   "why": "Wanda's grief over Vision drives her story for years afterward.",
+   "source": "avengers-infinity-war",
+   "when": "2018",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "wanda-maximoff"
+   ]
+  },
+  {
+   "id": "thanos-snap",
+   "chapter": "c1",
+   "lane": "avengers",
+   "order": 3,
+   "title": "Thanos snaps away half of all life",
+   "happens": "With all six Stones in his glove, Thanos snaps his fingers. Half of every living thing turns to dust, including many Avengers. The survivors are left stunned, and the world goes on without the missing half for five years.",
+   "why": "Everything after this is about undoing the loss or living in the world it left. People later call it the Snap.",
+   "source": "avengers-infinity-war",
+   "when": "2018",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "thor",
+    "bucky-barnes",
+    "sam-wilson"
+   ]
+  },
+  {
+   "id": "smart-hulk",
+   "chapter": "c1",
+   "lane": "hulk",
+   "order": 4,
+   "title": "Banner and the Hulk merge into one calm hero",
+   "happens": "After Thanos beats the Hulk in a fight, Bruce Banner spends years working out how to combine his own mind with the Hulk's strength. He ends up as one calm, clever, green giant. He is the one who later uses the Stones to bring everyone back.",
+   "why": "Banner is the hero a voice later says it has come to collect, in the Endgame Encore.",
+   "source": "avengers-endgame",
+   "when": "2019",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "bruce-banner"
+   ]
+  },
+  {
+   "id": "endgame-undo",
+   "chapter": "c2",
+   "lane": "avengers",
+   "order": 5,
+   "title": "The Avengers use time travel to reverse the Snap",
+   "happens": "Five years after the Snap, the survivors work out a way to travel through time and collect the Infinity Stones from earlier moments in history. They gather the Stones, bring everyone back, and fight Thanos's army in one enormous battle on Earth.",
+   "why": "The time trips leave a lot of loose ends, including one Loki who escapes, and the rest of the story follows from them.",
+   "source": "avengers-endgame",
+   "when": "2019",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "steve-rogers",
+    "thor",
+    "tony-stark",
+    "bruce-banner",
+    "scott-lang"
+   ]
+  },
+  {
+   "id": "tony-dies",
+   "chapter": "c2",
+   "lane": "avengers",
+   "order": 6,
+   "title": "Tony Stark dies using the Stones to beat Thanos",
+   "happens": "Tony Stark, the billionaire inventor who built the first Iron Man suit and led the Avengers, snaps the Stones himself to wipe out Thanos's army. The power kills him, and the heroes gather for his funeral.",
+   "why": "Robert Downey Jr., who played Tony, returns in Doomsday as Doctor Doom. Marvel's Kevin Feige says Doom is simply Victor von Doom, not Tony.",
+   "source": "avengers-endgame",
+   "when": "2019",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "tony-stark"
+   ]
+  },
+  {
+   "id": "steve-stays",
+   "chapter": "c2",
+   "lane": "avengers",
+   "order": 7,
+   "title": "Steve returns the Stones, then stays in the past with Peggy",
+   "happens": "Steve's last job is to return each Stone to its own time. He does not come back as the same man: he is old, because he stayed behind and lived a full life with Peggy Carter, the woman he lost in the 1940s. As an old man, he hands his shield to his friend Sam Wilson.",
+   "why": "This choice is why the Doomsday trailers show Steve with Peggy and a teenage son.",
+   "source": "avengers-endgame",
+   "when": "2019",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "steve-rogers",
+    "peggy-carter",
+    "sam-wilson"
+   ]
+  },
+  {
+   "id": "loki-escapes",
+   "chapter": "c2",
+   "lane": "loki",
+   "order": 8,
+   "title": "A 2012 Loki grabs the Tesseract and escapes",
+   "happens": "During the time trips, the Avengers go back to 2012. A mix-up lets that earlier Loki snatch the Tesseract and vanish. Because he is now off the path history took, he is a variant, meaning a version of someone living a different path from the original.",
+   "why": "This one escape creates the Loki who stars in his own series and who later knocks on Steve's door.",
+   "source": "avengers-endgame",
+   "when": "2019",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "wandavision-grief",
+   "chapter": "c2",
+   "lane": "wanda",
+   "order": 9,
+   "title": "Grieving Wanda traps a town inside a sitcom",
+   "happens": "Vision stays dead even after the Snap is undone. Wanda uses her power to build a fantasy suburb called Westview where he is alive and they have twin sons, Billy and Tommy, and she holds the townspeople captive inside it. In the end she ends the spell, loses her family, and takes a book of dark magic called the Darkhold into hiding.",
+   "why": "This is where Wanda becomes the Scarlet Witch, and where she first gets the book she uses next.",
+   "source": "wandavision",
+   "when": "Jan 2021",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "wanda-maximoff"
+   ]
+  },
+  {
+   "id": "sam-takes-shield",
+   "chapter": "c2",
+   "lane": "avengers",
+   "order": 10,
+   "title": "Sam Wilson takes up the shield as Captain America",
+   "happens": "Sam, who flies with a winged suit, doubts he deserves the shield and gives it to a museum. The government hands it to another soldier, John Walker, who misuses it and loses it. Sam finally accepts it, with help from Bucky Barnes, Steve's best friend, a former brainwashed assassin.",
+   "why": "Sam is the new Captain America in everything that follows, and Walker is later recruited into the New Avengers.",
+   "source": "falcon-and-the-winter-soldier",
+   "when": "Mar 2021",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "sam-wilson",
+    "bucky-barnes",
+    "john-walker"
+   ]
+  },
+  {
+   "id": "tva-arrests-loki",
+   "chapter": "c2",
+   "lane": "loki",
+   "order": 11,
+   "title": "The TVA arrests Loki for leaving his path",
+   "happens": "The Time Variance Authority, or TVA, is an office outside time that keeps history on one approved path called the Sacred Timeline. It arrests Loki as a variant who should not exist. An agent named Mobius recruits him to hunt a violent Loki variant, who turns out to be Sylvie, a version of him taken from her life as a child.",
+   "why": "The TVA is the agency that later watches the multiverse fall apart in the Endgame Encore.",
+   "source": "loki-season-1",
+   "when": "Jun 2021",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "he-who-remains",
+   "chapter": "c2",
+   "lane": "loki",
+   "order": 12,
+   "title": "Loki and Sylvie meet the man behind the TVA",
+   "happens": "At the end of time, they find He Who Remains, who says he built the TVA. He explains that he kept time on one path to stop a war between countless versions of himself across universes. He offers them a choice: take over from him or destroy him.",
+   "why": "His warning about those other versions sets up Kang, the villain Marvel planned before Doom.",
+   "source": "loki-season-1",
+   "when": "Jul 2021",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "multiverse-branches",
+   "chapter": "c2",
+   "lane": "loki",
+   "order": 13,
+   "title": "Sylvie kills him, and time splits into many universes",
+   "happens": "Sylvie kills He Who Remains. The single Sacred Timeline splits into countless branches, which means many separate universes now exist side by side. That is the multiverse. Loki returns to a TVA where nobody knows him, and a statue of Kang the Conqueror, another version of that man, stands where the TVA's old rulers once were.",
+   "why": "This is what opens the door to other universes for the rest of the story.",
+   "source": "loki-season-1",
+   "when": "Jul 2021",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "no-way-home",
+   "chapter": "c3",
+   "lane": "hulk",
+   "order": 14,
+   "title": "A failed spell pulls in people from other universes",
+   "happens": "The world learns that Peter Parker is Spider-Man. He asks the sorcerer Doctor Strange to cast a spell so everyone forgets. Peter keeps changing the spell as it is cast, it goes wrong, and it drags in people from other universes who know his secret. To fix it, Peter asks Strange to make everyone forget him entirely, even his best friend Ned and his girlfriend MJ.",
+   "why": "A careless spell can now cross universes, which makes the multiverse feel dangerous. Peter ends up alone and forgotten.",
+   "source": "spider-man-no-way-home",
+   "when": "Dec 2021",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "peter-parker",
+    "doctor-strange"
+   ]
+  },
+  {
+   "id": "strange-incursion",
+   "chapter": "c3",
+   "lane": "loki",
+   "order": 15,
+   "title": "Strange is told his actions caused an incursion",
+   "happens": "At the end of the film, a sorceress named Clea tells Strange that his actions have caused an incursion and pulls him into another realm. An incursion is a collision between two universes, and if nothing stops it, one of the worlds is destroyed.",
+   "why": "The film does not say which of Strange's actions she means. Incursion is the word for the multiverse collisions that later appear in the Endgame Encore.",
+   "source": "doctor-strange-in-the-multiverse-of-madness",
+   "when": "May 2022",
+   "key": true,
+   "doom": false,
+   "certainty": "read",
+   "people": [
+    "doctor-strange"
+   ]
+  },
+  {
+   "id": "wanda-buried",
+   "chapter": "c3",
+   "lane": "wanda",
+   "order": 16,
+   "title": "Wanda hunts a girl for her power, then buries herself",
+   "happens": "Using the Darkhold, Wanda hunts America Chavez, a teenager who can open doors between universes, because she wants to reach a world where her sons are real. Doctor Strange stops her. Seeing what she has done, Wanda pulls Mount Wundagore down on herself to destroy the book, and she is believed dead.",
+   "why": "Wanda is buried, not confirmed dead. Her next appearance is the VisionQuest finale.",
+   "source": "doctor-strange-in-the-multiverse-of-madness",
+   "when": "May 2022",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "wanda-maximoff",
+    "doctor-strange"
+   ]
+  },
+  {
+   "id": "love-and-thunder",
+   "chapter": "c3",
+   "lane": "avengers",
+   "order": 17,
+   "title": "Thor ends up raising a daughter, Love",
+   "happens": "After Endgame, Thor wanders space with a team of misfit heroes called the Guardians of the Galaxy. Back on Earth he finds his ex Jane Foster wielding his hammer and they take on Gorr, a god-killer. Jane dies. Gorr, near death, wishes his own daughter Love back to life, and Thor adopts her.",
+   "why": "Love is confirmed for Doomsday and appears next to Thor in the trailers.",
+   "source": "thor-love-and-thunder",
+   "when": "Jul 2022",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "thor",
+    "love-thorson"
+   ]
+  },
+  {
+   "id": "wakanda-forever",
+   "chapter": "c3",
+   "lane": "newavengers",
+   "order": 18,
+   "title": "Shuri becomes Black Panther and makes peace with Namor",
+   "happens": "King T'Challa has died of an illness, and his sister Shuri, a genius inventor, takes the title of Black Panther, protector of Wakanda, a hidden and advanced African nation. Namor, ruler of an underwater kingdom, threatens war to keep his people hidden from the surface world. Shuri chooses a truce over killing him. M'Baku, a rival tribal leader who backs her, stands with Wakanda.",
+   "why": "Shuri, M'Baku and Namor are all confirmed for Doomsday. No film shows why they join.",
+   "source": "black-panther-wakanda-forever",
+   "when": "Nov 2022",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "shuri",
+    "mbaku",
+    "namor"
+   ]
+  },
+  {
+   "id": "quantumania-kang",
+   "chapter": "c4",
+   "lane": "loki",
+   "order": 19,
+   "title": "Scott Lang's family meets Kang the Conqueror",
+   "happens": "Scott Lang, the hero Ant-Man who can shrink, and his daughter Cassie are pulled into the Quantum Realm, a tiny world outside normal space. They meet Kang the Conqueror, a ruthless man exiled from his own time, and defeat him. A final scene shows hundreds of Kang versions gathering to take revenge.",
+   "why": "Scott and Cassie are both confirmed for Doomsday. Behind the scenes, Marvel later dropped Kang as its main villain and moved to Doom.",
+   "source": "quantumania",
+   "when": "Feb 2023",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "scott-lang",
+    "cassie-lang"
+   ]
+  },
+  {
+   "id": "loki-s2-loom",
+   "chapter": "c4",
+   "lane": "loki",
+   "order": 20,
+   "title": "Loki sacrifices himself to hold time together",
+   "happens": "The TVA is falling apart because time keeps branching out of control. Loki, who has learned to master his slips through time, steps into the machine that handles the branches and destroys it. The branches regrow like a tree, and Loki takes a seat at the End of Time to hold it all together alone. The TVA carries on without him.",
+   "why": "Loki is now the keeper of the multiverse, and he is on Marvel's confirmed Doomsday cast.",
+   "source": "loki-season-2",
+   "when": "Nov 2023",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "xmen-world",
+   "chapter": "c4",
+   "lane": "xmen",
+   "order": 22,
+   "title": "The X-Men come from their own separate universe",
+   "happens": "Another film studio made its own X-Men movies. In that world mutants, people born with powers, include Professor X (Charles Xavier), who runs a school for them, and Magneto, his rival. Patrick Stewart, Ian McKellen, James Marsden, Kelsey Grammer, Alan Cumming, Rebecca Romijn and Channing Tatum all return to play them for Marvel Studios.",
+   "why": "All of these actors are confirmed for Doomsday. No film yet explains how their world meets the main one. Stewart died on Oct 28, 2026, and Marvel calls Doomsday his final on-screen role.",
+   "source": "fox-x-men",
+   "when": "2000 to 2019",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "charles-xavier",
+    "magneto",
+    "cyclops",
+    "beast",
+    "nightcrawler",
+    "mystique",
+    "gambit"
+   ]
+  },
+  {
+   "id": "deadpool-wolverine",
+   "chapter": "c4",
+   "lane": "xmen",
+   "order": 23,
+   "title": "The TVA says a dying world lost its anchor being",
+   "happens": "The TVA grabs Wade Wilson, the wisecracking hero Deadpool. Its agent Mr. Paradox says Wade's universe is dying because its anchor being, the one character who holds a whole universe together, Wolverine, has died. Wade finds a different Wolverine to replace him, and the pair end up in the Void, a wasteland where the TVA dumps timelines it has erased. They defeat its ruler, and Wade's world is spared.",
+   "why": "The film shows how a universe can die when what holds it together is lost. Neither Deadpool nor Wolverine is announced for Doomsday.",
+   "source": "deadpool-and-wolverine",
+   "when": "Jul 2024",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "deadpool",
+    "wolverine"
+   ]
+  },
+  {
+   "id": "agatha-billy",
+   "chapter": "c4",
+   "lane": "wanda",
+   "order": 24,
+   "title": "Wanda's lost son Billy turns up in a teenager's body",
+   "happens": "A teen who joins a witches' road trip led by Agatha Harkness turns out to be Billy Maximoff, Wanda's son, whose spirit ended up in a boy's body after a car crash. Agatha gives her life to protect him, and Billy sets off to find his twin brother Tommy.",
+   "why": "The sons Wanda created did not simply vanish. Wanda herself is not in this series.",
+   "source": "agatha-all-along",
+   "when": "Sep 2024",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "wanda-maximoff"
+   ]
+  },
+  {
+   "id": "bnw",
+   "chapter": "c5",
+   "lane": "avengers",
+   "order": 25,
+   "title": "Sam leads the Avengers; a prisoner warns him",
+   "happens": "Sam leads a small team with Joaquin Torres, the new Falcon. President Thaddeus Ross, the old general who once hunted the Hulk, announces a treaty to share adamantium, a rare metal found on Celestial Island. Celestials are god-sized cosmic beings, and the island is the body of one; Ross turns into the Red Hulk and is stopped. In the last scene a captive scientist tells Sam that something bigger is coming.",
+   "why": "Sam and Torres are confirmed for Doomsday. The warning is the first on-screen hint of outside forces arriving.",
+   "source": "captain-america-brave-new-world",
+   "when": "Feb 2025",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "sam-wilson",
+    "joaquin-torres"
+   ]
+  },
+  {
+   "id": "thunderbolts-escape",
+   "chapter": "c5",
+   "lane": "newavengers",
+   "order": 26,
+   "title": "Anti-heroes escape a trap and are branded the New Avengers",
+   "happens": "CIA director Valentina Allegra de Fontaine sends a group of antiheroes to a secret vault, each told to kill the others: Yelena Belova, John Walker, Ghost and Taskmaster. They escape and free Bob, a test subject. Bucky Barnes and Red Guardian, a Russian super-soldier, join the fight. At the end Valentina presents the group to the public as the New Avengers.",
+   "why": "These are the New Avengers who appear in the Doomsday trailers. Valentina is not on the confirmed cast list.",
+   "source": "thunderbolts",
+   "when": "May 2025",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "yelena-belova",
+    "john-walker",
+    "ava-starr",
+    "bucky-barnes",
+    "red-guardian"
+   ]
+  },
+  {
+   "id": "bob-void",
+   "chapter": "c5",
+   "lane": "newavengers",
+   "order": 27,
+   "title": "Bob's dark side swallows New York",
+   "happens": "Bob turns out to be the Sentry, a being of enormous power. His dark side, called the Void in this film and unrelated to the wasteland in Deadpool & Wolverine, swallows New York in shadow. Yelena leads the team into his mind, where they help him face his pain, and the Void fades.",
+   "why": "Bob is confirmed for Doomsday and is seen in the background of the trailers.",
+   "source": "thunderbolts",
+   "when": "May 2025",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "bob-reynolds",
+    "yelena-belova"
+   ]
+  },
+  {
+   "id": "ff-earth-828",
+   "chapter": "c5",
+   "lane": "ff",
+   "order": 28,
+   "title": "The Fantastic Four defend their own Earth from Galactus",
+   "happens": "On a separate universe called Earth-828, four people gained powers from cosmic rays: Reed Richards (Mister Fantastic, who stretches), Sue Storm (the Invisible Woman), Johnny Storm (the Human Torch) and Ben Grimm (the rock-skinned Thing). Galactus, a giant who devours planets, chooses their Earth and offers to spare it if they hand over the baby Sue is carrying. They refuse and fight him.",
+   "why": "This is all a newcomer needs: the Fantastic Four are a family of heroes from a different universe, and all four actors are confirmed for Doomsday.",
+   "source": "fantastic-four-first-steps",
+   "when": "Jul 2025",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "reed-richards",
+    "sue-storm",
+    "johnny-storm",
+    "ben-grimm"
+   ]
+  },
+  {
+   "id": "franklin-born",
+   "chapter": "c5",
+   "lane": "ff",
+   "order": 29,
+   "title": "Sue gives birth to Franklin, a baby of great power",
+   "happens": "On the trip home Sue gives birth to Franklin, and the baby turns out to be extremely powerful. Back on Earth, the team stops Galactus. Sue dies using all her power against him, and Franklin brings her back.",
+   "why": "Marvel has not said whether Franklin is in Doomsday.",
+   "source": "fantastic-four-first-steps",
+   "when": "Jul 2025",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "franklin-richards",
+    "sue-storm",
+    "reed-richards"
+   ]
+  },
+  {
+   "id": "doom-meets-franklin",
+   "chapter": "c5",
+   "lane": "doom",
+   "order": 30,
+   "title": "A cloaked figure with a mask kneels beside Franklin",
+   "happens": "In a scene during the credits, set four years later, Sue steps away from Franklin. When she turns back, someone in a green cloak and hood is beside him, holding a metal mask, and Franklin reaches toward it. The figure's face is never shown and he is never named. He is read as Doctor Doom, the sorcerer-genius who rules Latveria and is the film's villain.",
+   "why": "This is read as Doom's first appearance, beside a child with reality-bending power. Why he is there is not explained.",
+   "source": "fantastic-four-first-steps",
+   "when": "Jul 2025",
+   "key": true,
+   "doom": true,
+   "certainty": "read",
+   "people": [
+    "victor-von-doom",
+    "franklin-richards",
+    "sue-storm"
+   ]
+  },
+  {
+   "id": "ff-ship-arrives",
+   "chapter": "c5",
+   "lane": "ff",
+   "order": 31,
+   "title": "A ship marked with a large 4 arrives in the main universe",
+   "happens": "At the end of Thunderbolts*, set fourteen months later, the New Avengers are based in the old Avengers Tower, now called the Watchtower. Sam Wilson is suing them over the Avengers name when a craft from another dimension appears with a large 4 on its hull.",
+   "why": "This is the Fantastic Four reaching the main universe. The scene does not say how or why.",
+   "source": "thunderbolts",
+   "when": "Jul 2025 (set 14 months later)",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "reed-richards",
+    "sue-storm"
+   ]
+  },
+  {
+   "id": "bnd-banner",
+   "chapter": "c6",
+   "lane": "hulk",
+   "order": 32,
+   "title": "Peter asks Banner for help, and the Hulk rampages",
+   "happens": "Four years after the world forgot him, Peter Parker patrols New York alone as Spider-Man. His powers start changing, so he turns to Bruce Banner for help. A powerful telepath named Jean Grey takes over Banner's mind, and the Hulk rampages through a government agency's base.",
+   "why": "It sets up where Banner is when Doom comes for him. Neither Banner nor Peter is on the official Doomsday cast list.",
+   "source": "spider-man-brand-new-day",
+   "when": "Jul 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "peter-parker",
+    "bruce-banner"
+   ]
+  },
+  {
+   "id": "bnd-tracker",
+   "chapter": "c6",
+   "lane": "hulk",
+   "order": 33,
+   "title": "Ned's app shows Spider-Man leaving Earth",
+   "happens": "After the credits, Ned's app for tracking Spider-Man zooms out from New York, across the planet, and into deep space. A card says Spider-Man will return but does not name a film.",
+   "why": "People debate whether this leads to Doomsday or to Secret Wars, the film a year later. Tom Holland is not on the official Doomsday cast list.",
+   "source": "spider-man-brand-new-day",
+   "when": "Jul 2026",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "peter-parker"
+   ]
+  },
+  {
+   "id": "special-look",
+   "chapter": "c6",
+   "lane": "doom",
+   "order": 34,
+   "title": "Doom beats Thor and raises an army of Sentinels",
+   "happens": "In a special look shown at San Diego Comic-Con and again at Disney's D23 showcase, Doom fights Thor, blocks his axe Stormbreaker, and knocks him back with green energy. He raises Sentinels, giant robots built to hunt mutants, and says, \"Hell answers to me, for I am Doom.\"",
+   "why": "It shows Doom naming himself and commanding the X-Men's old enemy.",
+   "source": "avengers-doomsday",
+   "when": "Aug 14, 2026",
+   "key": false,
+   "doom": true,
+   "certainty": "shown",
+   "people": [
+    "victor-von-doom",
+    "thor",
+    "reed-richards"
+   ]
+  },
+  {
+   "id": "encore-loki-door",
+   "chapter": "c6",
+   "lane": "loki",
+   "order": 35,
+   "title": "Loki knocks on Steve and Peggy's door",
+   "happens": "In an extra scene added to the Endgame re-release, called Encore, Steve and Peggy are dancing at home when someone knocks. Peggy opens the door to Loki in a TVA jacket, who says he can help them both. Steve steps out of hiding and the scene ends.",
+   "why": "The scene never says what Loki wants. Loki, Steve and Peggy are all confirmed for Doomsday.",
+   "source": "endgame-encore",
+   "when": "Sep 25, 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki",
+    "steve-rogers",
+    "peggy-carter"
+   ]
+  },
+  {
+   "id": "encore-tva-collapse",
+   "chapter": "c6",
+   "lane": "loki",
+   "order": 36,
+   "title": "The TVA watches the multiverse begin to collapse",
+   "happens": "In another Encore scene, TVA workers Mobius, O.B. and Casey watch two universes, one of them the X-Men's world, called Earth-10005, start to collide and fire missiles at each other. Then thousands more collisions appear, and O.B. says the multiverse is collapsing.",
+   "why": "Co-director Joe Russo says the scene is critical to Doomsday's story.",
+   "source": "endgame-encore",
+   "when": "Sep 25, 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "loki"
+   ]
+  },
+  {
+   "id": "encore-banner-collected",
+   "chapter": "c6",
+   "lane": "doom",
+   "order": 37,
+   "title": "An unseen man says he has come to collect Banner",
+   "happens": "During the Encore credits, Bruce Banner is hiding in a bunker deep underground, filming a video diary about suppressing the Hulk. The lights flicker, and a voice says it has come to collect him; the Hulk roars, and both are gone, leaving only glowing green markings on the floor. The speaker is never seen or named, and is read as Doom.",
+   "why": "Joe Russo says Banner is involved in Doom's story and that Doom's interest may go beyond him. Mark Ruffalo is not on the official cast list, and where Banner is now is not shown.",
+   "source": "endgame-encore",
+   "when": "Sep 25, 2026",
+   "key": true,
+   "doom": true,
+   "certainty": "read",
+   "people": [
+    "bruce-banner",
+    "victor-von-doom"
+   ]
+  },
+  {
+   "id": "encore-mask",
+   "chapter": "c6",
+   "lane": "doom",
+   "order": 38,
+   "title": "Doom is shown forging his own mask",
+   "happens": "After the credits, quick flashes show a mask being hammered out of metal to the same clanging that ended Endgame, where it stood for Tony Stark building his first suit. The flashes end on Doom in his finished mask. Where it happens is not clear.",
+   "why": "The echo of Tony's hammering fuels theories that Doom is tied to Tony. Kevin Feige says Doom is Victor von Doom, not a Tony Stark variant. Joe Russo has said only that the resemblance will make sense once the film is seen.",
+   "source": "endgame-encore",
+   "when": "Sep 25, 2026",
+   "key": false,
+   "doom": true,
+   "certainty": "read",
+   "people": [
+    "victor-von-doom",
+    "tony-stark"
+   ]
+  },
+  {
+   "id": "visionquest-vision",
+   "chapter": "c6",
+   "lane": "wanda",
+   "order": 39,
+   "title": "Vision is rebuilt and hides from a bounty hunter",
+   "happens": "In VisionQuest, a rebuilt Vision lives quietly in Edinburgh, Scotland, keeping the killer AI Ultron locked in his own mind. A bounty hunter comes for him and he runs with Tommy Maximoff, a teenager he comes to accept as his son. In the finale Ultron breaks free and threatens London, and Vision talks him down. Ultron slips away, and Billy and Tommy help save their father.",
+   "why": "This is the show whose final scene brings Wanda back.",
+   "source": "visionquest",
+   "when": "Oct to Nov 2026",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "white-vision"
+   ]
+  },
+  {
+   "id": "doom-wakes-wanda",
+   "chapter": "c6",
+   "lane": "doom",
+   "order": 40,
+   "title": "A hooded man digs Wanda out and says her power will be his",
+   "happens": "VisionQuest's final scene returns to Wanda, buried under Mount Wundagore. A hooded man, his face in shadow, lifts the rubble with green magic and says, \"Scarlet Witch, awaken. Your power will be mine.\" Wanda's eyes open and the scene ends; he is never named and is read as Doom.",
+   "why": "It suggests Doom wants Wanda's power. She is not shown going anywhere with him, and Elizabeth Olsen is not on the official Doomsday cast list.",
+   "source": "visionquest",
+   "when": "Nov 10, 2026",
+   "key": true,
+   "doom": true,
+   "certainty": "read",
+   "people": [
+    "wanda-maximoff",
+    "victor-von-doom"
+   ]
+  },
+  {
+   "id": "trailer-steve-ff",
+   "chapter": "c7",
+   "lane": "avengers",
+   "order": 41,
+   "title": "The Fantastic Four turn up at Steve and Peggy's home",
+   "happens": "In the final trailer, Steve and Peggy live quietly with a teenage son who asks, \"Dad, were you a superhero?\" A flash of light brings the Fantastic Four to their yard, and Reed asks whether he is Steve Rogers. Steve summons Thor's hammer Mjolnir to his hand, which surprises Reed, and then leaves his family to go with them.",
+   "why": "The trailers do not say why the Fantastic Four need Steve in particular. Reading Loki's Encore offer as what brought them together is a guess.",
+   "source": "avengers-doomsday",
+   "when": "Nov 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "steve-rogers",
+    "peggy-carter",
+    "steve-rogers-son",
+    "reed-richards",
+    "sue-storm",
+    "johnny-storm",
+    "ben-grimm"
+   ]
+  },
+  {
+   "id": "trailer-tower",
+   "chapter": "c7",
+   "lane": "newavengers",
+   "order": 42,
+   "title": "Steve joins the New Avengers at their tower, led by Thor",
+   "happens": "The final trailer shows Steve arriving at New Avengers Tower with the Fantastic Four, where Bucky, Sam and Scott react. Thor addresses a crowd of heroes that includes Shang-Chi and Kate Bishop, and says he does not know what half of them do. Thor's daughter Love is shown nearby.",
+   "why": "These are the heroes set against Doom. The trailers do not show why each one joins.",
+   "source": "avengers-doomsday",
+   "when": "Nov 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "steve-rogers",
+    "thor",
+    "bucky-barnes",
+    "sam-wilson",
+    "scott-lang",
+    "shang-chi",
+    "yelena-belova",
+    "kate-bishop",
+    "love-thorson"
+   ]
+  },
+  {
+   "id": "trailer-doom",
+   "chapter": "c7",
+   "lane": "doom",
+   "order": 43,
+   "title": "Doom stands among his Latverian followers",
+   "happens": "The final trailer shows Doom flanked by three close followers and surrounded by many witches from Latveria. He tells the heroes, \"All of you have lived stolen lives. But now you must give them back.\" Thor with Love and Scott with Cassie are shown around that moment, and the trailers do not say what he means or who the witches are.",
+   "why": "Nothing shown puts Wanda or Banner among his followers. That is a guess.",
+   "source": "avengers-doomsday",
+   "when": "Nov 2026",
+   "key": true,
+   "doom": true,
+   "certainty": "shown",
+   "people": [
+    "victor-von-doom",
+    "thor",
+    "love-thorson",
+    "scott-lang",
+    "cassie-lang"
+   ]
+  },
+  {
+   "id": "trailer-x-men",
+   "chapter": "c7",
+   "lane": "xmen",
+   "order": 44,
+   "title": "The X-Men fight Sentinels, led by Cyclops",
+   "happens": "The X-Men are heroes born with powers, called mutants. In the trailers they stand in the main universe, led by Cyclops, who calls out \"To me, my X-Men.\" Beast, Gambit, Mystique and Nightcrawler appear, and heroes from other groups are shown fighting beside them against Sentinels, the mutant-hunting robots Doom commands.",
+   "why": "Marvel has not said why the X-Men came. The Encore shows their world colliding with another, which is the likeliest reason. Professor X and Magneto are not clearly shown.",
+   "source": "avengers-doomsday",
+   "when": "Nov 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "cyclops",
+    "beast",
+    "gambit",
+    "mystique",
+    "nightcrawler",
+    "charles-xavier",
+    "magneto"
+   ]
+  },
+  {
+   "id": "trailer-wakanda",
+   "chapter": "c7",
+   "lane": "newavengers",
+   "order": 45,
+   "title": "The Fantastic Four's ship visits Wakanda",
+   "happens": "In the final trailer, the Fantastic Four's ship visits Wakanda, the hidden African nation. Shuri appears there as Black Panther.",
+   "why": "Shuri, M'Baku and Namor are confirmed for Doomsday. The trailers do not show why they join.",
+   "source": "avengers-doomsday",
+   "when": "Nov 2026",
+   "key": false,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "shuri",
+    "mbaku",
+    "namor"
+   ]
+  },
+  {
+   "id": "doomsday",
+   "chapter": "c8",
+   "lane": "doom",
+   "order": 46,
+   "title": "Doomsday: three universes' heroes against Doom",
+   "happens": "The Russo brothers' film opens on December 18, 2026, with Robert Downey Jr. as Doom. The Avengers, the Fantastic Four and the X-Men are all on the confirmed cast. What Doom wants, and whether he took Banner or Wanda anywhere, is not shown before then.",
+   "why": "Everything above is what has been shown so far. The film's own story is not known.",
+   "source": "avengers-doomsday",
+   "when": "Dec 18, 2026",
+   "key": true,
+   "doom": false,
+   "certainty": "shown",
+   "people": [
+    "victor-von-doom",
+    "steve-rogers",
+    "thor",
+    "loki",
+    "reed-richards",
+    "cyclops"
+   ]
+  }
+ ],
+ "links": [
+  {
+   "from": "avengers-form",
+   "to": "vision-dies",
+   "because": "Thanos, who sent Loki, still hunts the Stones",
+   "certainty": "shown"
+  },
+  {
+   "from": "avengers-form",
+   "to": "thanos-snap",
+   "because": "Loki's invasion was Thanos's opening move",
+   "certainty": "shown"
+  },
+  {
+   "from": "vision-dies",
+   "to": "thanos-snap",
+   "because": "Thanos takes the last Stone and snaps his fingers",
+   "certainty": "shown"
+  },
+  {
+   "from": "thanos-snap",
+   "to": "smart-hulk",
+   "because": "after losing to Thanos, Banner works to fix himself",
+   "certainty": "shown"
+  },
+  {
+   "from": "thanos-snap",
+   "to": "endgame-undo",
+   "because": "the survivors try to undo it by travelling in time",
+   "certainty": "shown"
+  },
+  {
+   "from": "smart-hulk",
+   "to": "endgame-undo",
+   "because": "the merged Banner is the one who reverses the Snap",
+   "certainty": "shown"
+  },
+  {
+   "from": "endgame-undo",
+   "to": "tony-dies",
+   "because": "using the Stones to beat Thanos costs Tony his life",
+   "certainty": "shown"
+  },
+  {
+   "from": "endgame-undo",
+   "to": "steve-stays",
+   "because": "with the Stones returned, Steve chooses his own life",
+   "certainty": "shown"
+  },
+  {
+   "from": "endgame-undo",
+   "to": "loki-escapes",
+   "because": "the time trips let a 2012 Loki slip away",
+   "certainty": "shown"
+  },
+  {
+   "from": "endgame-undo",
+   "to": "love-and-thunder",
+   "because": "after the win, Thor leaves to find himself",
+   "certainty": "shown"
+  },
+  {
+   "from": "loki-escapes",
+   "to": "tva-arrests-loki",
+   "because": "that escape pulls him off time's single approved path",
+   "certainty": "shown"
+  },
+  {
+   "from": "vision-dies",
+   "to": "wandavision-grief",
+   "because": "Wanda grieves the Vision Thanos killed",
+   "certainty": "shown"
+  },
+  {
+   "from": "endgame-undo",
+   "to": "wandavision-grief",
+   "because": "the undo cannot bring Vision back",
+   "certainty": "shown"
+  },
+  {
+   "from": "steve-stays",
+   "to": "sam-takes-shield",
+   "because": "Steve, now old, hands Sam his shield",
+   "certainty": "shown"
+  },
+  {
+   "from": "tva-arrests-loki",
+   "to": "he-who-remains",
+   "because": "the hunt for a rogue Loki leads to the TVA's maker",
+   "certainty": "shown"
+  },
+  {
+   "from": "he-who-remains",
+   "to": "multiverse-branches",
+   "because": "Sylvie chooses to kill him",
+   "certainty": "shown"
+  },
+  {
+   "from": "tva-arrests-loki",
+   "to": "multiverse-branches",
+   "because": "the hunt ends with the TVA's maker dead",
+   "certainty": "shown"
+  },
+  {
+   "from": "doom-meets-franklin",
+   "to": "trailer-doom",
+   "because": "Franklin's masked visitor is read as the same Doom",
+   "certainty": "read"
+  },
+  {
+   "from": "multiverse-branches",
+   "to": "no-way-home",
+   "because": "once time branches, a botched spell can reach other worlds",
+   "certainty": "read"
+  },
+  {
+   "from": "multiverse-branches",
+   "to": "strange-incursion",
+   "because": "with time branching, whole worlds can collide",
+   "certainty": "read"
+  },
+  {
+   "from": "no-way-home",
+   "to": "strange-incursion",
+   "because": "Strange's failed spell is the likely cause she means",
+   "certainty": "read"
+  },
+  {
+   "from": "wandavision-grief",
+   "to": "wanda-buried",
+   "because": "she took the Darkhold to get her sons back",
+   "certainty": "shown"
+  },
+  {
+   "from": "wandavision-grief",
+   "to": "agatha-billy",
+   "because": "the sons Wanda created did not simply vanish",
+   "certainty": "shown"
+  },
+  {
+   "from": "wakanda-forever",
+   "to": "trailer-wakanda",
+   "because": "only link: Wakanda appears in the trailers",
+   "certainty": "read"
+  },
+  {
+   "from": "he-who-remains",
+   "to": "quantumania-kang",
+   "because": "he warned his other selves would go to war",
+   "certainty": "shown"
+  },
+  {
+   "from": "multiverse-branches",
+   "to": "loki-s2-loom",
+   "because": "the branches keep growing out of control",
+   "certainty": "shown"
+  },
+  {
+   "from": "loki-s2-loom",
+   "to": "deadpool-wolverine",
+   "because": "the TVA still prunes dying timelines",
+   "certainty": "read"
+  },
+  {
+   "from": "xmen-world",
+   "to": "deadpool-wolverine",
+   "because": "the TVA says that world's Wolverine died",
+   "certainty": "read"
+  },
+  {
+   "from": "sam-takes-shield",
+   "to": "bnw",
+   "because": "Sam, now Captain America, faces President Ross",
+   "certainty": "shown"
+  },
+  {
+   "from": "sam-takes-shield",
+   "to": "thunderbolts-escape",
+   "because": "Walker, who lost the shield to Sam, is recruited",
+   "certainty": "shown"
+  },
+  {
+   "from": "thunderbolts-escape",
+   "to": "bob-void",
+   "because": "the freed Bob turns out to be the Sentry",
+   "certainty": "shown"
+  },
+  {
+   "from": "ff-earth-828",
+   "to": "franklin-born",
+   "because": "the baby they refuse to give up is born powerful",
+   "certainty": "shown"
+  },
+  {
+   "from": "franklin-born",
+   "to": "doom-meets-franklin",
+   "because": "then a cloaked visitor appears; his motive is unexplained",
+   "certainty": "read"
+  },
+  {
+   "from": "ff-earth-828",
+   "to": "ff-ship-arrives",
+   "because": "they later cross worlds; no cause is shown",
+   "certainty": "read"
+  },
+  {
+   "from": "no-way-home",
+   "to": "bnd-banner",
+   "because": "with no one left who knows him, Peter turns to Banner",
+   "certainty": "shown"
+  },
+  {
+   "from": "bnd-banner",
+   "to": "bnd-tracker",
+   "because": "the film's last scene follows Peter off the planet",
+   "certainty": "read"
+  },
+  {
+   "from": "bnd-banner",
+   "to": "encore-banner-collected",
+   "because": "after the Hulk-out he hides deep underground",
+   "certainty": "shown"
+  },
+  {
+   "from": "doom-meets-franklin",
+   "to": "special-look",
+   "because": "the same Doom steps out of the shadows",
+   "certainty": "read"
+  },
+  {
+   "from": "steve-stays",
+   "to": "encore-loki-door",
+   "because": "Steve stayed in the past, where Loki now finds him",
+   "certainty": "read"
+  },
+  {
+   "from": "loki-s2-loom",
+   "to": "encore-loki-door",
+   "because": "Loki, keeper of the timelines, comes calling",
+   "certainty": "read"
+  },
+  {
+   "from": "loki-s2-loom",
+   "to": "encore-tva-collapse",
+   "because": "the TVA staff watch the branches Loki tends",
+   "certainty": "read"
+  },
+  {
+   "from": "strange-incursion",
+   "to": "encore-tva-collapse",
+   "because": "the collisions Strange was warned of are now happening",
+   "certainty": "read"
+  },
+  {
+   "from": "xmen-world",
+   "to": "encore-tva-collapse",
+   "because": "one of the two colliding worlds is the X-Men's",
+   "certainty": "read"
+  },
+  {
+   "from": "deadpool-wolverine",
+   "to": "encore-tva-collapse",
+   "because": "the TVA had already shown a world can die",
+   "certainty": "read"
+  },
+  {
+   "from": "tony-dies",
+   "to": "encore-mask",
+   "because": "the Encore reuses Tony's hammering over Doom's mask",
+   "certainty": "read"
+  },
+  {
+   "from": "wanda-buried",
+   "to": "doom-wakes-wanda",
+   "because": "buried but alive, she is dug out",
+   "certainty": "shown"
+  },
+  {
+   "from": "wandavision-grief",
+   "to": "visionquest-vision",
+   "because": "a copy of Vision survives Westview",
+   "certainty": "shown"
+  },
+  {
+   "from": "agatha-billy",
+   "to": "visionquest-vision",
+   "because": "Billy and Tommy turn up to help Vision",
+   "certainty": "shown"
+  },
+  {
+   "from": "visionquest-vision",
+   "to": "doom-wakes-wanda",
+   "because": "the same finale ends by cutting to Wanda",
+   "certainty": "shown"
+  },
+  {
+   "from": "steve-stays",
+   "to": "trailer-steve-ff",
+   "because": "his choice in the past leaves him a family there",
+   "certainty": "shown"
+  },
+  {
+   "from": "encore-loki-door",
+   "to": "trailer-steve-ff",
+   "because": "Loki's offer is read as what links them; not shown",
+   "certainty": "read"
+  },
+  {
+   "from": "ff-ship-arrives",
+   "to": "trailer-steve-ff",
+   "because": "after crossing over they reach Steve; why is not shown",
+   "certainty": "read"
+  },
+  {
+   "from": "ff-ship-arrives",
+   "to": "trailer-wakanda",
+   "because": "the ship's route takes it to Wakanda",
+   "certainty": "read"
+  },
+  {
+   "from": "trailer-steve-ff",
+   "to": "trailer-tower",
+   "because": "Steve goes with the Fantastic Four to the tower",
+   "certainty": "shown"
+  },
+  {
+   "from": "thunderbolts-escape",
+   "to": "trailer-tower",
+   "because": "the New Avengers are shown at the tower",
+   "certainty": "shown"
+  },
+  {
+   "from": "bob-void",
+   "to": "trailer-tower",
+   "because": "Bob is seen in the background at the tower",
+   "certainty": "shown"
+  },
+  {
+   "from": "bnw",
+   "to": "trailer-tower",
+   "because": "only link: Sam and Torres appear in the trailers",
+   "certainty": "read"
+  },
+  {
+   "from": "love-and-thunder",
+   "to": "trailer-tower",
+   "because": "Thor and his daughter Love appear together",
+   "certainty": "read"
+  },
+  {
+   "from": "quantumania-kang",
+   "to": "trailer-tower",
+   "because": "only link: Scott and Cassie appear in the trailers",
+   "certainty": "read"
+  },
+  {
+   "from": "special-look",
+   "to": "trailer-doom",
+   "because": "he is shown with a larger following",
+   "certainty": "read"
+  },
+  {
+   "from": "encore-mask",
+   "to": "trailer-doom",
+   "because": "the mask is the one Doom wears in the trailers",
+   "certainty": "read"
+  },
+  {
+   "from": "encore-banner-collected",
+   "to": "trailer-doom",
+   "because": "whether Banner is among them is not shown",
+   "certainty": "theory"
+  },
+  {
+   "from": "doom-wakes-wanda",
+   "to": "trailer-doom",
+   "because": "whether Wanda is among them is not shown",
+   "certainty": "theory"
+  },
+  {
+   "from": "special-look",
+   "to": "trailer-x-men",
+   "because": "he sends Sentinels and the X-Men fight them",
+   "certainty": "read"
+  },
+  {
+   "from": "encore-tva-collapse",
+   "to": "trailer-x-men",
+   "because": "the collapse is read as what brings them over",
+   "certainty": "read"
+  },
+  {
+   "from": "xmen-world",
+   "to": "trailer-x-men",
+   "because": "the same cast now appears in the trailers",
+   "certainty": "shown"
+  },
+  {
+   "from": "bnd-tracker",
+   "to": "doomsday",
+   "because": "only a theory: no film is named",
+   "certainty": "theory"
+  },
+  {
+   "from": "trailer-wakanda",
+   "to": "doomsday",
+   "because": "trailers show Wakanda in the story; why is not shown",
+   "certainty": "read"
+  },
+  {
+   "from": "trailer-steve-ff",
+   "to": "doomsday",
+   "because": "the trailers show them heading into the fight",
+   "certainty": "read"
+  },
+  {
+   "from": "trailer-tower",
+   "to": "doomsday",
+   "because": "the heroes gather to face Doom",
+   "certainty": "shown"
+  },
+  {
+   "from": "trailer-doom",
+   "to": "doomsday",
+   "because": "Doom is the villain the film is built around",
+   "certainty": "shown"
+  },
+  {
+   "from": "trailer-x-men",
+   "to": "doomsday",
+   "because": "the X-Men fight alongside the others",
+   "certainty": "shown"
+  },
+  {
+   "from": "encore-tva-collapse",
+   "to": "doomsday",
+   "because": "the Russos call the collapse critical to the story",
+   "certainty": "read"
+  }
+ ],
+ "doom": [
+  {
+   "id": "d-franklin",
+   "target": "Franklin Richards",
+   "title": "A cloaked figure kneels beside Franklin holding a mask",
+   "what": "In the First Steps credits scene, a figure in a green cloak and hood kneels beside Franklin, holding a metal mask. His face is not shown and he is not named; he is read as Doom. Why he is there is not explained.",
+   "status": "approached",
+   "certainty": "read",
+   "beat": "doom-meets-franklin",
+   "sourceUrls": [
+    "https://www.thewrap.com/fantastic-four-post-credits-scene-explained",
+    "https://nerdist.com/article/the-fantastic-four-first-steps-mid-credits-scene-explained"
+   ]
+  },
+  {
+   "id": "d-banner",
+   "target": "Bruce Banner and the Hulk",
+   "title": "An unseen voice says he has come to collect Banner, and Banner vanishes",
+   "what": "In the Endgame Encore credits, an off-screen voice says he has come to collect Bruce Banner. A Hulk roar is heard and both are gone, leaving green markings. Doom is not seen or named on screen; he is read as Doom. Where Banner went is not shown, and the Hulk is heard, not seen.",
+   "status": "taken",
+   "certainty": "read",
+   "beat": "encore-banner-collected",
+   "sourceUrls": [
+    "https://www.bgr.com/2267652/avengers-endgame-encore-ending-post-credits-scenes-descriptions/",
+    "https://www.thewrap.com/creative-content/movies/whats-in-avengers-endgame-encore-new-footage-doomsday/",
+    "https://nerdist.com/article/what-avengers-endgame-encore-four-new-scenes-mean-for-doomsday/",
+    "https://www.slashfilm.com/2269097/avengers-endgame-encore-new-ending-post-credits-scenes-explained/",
+    "https://www.cinemablend.com/movies/i-grabbed-avengers-endgame-encore-doomsday-scene-timestamps"
+   ]
+  },
+  {
+   "id": "d-wanda",
+   "target": "Wanda Maximoff",
+   "title": "A hooded man frees Wanda and says her power will be his",
+   "what": "In the VisionQuest finale, a hooded man in shadow lifts the rubble from Wanda with green magic and says her power will be his. She wakes and does not speak. He is not named and is read as Doom. Nothing shows him taking her anywhere.",
+   "status": "approached",
+   "certainty": "read",
+   "beat": "doom-wakes-wanda",
+   "sourceUrls": [
+    "https://www.slashfilm.com/2313195/visionquest-avengers-doomsday-post-credits-scene-scarlet-witch/",
+    "https://www.ibtimes.co.uk/doctor-doom-awakens-scarlet-witch-visionquest-finale-1831639",
+    "https://www.looper.com/2313286/scarlet-witch-visionquest-post-credits-avengers-doomsday-meaning/",
+    "https://kotaku.com/visionquest-post-credits-wanda-scarlet-witch-doctor-doom-doomsday-2000755899"
+   ]
+  },
+  {
+   "id": "d-sentinels",
+   "target": "The Sentinels",
+   "title": "Doom raises an army of Sentinels",
+   "what": "In the August special look, Doom summons a group of Sentinels, the mutant-hunting robots, after knocking Thor back. He says, \"Hell answers to me, for I am Doom.\"",
+   "status": "taken",
+   "certainty": "shown",
+   "beat": "special-look",
+   "sourceUrls": [
+    "https://hypebeast.com/2026/8/disney-d23-mcu-robert-downey-jr-doctor-doom-unleashes-sentinels-explosive-new-avengers-doomsday-trailer-chris-evans-pedro-pascal-chris-hemsworth",
+    "https://www.netflixjunkie.com/hollywood-news-avengers-doomsday-debuts-mutants-deadliest-foe-even-before-the-heroes-arrival/",
+    "https://cosmicbook.news/avengers-doomsday-special-look-d23"
+   ]
+  },
+  {
+   "id": "d-stolen-lives",
+   "target": "Everyone who has lived \"stolen lives\"",
+   "title": "Doom says the heroes must give their lives back",
+   "what": "In the trailers, Doom tells the heroes that all of them have lived stolen lives and must give them back. The trailers do not say who stole what, or what he will do.",
+   "status": "wants",
+   "certainty": "shown",
+   "beat": "trailer-doom",
+   "sourceUrls": [
+    "https://abcnews.com/GMA/Culture/avengers-doomsday-final-trailer-released/story?id=138375955",
+    "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+    "https://www.netflixjunkie.com/hollywood-news-avengers-doomsday-debuts-mutants-deadliest-foe-even-before-the-heroes-arrival/",
+    "https://cosmicbook.news/avengers-doomsday-special-look-d23"
+   ]
+  },
+  {
+   "id": "d-witches",
+   "target": "Latverian witches and followers",
+   "title": "Doom is shown with a large following; who is in it is not",
+   "what": "The final trailer shows Doom with three close followers and many witches from Latveria. They are not named. Guesses that Wanda or Banner are among them are not backed by anything shown.",
+   "status": "unknown",
+   "certainty": "theory",
+   "beat": "trailer-doom",
+   "sourceUrls": [
+    "https://gizmodo.com/everything-we-noticed-in-the-final-trailer-for-avengers-doomsday-2000843986",
+    "https://screenrant.com/avengers-doomsday-final-trailer-breakdown-new-scenes-ranked-explained/"
+   ]
+  },
+  {
+   "id": "d-more",
+   "target": "Others, unnamed",
+   "title": "Joe Russo says Doom's interest may go beyond Banner",
+   "what": "Co-director Joe Russo said Doom's interest may extend beyond just Banner, and that Banner is involved in Doom's story. He would not say who else, or whether Hulk is in the film.",
+   "status": "unknown",
+   "certainty": "read",
+   "beat": "encore-banner-collected",
+   "sourceUrls": [
+    "https://www.cinemablend.com/movies/what-does-hulks-endgame-encore-scene-mean-russo-brothers-doomsday-connection",
+    "https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-directors-reveal-hulk-is-involved-in-doctor-dooms-story-explain-endgames-tva-scene-a230124"
+   ]
+  },
+  {
+   "id": "d-peter",
+   "target": "Peter Parker (theory)",
+   "title": "A theory says Doom already has Spider-Man",
+   "what": "Some viewers match the screen glitching in Banner's Encore scene to the glitch on Ned's Spider-Man tracker, and guess Doom took Peter too. Nothing on screen shows Doom with Peter, and Marvel has not announced Tom Holland for the film.",
+   "status": "unknown",
+   "certainty": "theory",
+   "beat": "bnd-tracker",
+   "sourceUrls": [
+    "https://comicbookmovie.com/avengers/avengers-endgame/avengers-endgame-encore-may-have-explained-one-of-spider-man-brand-new-days-biggest-mysteries-a230081"
+   ]
+  }
+ ],
+ "start": "avengers-form",
+ "starts": [
+  "avengers-form",
+  "xmen-world",
+  "ff-earth-828",
+  "wakanda-forever"
+ ],
+ "end": "doomsday"
+}

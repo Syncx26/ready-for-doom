@@ -1,0 +1,3914 @@
+[
+ {
+  "id": "iron-man",
+  "title": "Iron Man",
+  "type": "film",
+  "release": "2008-05-02",
+  "year": 2008,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 2008,
+  "threads": [
+   "infinity"
+  ],
+  "essential": 3,
+  "oneLiner": "A weapons billionaire builds a suit in a cave and starts the whole thing.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Pepper Potts",
+    "slug": "pepper-potts"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "James Rhodes",
+    "slug": "james-rhodes"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Tony Stark, a rich and cocky weapons maker, is wounded by one of his own company's missiles and captured by the Ten Rings in Afghanistan. With fellow prisoner Yinsen he builds an arc reactor and a crude armored suit, and escapes, though Yinsen dies. Back home Tony shuts down weapons production and builds a far better suit. His father's old partner Obadiah Stane has been selling arms behind his back, and he takes the fight to Tony in a giant armor of his own."
+   },
+   {
+    "title": "Key moments",
+    "body": "The first suit is hammered together in a cave from scrap and spare parts. Tony's test flights in the improved suit are rough, with plenty of crashes. At the closing press conference he drops the cover story and says he is Iron Man. In the rooftop finale Pepper Potts overloads the big arc reactor on the Stark building, which finishes Stane."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits, Tony comes home to find Nick Fury waiting in his house. Fury says Tony has become part of a bigger universe and brings up the Avengers Initiative. This was the first hint of a shared world of connected films. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is where Tony Stark begins. Robert Downey Jr. is confirmed for Doomsday as Doctor Doom, not Tony, so his face is now tied to the villain. Nothing shown so far explains the link between Tony and Doom; any connection is a fan theory. Tony's arc from selfish genius to self-sacrifice is the emotional spine of the Avengers films that follow."
+   }
+  ],
+  "watchNote": "Start here if you want the full run-up",
+  "runtime": 126
+ },
+ {
+  "id": "the-incredible-hulk",
+  "title": "The Incredible Hulk",
+  "type": "film",
+  "release": "2008-06-13",
+  "year": 2008,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 2010,
+  "threads": [
+   "cap",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "Bruce Banner hides from the army while searching for a cure for the monster inside him.",
+  "characters": [
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   },
+   {
+    "name": "General Thaddeus Ross",
+    "slug": "thaddeus-ross"
+   },
+   {
+    "name": "Emil Blonsky / Abomination",
+    "slug": "emil-blonsky"
+   },
+   {
+    "name": "Betty Ross",
+    "slug": "betty-ross"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Bruce Banner is on the run, hiding in Rio de Janeiro and quietly hunting a cure for the Hulk, a monster born from a military experiment gone wrong. General Thaddeus Ross, father of Bruce's old love Betty, wants him back for the army, and sends soldier Emil Blonsky to catch him. Blonsky is given a super-soldier serum and wants more. The chase moves to the United States, and Blonsky ends up as the Abomination, a rampaging monster of his own."
+   },
+   {
+    "title": "Key moments",
+    "body": "Bruce tries to stay calm with breathing exercises and a heart-rate monitor, which fail when it matters. The chase through a Rio favela is an early highlight. The final fight in Harlem has the Hulk and the Abomination tearing up a city street. Bruce also reunites with Betty, and he leaves still trying to master the Hulk."
+   },
+   {
+    "title": "Post-credits",
+    "body": "This film has no true credits scene. Its last scene, right before the credits roll, shows Tony Stark walking up to Ross in a bar and telling him a team is being put together. Fans often count it as the post-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. Thaddeus Ross starts here as a military hunter, later becomes Secretary of State and then President, and turns into the Red Hulk at the end of Captain America: Brave New World. Ross is not on Doomsday's official cast list, and no reliable report places him in the film. Optional viewing if you are short on time."
+   }
+  ],
+  "runtime": 112
+ },
+ {
+  "id": "iron-man-2",
+  "title": "Iron Man 2",
+  "type": "film",
+  "release": "2010-05-07",
+  "year": 2010,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 2010,
+  "threads": [
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "Tony Stark goes public as Iron Man while his own power source is quietly killing him.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Natasha Romanoff / Black Widow",
+    "slug": "natasha-romanoff"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "James Rhodes",
+    "slug": "james-rhodes"
+   },
+   {
+    "name": "Howard Stark",
+    "slug": "howard-stark"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "With the world knowing he is Iron Man, Tony Stark refuses to hand his tech to the US government. The palladium core in his chest is slowly poisoning him, and he starts acting recklessly. Ivan Vanko, a Russian physicist whose father once worked with Tony's father Howard, builds his own arc reactor and electric whips to take revenge. Rival Justin Hammer breaks him out of prison and puts him to work. Nick Fury and Natasha Romanoff, working undercover as Tony's assistant, help steer Tony toward a cure."
+   },
+   {
+    "title": "Key moments",
+    "body": "Tony gets drunk at his own birthday party in the suit and fights Rhodey, who ends up taking a suit for the Air Force. Fury hands Tony Howard's old materials, and in a model of the 1974 Stark Expo Tony finds the diagram of a new element that can replace palladium. Natasha is revealed as a SHIELD agent and shows off her fighting skills in a hallway scene. In the finale Tony and Rhodey fight Vanko and his drones side by side."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits, Agent Phil Coulson drives through the New Mexico desert and finds a huge hammer sitting in a crater. It is Thor's hammer, and the scene sets up Thor. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. It deepens Tony's bond with his father Howard, introduces Natasha Romanoff, and shows Tony fighting government control of his technology, which echoes in later arguments over oversight. For Doomsday the link is Tony's legacy and family name, not any plot thread. Skip it if you are short on time."
+   }
+  ],
+  "runtime": 124
+ },
+ {
+  "id": "thor",
+  "title": "Thor",
+  "type": "film",
+  "release": "2011-05-06",
+  "year": 2011,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 2010,
+  "threads": [
+   "cosmic",
+   "infinity"
+  ],
+  "essential": 2,
+  "oneLiner": "An arrogant Asgardian god is banished to Earth and has to earn back his hammer.",
+  "characters": [
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Loki",
+    "slug": "loki"
+   },
+   {
+    "name": "Jane Foster",
+    "slug": "jane-foster"
+   },
+   {
+    "name": "Odin",
+    "slug": "odin"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Thor is the proud, hot-headed son of Odin, king of Asgard. When he starts a fight with the Frost Giants of Jotunheim, Odin strips him of his powers and sends him to Earth, where he lands in New Mexico and meets astrophysicist Jane Foster. His hammer Mjolnir lands in a desert nearby, and SHIELD takes control of the site. Meanwhile his adopted brother Loki learns he is a Frost Giant by birth and schemes to take the throne."
+   },
+   {
+    "title": "Key moments",
+    "body": "Thor learns humility when he cannot lift his own hammer. Loki's discovery that he was adopted from the Frost Giants drives the film's emotional core. Thor offers his life to the Destroyer to save his friends, which makes him worthy of Mjolnir again. The finale on the Bifrost bridge ends with Loki letting himself fall into space."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits, Erik Selvig, Jane's mentor, is brought to a SHIELD facility, where Nick Fury shows him a glowing cube, the Tesseract. Loki, who survived his fall, secretly nudges Selvig into agreeing to study it. The scene sets up The Avengers. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Two strong links. Loki is confirmed for Doomsday, and his road from jealous brother to villain to the Loki series leads straight to it. The Tesseract seen here is the first Infinity Stone shown on screen. Thor, also confirmed, starts as a prince who must learn what a king owes his people."
+   }
+  ],
+  "watchNote": "Watch before Avengers (2012)",
+  "runtime": 115
+ },
+ {
+  "id": "captain-america-the-first-avenger",
+  "title": "Captain America: The First Avenger",
+  "type": "film",
+  "release": "2011-07-22",
+  "year": 2011,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 1943,
+  "threads": [
+   "cap",
+   "infinity"
+  ],
+  "essential": 3,
+  "oneLiner": "A skinny kid from Brooklyn becomes a super-soldier and fights Hydra in World War II.",
+  "characters": [
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Peggy Carter",
+    "slug": "peggy-carter"
+   },
+   {
+    "name": "Bucky Barnes",
+    "slug": "bucky-barnes"
+   },
+   {
+    "name": "Red Skull",
+    "slug": "red-skull"
+   },
+   {
+    "name": "Howard Stark",
+    "slug": "howard-stark"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "In 1940s Brooklyn, Steve Rogers is a small, sickly young man who keeps trying to join the army. Dr. Erskine picks him for a secret experiment that turns him into a super-soldier. He fights Hydra, a Nazi science branch led by Johann Schmidt, the Red Skull, who is powered by a glowing cube from Asgard, the Tesseract. Steve leads a team that includes his best friend Bucky Barnes and works with British agent Peggy Carter."
+   },
+   {
+    "title": "Key moments",
+    "body": "Steve throws himself on what he thinks is a live grenade, proving he is right for the program. He rescues Bucky and hundreds of captured soldiers from a Hydra base. In 1945 he crashes a Hydra bomber into the Arctic ice, and his last radio call with Peggy promises a dance he knows he will miss. He wakes decades later and runs into modern Times Square, where Nick Fury tells him he has been asleep for almost seventy years."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits there is a teaser for The Avengers: Fury offers Steve a mission with worldwide stakes. It is a preview of the next film rather than a story scene. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "One of the strongest hooks in the run-up. Steve Rogers (Chris Evans) and Peggy Carter (Hayley Atwell) are both on Doomsday's confirmed cast, and a teenage son of theirs appears in the final trailer. This film is where their story and that unfinished dance begin. Bucky Barnes, also confirmed, starts here as Steve's best friend, and Hydra and the Tesseract keep coming back. Watch this one."
+   }
+  ],
+  "watchNote": "Watch before Avengers (2012)",
+  "runtime": 124
+ },
+ {
+  "id": "the-avengers",
+  "title": "The Avengers",
+  "type": "film",
+  "release": "2012-05-04",
+  "year": 2012,
+  "phase": 1,
+  "saga": "infinity",
+  "chrono": 2012,
+  "threads": [
+   "infinity",
+   "cap"
+  ],
+  "essential": 3,
+  "oneLiner": "Earth's mightiest heroes team up for the first time to stop Loki and an alien army.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   },
+   {
+    "name": "Natasha Romanoff / Black Widow",
+    "slug": "natasha-romanoff"
+   },
+   {
+    "name": "Clint Barton / Hawkeye",
+    "slug": "clint-barton"
+   },
+   {
+    "name": "Loki",
+    "slug": "loki"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Loki arrives on Earth, steals the Tesseract from SHIELD and takes control of several people, including Hawkeye and scientist Erik Selvig. He plans to open a portal for the Chitauri, an alien army, to invade New York. Nick Fury gathers Iron Man, Captain America, Thor, the Hulk and Black Widow. They bicker at first, but the death of Agent Coulson pushes them to fight as a team."
+   },
+   {
+    "title": "Key moments",
+    "body": "The heroes argue aboard the SHIELD flying base until it is attacked from inside. Tony and Steve clash over leadership. In the New York battle the Hulk slams Loki around like a rag doll. The team fights side by side for the first time, and Tony flies a nuclear missile through the portal into space, nearly dying."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, the alien Other reports the failure to his master, and a purple-faced figure, Thanos, turns and smiles at the camera. In the post-credits scene, the team sits silently eating shawarma in a restaurant after the battle."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the template Doomsday follows: heroes joining forces against something bigger than any of them. Loki's capture here and his escape with the Tesseract during the time heist in Endgame is what leads into the Loki series and the multiverse. Thanos is first seen here. The New York battle also changes how the world sees super-powered people, which feeds into the later arguments over oversight."
+   }
+  ],
+  "watchNote": "Watch before Avengers: Age of Ultron",
+  "runtime": 143
+ },
+ {
+  "id": "iron-man-3",
+  "title": "Iron Man 3",
+  "type": "film",
+  "release": "2013-05-03",
+  "year": 2013,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2013,
+  "threads": [
+   "infinity"
+  ],
+  "essential": 2,
+  "oneLiner": "A shaken Tony Stark has to fight without his suits after a terrorist attacks his home.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Pepper Potts",
+    "slug": "pepper-potts"
+   },
+   {
+    "name": "James Rhodes",
+    "slug": "james-rhodes"
+   },
+   {
+    "name": "Aldrich Killian",
+    "slug": "aldrich-killian"
+   },
+   {
+    "name": "The Mandarin",
+    "slug": "the-mandarin"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After the Battle of New York, Tony Stark can't sleep. He has panic attacks and spends his nights building suits. A terrorist called the Mandarin keeps carrying out bombings, and when one badly hurts Tony's friend Happy, Tony publicly challenges him. Helicopters wreck Tony's Malibu house, and he ends up stranded in Tennessee with a damaged suit and a boy named Harley. He has to work out how to be Iron Man with limited gear."
+   },
+   {
+    "title": "Key moments",
+    "body": "Tony's mansion is blown into the sea. In Tennessee he builds weapons from hardware-store supplies. The Mandarin turns out to be an actor, Trevor Slattery, fronting for Aldrich Killian, who has been running a program called Extremis. In the finale Tony calls in his remote-controlled suits to fight alongside Rhodey, and Pepper, who was injected with Extremis, kills Killian. Tony then has the shrapnel near his heart removed."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits, Tony is telling his story to Bruce Banner, who has fallen asleep in his chair and missed all of it. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Helpful rather than essential. It completes Tony's solo arc, as he stops being defined by the suit, which the Tony of Endgame later builds on. Because Robert Downey Jr. is back in Doomsday as Doctor Doom, knowing how Tony's own story ended gives that casting weight. No plot thread from this film is tied to Doomsday. Watch order note: the official Disney+ order puts Thor: The Dark World before this film."
+   }
+  ],
+  "runtime": 130
+ },
+ {
+  "id": "thor-the-dark-world",
+  "title": "Thor: The Dark World",
+  "type": "film",
+  "release": "2013-11-08",
+  "year": 2013,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2013,
+  "threads": [
+   "cosmic",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "Thor must team up with Loki to stop an ancient dark elf from destroying the universe.",
+  "characters": [
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Loki",
+    "slug": "loki"
+   },
+   {
+    "name": "Jane Foster",
+    "slug": "jane-foster"
+   },
+   {
+    "name": "Odin",
+    "slug": "odin"
+   },
+   {
+    "name": "Malekith",
+    "slug": "malekith"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Jane Foster stumbles into the Aether, a red force that the dark elf Malekith wants to use to plunge the universe into darkness, and it enters her body. Thor brings her to Asgard to protect her, but Malekith attacks the city anyway. To get Jane out and stop him, Thor has to ask for help from his imprisoned brother Loki, whom he does not trust."
+   },
+   {
+    "title": "Key moments",
+    "body": "Thor and Loki escape Asgard together in a stolen ship, which gives the film its funniest moments. Thor's mother Frigga is killed during Malekith's attack. On Svartalfheim Loki seems to die after killing one of Malekith's soldiers, and Thor mourns him. The finale is set around London, where portals between worlds open and Thor fights Malekith across several of them while Jane and her team use science equipment to send Malekith away."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, Sif and Volstagg leave the Aether with the Collector, who says he wants the other Infinity Stones. In the post-credits scene, Jane and Thor are together again on Earth, and a creature from another realm wanders into the street."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. The Aether is revealed to be an Infinity Stone, the Reality Stone, and the Collector hints at a larger cosmic story. Loki's death here is not what it seems, and Loki is confirmed for Doomsday. Fans often rank this among the weaker films, so it is safe to skip if you are short on time."
+   }
+  ],
+  "runtime": 112
+ },
+ {
+  "id": "captain-america-the-winter-soldier",
+  "title": "Captain America: The Winter Soldier",
+  "type": "film",
+  "release": "2014-04-04",
+  "year": 2014,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2014,
+  "threads": [
+   "cap",
+   "infinity"
+  ],
+  "essential": 3,
+  "oneLiner": "Steve Rogers uncovers a conspiracy inside SHIELD and faces a deadly assassin from his past.",
+  "characters": [
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Bucky Barnes / Winter Soldier",
+    "slug": "bucky-barnes"
+   },
+   {
+    "name": "Sam Wilson / Falcon",
+    "slug": "sam-wilson"
+   },
+   {
+    "name": "Natasha Romanoff / Black Widow",
+    "slug": "natasha-romanoff"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "Alexander Pierce",
+    "slug": "alexander-pierce"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Two years after New York, Steve Rogers works for SHIELD but is uneasy about its secrets. When Nick Fury is ambushed, Steve is pulled into a conspiracy that reaches the top of the organization. He and Natasha go on the run, with help from a former soldier named Sam Wilson. A masked assassin called the Winter Soldier hunts them, and Steve slowly realizes the killer is someone he knew."
+   },
+   {
+    "title": "Key moments",
+    "body": "Steve takes on a whole group of hostile agents in an elevator, a fan favorite. The reveal that Hydra has been hiding inside SHIELD turns the film on its head. In the finale on SHIELD's flying carriers, Steve refuses to fight the Winter Soldier, who he knows is Bucky, and that cracks something in his old friend's mind. Sam joins as a friend, not a sidekick."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, Baron Strucker, a Hydra scientist, talks about his work with Loki's scepter and two enhanced twins, Wanda and Pietro. In the post-credits scene, Bucky visits a museum exhibit about his own past and stares at it, trying to understand who he was."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Essential. Sam Wilson, now Captain America, and Bucky Barnes are both on the confirmed Doomsday cast, and this is where their friendship with Steve begins. Hydra's survival leads to the Maximoff twins. Wanda is rumored for Doomsday but not announced."
+   }
+  ],
+  "watchNote": "Watch before Avengers: Age of Ultron",
+  "runtime": 136
+ },
+ {
+  "id": "guardians-of-the-galaxy",
+  "title": "Guardians of the Galaxy",
+  "type": "film",
+  "release": "2014-08-01",
+  "year": 2014,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2014,
+  "threads": [
+   "cosmic",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "A scavenger from Earth and a band of misfits team up to stop a fanatic from destroying a planet.",
+  "characters": [
+   {
+    "name": "Peter Quill / Star-Lord",
+    "slug": "peter-quill"
+   },
+   {
+    "name": "Gamora",
+    "slug": "gamora"
+   },
+   {
+    "name": "Drax",
+    "slug": "drax"
+   },
+   {
+    "name": "Rocket",
+    "slug": "rocket"
+   },
+   {
+    "name": "Groot",
+    "slug": "groot"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Peter Quill was taken from Earth as a child and grew up as a space thief. He steals a mysterious orb and is hunted by a zealot named Ronan the Accuser. He ends up in prison alongside the assassin Gamora, the grieving warrior Drax, a talking raccoon named Rocket and a tree-like creature called Groot. Together they decide to stop Ronan from using the orb to wipe out a world."
+   },
+   {
+    "title": "Key moments",
+    "body": "Peter's dance in the opening scene sets the tone. The prison break shows off the team's chemistry. Groot sacrifices himself to protect his friends with the line \"We are Groot.\" In the final fight the group shares the orb's power together, and Peter distracts Ronan with a dance-off."
+   },
+   {
+    "title": "Post-credits",
+    "body": "After the credits, the Collector sits in his wrecked archive with a few of his exhibits, including a cosmonaut dog and Howard the Duck, who glares at the camera with a drink. It is a joke and a nod to an old Marvel comic, not a plot point. There is no mid-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. The orb contains the Power Stone, and Thanos and his adopted daughters Gamora and Nebula are introduced here, which sets up Infinity War. None of the Guardians, including Star-Lord, is on Doomsday's announced cast. The film is about the cosmic side of the universe, not the multiverse, so watch it only if you want to understand Rocket, Nebula or Peter Quill."
+   }
+  ],
+  "runtime": 122
+ },
+ {
+  "id": "avengers-age-of-ultron",
+  "title": "Avengers: Age of Ultron",
+  "type": "film",
+  "release": "2015-05-01",
+  "year": 2015,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2015,
+  "threads": [
+   "wanda",
+   "infinity"
+  ],
+  "essential": 3,
+  "oneLiner": "Tony Stark's attempt to protect the world creates Ultron, a killer AI with a plan to end humanity.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Wanda Maximoff / Scarlet Witch",
+    "slug": "wanda-maximoff"
+   },
+   {
+    "name": "Pietro Maximoff / Quicksilver",
+    "slug": "pietro-maximoff"
+   },
+   {
+    "name": "Ultron",
+    "slug": "ultron"
+   },
+   {
+    "name": "Vision",
+    "slug": "vision"
+   },
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The Avengers raid a Hydra base and take back Loki's scepter, which holds the Mind Stone. Tony and Bruce use its energy to try to build an AI called Ultron to protect the world. Instead Ultron decides humans are the problem and builds himself a robotic army. He is joined by twins Wanda and Pietro Maximoff, who blame Stark weapons for their parents' deaths. The team argues and fractures before it can stop him."
+   },
+   {
+    "title": "Key moments",
+    "body": "At a party everyone tries to lift Thor's hammer and fails. Wanda messes with each hero's mind, showing their worst fears. The Hulk fights Iron Man in a ruined Johannesburg in the Hulkbuster suit. Later Vision, the new being created from the scepter's stone, picks up the hammer and wins the team's trust. The final fight defends a floating city in Sokovia, and Pietro does not survive."
+   },
+   {
+    "title": "Post-credits",
+    "body": "In the mid-credits scene, Thanos, in golden armor, puts on the Infinity Gauntlet and says he will do it himself. It sets up Infinity War. There is no scene after the credits."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Essential for the Avengers backstory. Wanda Maximoff's arc begins here, and her brother's death is the root of much of her pain. Wanda and Vision are rumored for Doomsday but neither is on the official cast list. The film shows Tony's habit of building something too big to control, and the team splitting sets up Civil War."
+   }
+  ],
+  "watchNote": "Watch before Captain America: Civil War",
+  "runtime": 141
+ },
+ {
+  "id": "ant-man",
+  "title": "Ant-Man",
+  "type": "film",
+  "release": "2015-07-17",
+  "year": 2015,
+  "phase": 2,
+  "saga": "infinity",
+  "chrono": 2015,
+  "threads": [
+   "multiverse",
+   "cap"
+  ],
+  "essential": 2,
+  "oneLiner": "A thief with a heart gets a suit that shrinks him, and a mentor with a secret.",
+  "characters": [
+   {
+    "name": "Scott Lang / Ant-Man",
+    "slug": "scott-lang"
+   },
+   {
+    "name": "Hank Pym",
+    "slug": "hank-pym"
+   },
+   {
+    "name": "Hope van Dyne",
+    "slug": "hope-van-dyne"
+   },
+   {
+    "name": "Darren Cross / Yellowjacket",
+    "slug": "darren-cross"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Scott Lang is an ex-convict trying to get back to his young daughter Cassie but can't find work. Scientist Hank Pym recruits him to steal a dangerous piece of technology from Pym's old company, now run by his former student Darren Cross. Cross has built a suit like Pym's shrinking tech, the Yellowjacket, and plans to sell it. Hank trains Scott with the Ant-Man suit with the help of his estranged daughter Hope."
+   },
+   {
+    "title": "Key moments",
+    "body": "Scott shrinks for the first time in a bathtub and nearly gets washed away. His training with ants is a highlight. The heist uses tiny size and sharp timing, and the finale is a fight with Cross that ends in Cassie's bedroom. Scott shrinks past the point of no return into the Quantum Realm and finds a way back."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, Hank shows Hope a Wasp suit and tells her it is time. In the post-credits scene, Steve Rogers and Sam Wilson have Bucky in custody, and Sam says he knows someone who can help them reach Tony Stark, leading into Civil War."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Helpful. The Quantum Realm, which Scott enters here, becomes the key to time travel in Endgame. Scott Lang and his daughter Cassie (Kathryn Newton) are both confirmed for Doomsday, so this is the best place to see who Scott is. Hank Pym and Hope van Dyne are not on the official cast list."
+   }
+  ],
+  "runtime": 117
+ },
+ {
+  "id": "captain-america-civil-war",
+  "title": "Captain America: Civil War",
+  "type": "film",
+  "release": "2016-05-06",
+  "year": 2016,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2016,
+  "threads": [
+   "cap",
+   "infinity",
+   "spider"
+  ],
+  "essential": 3,
+  "oneLiner": "The government wants to leash the Avengers, and Steve Rogers and Tony Stark end up on opposite sides.",
+  "characters": [
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Bucky Barnes / Winter Soldier",
+    "slug": "bucky-barnes"
+   },
+   {
+    "name": "T'Challa / Black Panther",
+    "slug": "tchalla"
+   },
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "Thaddeus Ross",
+    "slug": "thaddeus-ross"
+   },
+   {
+    "name": "Zemo",
+    "slug": "zemo"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After a mission in Lagos ends with civilian deaths, the UN pushes the Sokovia Accords, which would put the Avengers under official oversight. Tony Stark supports it, guilty over the damage Ultron caused. Steve Rogers refuses, afraid of being ordered into the wrong fights. It turns personal when Bucky Barnes, Steve's brainwashed best friend, is blamed for a deadly bombing. The team splits into two sides while a quiet villain named Zemo works to tear it apart."
+   },
+   {
+    "title": "Key moments",
+    "body": "The airport fight has both teams squaring off, with Ant-Man growing giant and Spider-Man appearing in the MCU for the first time. T'Challa joins as Black Panther, chasing Bucky for revenge after his father is killed. The film ends in a Siberian bunker, where Zemo shows Tony footage proving that Bucky, under mind control, killed Tony's parents. Tony and Steve fight brutally, Steve leaves his shield behind, and the Avengers are left broken. Steve later breaks his teammates out of the Raft prison."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, Bucky chooses to go back into cryogenic sleep in Wakanda until his brainwashing can be undone. In the post-credits scene, Peter Parker tests his new web shooters in his bedroom in Queens."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is where the Sokovia Accords and the Avengers split come from. Steve Rogers, Bucky Barnes and Sam Wilson, who fought on the same side here, are all confirmed for Doomsday. Thaddeus Ross is the government face pushing the Accords, but he is not on the official cast list. The film also defines the Tony and Steve relationship, which adds weight to Robert Downey Jr.'s return as Doctor Doom. Essential viewing."
+   }
+  ],
+  "runtime": 147
+ },
+ {
+  "id": "doctor-strange",
+  "title": "Doctor Strange",
+  "type": "film",
+  "release": "2016-11-04",
+  "year": 2016,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2016,
+  "threads": [
+   "magic",
+   "multiverse",
+   "infinity"
+  ],
+  "essential": 2,
+  "oneLiner": "A brilliant surgeon loses his hands in a crash and finds a hidden world of sorcery.",
+  "characters": [
+   {
+    "name": "Stephen Strange / Doctor Strange",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "Wong",
+    "slug": "wong"
+   },
+   {
+    "name": "Karl Mordo",
+    "slug": "mordo"
+   },
+   {
+    "name": "The Ancient One",
+    "slug": "ancient-one"
+   },
+   {
+    "name": "Kaecilius",
+    "slug": "kaecilius"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Stephen Strange is a famous, arrogant neurosurgeon whose hands are wrecked in a car accident. Desperate for a cure, he travels to Kathmandu and finds Kamar-Taj, a school where sorcerers guard Earth from magical threats. Under the Ancient One he learns to bend reality and open portals. A rogue former student named Kaecilius wants to bring the Dark Dimension, ruled by the being Dormammu, to Earth, so Strange has to learn fast."
+   },
+   {
+    "title": "Key moments",
+    "body": "The Ancient One shows Strange other dimensions and the wider multiverse. Strange takes up the Eye of Agamotto, which holds the Time Stone, one of the six Infinity Stones. In the final fight he traps Dormammu in a time loop until Dormammu gives up and leaves Earth alone. Strange settles in the New York Sanctum, with Wong as the librarian at his side."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. In the mid-credits scene, Thor visits Strange, searching for his father Odin, and Strange agrees to help, setting up Thor: Ragnarok. In the post-credits scene, Mordo, disturbed by Strange bending the laws of nature, steals the magic from another sorcerer, hinting that he is turning into an enemy."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This film puts the multiverse into the MCU for the first time and introduces the Time Stone, which decides the fate of the universe in Infinity War. Strange is the character most tied to the multiverse, but he is not on Doomsday's official cast list and reports on his involvement conflict. Treat any Strange role as speculation."
+   }
+  ],
+  "runtime": 115
+ },
+ {
+  "id": "guardians-of-the-galaxy-vol-2",
+  "title": "Guardians of the Galaxy Vol. 2",
+  "type": "film",
+  "release": "2017-05-05",
+  "year": 2017,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2014,
+  "threads": [
+   "cosmic",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "The Guardians run from a vengeful alien race while Peter Quill meets the father he never knew.",
+  "characters": [
+   {
+    "name": "Peter Quill / Star-Lord",
+    "slug": "peter-quill"
+   },
+   {
+    "name": "Gamora",
+    "slug": "gamora"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   },
+   {
+    "name": "Rocket",
+    "slug": "rocket"
+   },
+   {
+    "name": "Drax",
+    "slug": "drax"
+   },
+   {
+    "name": "Baby Groot",
+    "slug": "groot"
+   },
+   {
+    "name": "Mantis",
+    "slug": "mantis"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The Guardians cross the galaxy as hired heroes, but they make an enemy of the golden Sovereign race after Rocket steals from them. A mysterious figure destroys the Sovereign's attack drones and turns out to be Ego, who says he is Peter Quill's father and takes Peter, Gamora and Drax to his home planet. Ego seems kind at first, but his plan for the universe is far darker. Meanwhile Yondu, the outlaw who raised Peter, is hired to hunt the Guardians and then faces a mutiny among his own crew."
+   },
+   {
+    "title": "Key moments",
+    "body": "Ego reveals he is a Celestial, a god-like being, and that he wants to spread himself across every world, having killed his other children along the way. The team fights to stop him, with Rocket building a bomb from the stolen Sovereign batteries, while Gamora and her sister Nebula finally face their painful past. Yondu sacrifices himself to save Peter, and the Ravagers and Guardians hold a funeral for him. The tone is funny throughout, but the family drama is the real core."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Five extra scenes: four play during the credits and one at the very end. Kraglin fumbles with Yondu's arrow, Peter tells a teenage Groot to clean his room, Stakar Ogord (Sylvester Stallone) reunites with other original Ravager captains, and Ayesha begins creating a new being, Adam, a nod to Adam Warlock. The final gag has Stan Lee telling the Watchers about his cameos. Mostly jokes and small setups."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. It deepens the Guardians and the Gamora and Nebula bond, and introduces Mantis, who returns in Infinity War. No Guardians are confirmed for Doomsday, and the Celestial and Adam Warlock setups matter more to later cosmic stories. Skip it if you are short on time."
+   }
+  ],
+  "runtime": 136
+ },
+ {
+  "id": "spider-man-homecoming",
+  "title": "Spider-Man: Homecoming",
+  "type": "film",
+  "release": "2017-07-07",
+  "year": 2017,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2016,
+  "threads": [
+   "spider",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "A teenage Peter Parker tries to prove himself to Tony Stark while chasing a weapons dealer.",
+  "characters": [
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Happy Hogan",
+    "slug": "happy-hogan"
+   },
+   {
+    "name": "Ned Leeds",
+    "slug": "ned-leeds"
+   },
+   {
+    "name": "MJ",
+    "slug": "mj-watson"
+   },
+   {
+    "name": "Adrian Toomes / Vulture",
+    "slug": "vulture"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Fifteen-year-old Peter Parker is back at school in Queens after his Civil War adventure, desperate to be a real Avenger. Tony Stark keeps him at arm's length and tells him to stay a friendly neighborhood hero. Peter ignores that after he spots a gang selling weapons built from leftover alien tech. The leader is Adrian Toomes, a salvage boss whose company was pushed out of the Battle of New York cleanup and who now flies as the Vulture."
+   },
+   {
+    "title": "Key moments",
+    "body": "Peter hides his identity from classmates and Aunt May while juggling school, a crush on Liz, and a decathlon trip to Washington. After a Staten Island ferry rescue goes badly, Tony takes the suit away. Peter then learns Liz is Toomes's daughter, tracks the gang in a homemade suit, and stops the Vulture's plane heist, even saving Toomes's life as the damaged wings explode. Tony offers him a place on the Avengers, and Peter turns it down."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, Toomes in prison refuses to tell Mac Gargan, who is looking for Spider-Man's identity, what he knows, so Peter stays safe. At the very end, Captain America appears in a corny school safety video about patience that jokes at the expense of anyone still sitting in the theatre."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. It sets up Tony as a father figure and mentor to Peter, which pays off in Infinity War and Far From Home, and it gives weight to Robert Downey Jr.'s return as Doom, since Tony is his best-known role. Tom Holland and Spider-Man are not announced for Doomsday, so treat this as a warm-up and watch it for the Tony and Peter relationship."
+   }
+  ],
+  "runtime": 133
+ },
+ {
+  "id": "thor-ragnarok",
+  "title": "Thor: Ragnarok",
+  "type": "film",
+  "release": "2017-11-03",
+  "year": 2017,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2017,
+  "threads": [
+   "infinity",
+   "cosmic"
+  ],
+  "essential": 2,
+  "oneLiner": "Thor is stranded on a junk planet and must race home before his long-lost sister destroys Asgard.",
+  "characters": [
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Loki",
+    "slug": "loki"
+   },
+   {
+    "name": "Hela",
+    "slug": "hela"
+   },
+   {
+    "name": "Valkyrie",
+    "slug": "valkyrie"
+   },
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   },
+   {
+    "name": "Korg",
+    "slug": "korg"
+   },
+   {
+    "name": "Odin",
+    "slug": "odin"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Thor returns to Asgard to find Loki has been posing as Odin. They track Odin down, but he dies, which frees his firstborn child Hela, the goddess of death, who is far stronger than Thor. She destroys his hammer and knocks Thor and Loki through space, and Thor lands on Sakaar, a scrapyard planet ruled by the Grandmaster. He is forced to fight in the Contest of Champions, where his opponent is the Hulk, missing since Age of Ultron."
+   },
+   {
+    "title": "Key moments",
+    "body": "Thor, Hulk, Loki and Valkyrie, a former Asgardian warrior turned scavenger, escape Sakaar with help from a gladiator revolt and race back to Asgard. They learn Hela cannot be beaten there, so Thor chooses to have the fire demon Surtur destroy Asgard to kill her. Asgard's people survive aboard a ship, but the planet is gone. The film is much lighter and funnier than earlier Thor movies."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, the refugee ship is intercepted by a huge vessel belonging to Thanos, setting up Infinity War. The post-credits scene shows the Grandmaster, overthrown on Sakaar, confronted by his former subjects."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "It sets up Thor's path into Infinity War, where Thanos catches his people, and it brings the Hulk back. Thor and Loki are both confirmed for Doomsday, and the brothers' bond is the emotional core of this film. Valkyrie and Hulk are not confirmed. For Doomsday it is a light link, so it can be skipped without losing the main plot."
+   }
+  ],
+  "watchNote": "Before Infinity War",
+  "runtime": 130
+ },
+ {
+  "id": "black-panther",
+  "title": "Black Panther",
+  "type": "film",
+  "release": "2018-02-16",
+  "year": 2018,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2016,
+  "threads": [
+   "wakanda",
+   "infinity"
+  ],
+  "essential": 2,
+  "oneLiner": "A new king returns to hidden Wakanda to face a rival who wants to use its power on the world.",
+  "characters": [
+   {
+    "name": "T'Challa / Black Panther",
+    "slug": "tchalla"
+   },
+   {
+    "name": "Shuri",
+    "slug": "shuri"
+   },
+   {
+    "name": "Okoye",
+    "slug": "okoye"
+   },
+   {
+    "name": "M'Baku",
+    "slug": "mbaku"
+   },
+   {
+    "name": "Erik Killmonger",
+    "slug": "killmonger"
+   },
+   {
+    "name": "Nakia",
+    "slug": "nakia"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After his father's death, T'Challa returns to Wakanda to take the throne. Wakanda looks like a poor farming nation to outsiders, but it is secretly the most advanced country on Earth, powered by a metal called vibranium. T'Challa's rule is challenged by Erik Killmonger, a cousin raised in Oakland who believes Wakanda should arm oppressed people around the world. T'Challa must decide what kind of king, and what kind of country, Wakanda should be."
+   },
+   {
+    "title": "Key moments",
+    "body": "Killmonger kills the arms dealer Klaue, defeats T'Challa in a ritual duel and throws him over a waterfall, then takes the Black Panther suit and the throne. T'Challa is rescued by M'Baku's mountain tribe, the Jabari, and returns to fight for his home, with Shuri, Okoye and Nakia at his side. The final battle splits Wakanda's army against itself. In the end T'Challa decides to open Wakanda to the world and share its knowledge."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, T'Challa addresses the United Nations and reveals Wakanda's true nature. In the post-credits scene, Bucky Barnes is living in Wakanda, where Shuri is helping his recovery and children call him the White Wolf, a hint at his role in Infinity War."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Wakanda is a major MCU power, and its opening to the world leads to its role in Infinity War and Wakanda Forever. Shuri and M'Baku are both confirmed for Doomsday. T'Challa, Okoye and Nakia are not announced. The link to Doomsday is moderate: this is world-building rather than a direct setup. Everett Ross (Martin Freeman), not Thaddeus Ross, is the government figure here."
+   }
+  ],
+  "runtime": 134
+ },
+ {
+  "id": "avengers-infinity-war",
+  "title": "Avengers: Infinity War",
+  "type": "film",
+  "release": "2018-04-27",
+  "year": 2018,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2018,
+  "threads": [
+   "infinity",
+   "cosmic",
+   "magic"
+  ],
+  "essential": 3,
+  "oneLiner": "Thanos hunts the six Infinity Stones, and every hero gathers to stop him.",
+  "characters": [
+   {
+    "name": "Thanos",
+    "slug": "thanos"
+   },
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Gamora",
+    "slug": "gamora"
+   },
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Thanos, the Mad Titan, believes the universe is overcrowded and plans to wipe out half of all life using the six Infinity Stones. He attacks the ship carrying Thor's refugees, takes the Space Stone, and keeps collecting the rest. Heroes on Earth, in space and in Wakanda scramble to stop him. The Guardians, Thor and the Avengers fight in different places, and the story keeps cutting between them as the stakes rise."
+   },
+   {
+    "title": "Key moments",
+    "body": "Tony Stark, Doctor Strange and Spider-Man fight Thanos' forces on Titan, where Strange gives up the Time Stone to save Tony's life after seeing a single future in which they win. Thanos sacrifices Gamora, whom he loves, to get the Soul Stone. In Wakanda the heroes hold off his army while Shuri works to remove the Mind Stone from Vision. Thanos gets it anyway and snaps his fingers, and half of all life, including many heroes, turns to dust. Thor had wounded him with Stormbreaker, but just too late."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is one scene, after the full credits. Maria Hill and then Nick Fury disintegrate, but not before Fury sends a signal from an old pager, which ends on a star-shaped Captain Marvel logo."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the foundation of the saga. It sets up Endgame, which sets up Doomsday. The Snap shaped the world the new teams live in. Steve, Thor, Loki, Bucky, Sam, Shuri and M'Baku are confirmed for Doomsday and all appear here. Doom is a different kind of threat from Thanos, and nothing official compares them. Essential."
+   }
+  ],
+  "runtime": 149
+ },
+ {
+  "id": "ant-man-and-the-wasp",
+  "title": "Ant-Man and the Wasp",
+  "type": "film",
+  "release": "2018-07-06",
+  "year": 2018,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2018,
+  "threads": [
+   "infinity",
+   "multiverse"
+  ],
+  "essential": 1,
+  "oneLiner": "Scott Lang is under house arrest when Hank Pym and Hope need his help to reach the Quantum Realm.",
+  "characters": [
+   {
+    "name": "Scott Lang / Ant-Man",
+    "slug": "scott-lang"
+   },
+   {
+    "name": "Hope van Dyne / Wasp",
+    "slug": "hope-van-dyne"
+   },
+   {
+    "name": "Hank Pym",
+    "slug": "hank-pym"
+   },
+   {
+    "name": "Janet van Dyne",
+    "slug": "janet-van-dyne"
+   },
+   {
+    "name": "Ava Starr / Ghost",
+    "slug": "ava-starr"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Two years after Civil War, Scott Lang is stuck under house arrest, with the FBI watching him. Hank Pym and his daughter Hope are building a tunnel to the Quantum Realm, a microscopic dimension, hoping to rescue Hank's wife Janet, who has been lost there for thirty years. They need Scott because he is the only person who has returned, and he seems to have a link to Janet. A dangerous woman named Ghost, who can phase through walls, also wants the technology to survive."
+   },
+   {
+    "title": "Key moments",
+    "body": "Scott sneaks out while dodging his FBI minder, and the group chases a shrinking, growing lab building through San Francisco, with shrunken cars and giant objects. Hank enters the Quantum Realm and finds Janet alive, while Hope and Scott stop Ghost from draining Janet's energy. Janet then shares some of her energy to steady Ghost, who is dying, rather than the team simply destroying her. It is a light, low-stakes story compared to the rest of this phase."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, Scott is sent into the Quantum Realm to gather energy for Ghost, and before he can be pulled back Hank, Hope and Janet turn to dust in the Snap, leaving him stranded. That leads straight into Endgame. The post-credits scene is a short gag in which the ant that stood in for Scott during his house arrest plays a drum solo."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a bridge to Endgame, since Scott is stuck in the Quantum Realm, which sets up the time heist idea. Scott Lang and his daughter Cassie are both confirmed for Doomsday, and so is Ghost (Ava Starr). The Quantum Realm also leads to Kang and the multiverse in Quantumania. Otherwise it is a minor link, so skip it if you are short on time."
+   }
+  ],
+  "runtime": 118
+ },
+ {
+  "id": "captain-marvel",
+  "title": "Captain Marvel",
+  "type": "film",
+  "release": "2019-03-08",
+  "year": 2019,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 1995,
+  "threads": [
+   "cosmic",
+   "infinity"
+  ],
+  "essential": 1,
+  "oneLiner": "A Kree warrior with no memory crashes on 1995 Earth and discovers who she really is.",
+  "characters": [
+   {
+    "name": "Carol Danvers / Captain Marvel",
+    "slug": "carol-danvers"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "Talos",
+    "slug": "talos"
+   },
+   {
+    "name": "Maria Rambeau",
+    "slug": "maria-rambeau"
+   },
+   {
+    "name": "Monica Rambeau",
+    "slug": "monica-rambeau"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Vers is a powerful soldier for the Kree Empire who cannot remember her past. During a mission against the shape-shifting Skrulls, she crash-lands in 1995 Los Angeles, where she meets a younger Nick Fury. Together they follow clues that lead back to her old life as Carol Danvers, an Air Force pilot, and reveal what the Kree have been hiding. The Skrulls are not the villains she was told they were."
+   },
+   {
+    "title": "Key moments",
+    "body": "Carol learns that the Kree manipulated her, that the Skrulls are refugees looking for a home, and that she gained her powers from an engine's energy. She reconnects with her old friend Maria Rambeau and Maria's daughter Monica. Carol removes the implant that suppressed her power and becomes strong enough to wreck a fleet on her own. She then flies off to help the Skrulls find safety, leaving Fury with a pager to call her."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, set in 2018, Carol arrives at the Avengers compound looking for Fury, after he activated the pager at the end of Infinity War. In the post-credits scene, Goose the cat coughs up the Tesseract, a joke that also shows Goose is a Flerken."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "A light link. It sets up Carol's arrival in Endgame and introduces Monica Rambeau, who matters in WandaVision and The Marvels. It also gives the Skrulls and Nick Fury's backstory, which comes back in Secret Invasion. Neither Carol nor Monica is confirmed for Doomsday, so treat this as background."
+   }
+  ],
+  "runtime": 124
+ },
+ {
+  "id": "avengers-endgame",
+  "title": "Avengers: Endgame",
+  "type": "film",
+  "release": "2019-04-26",
+  "year": 2019,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2023,
+  "threads": [
+   "infinity",
+   "multiverse",
+   "cap"
+  ],
+  "essential": 3,
+  "oneLiner": "The surviving Avengers use time travel to undo the Snap, at a huge cost.",
+  "characters": [
+   {
+    "name": "Tony Stark / Iron Man",
+    "slug": "tony-stark"
+   },
+   {
+    "name": "Steve Rogers / Captain America",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Natasha Romanoff / Black Widow",
+    "slug": "natasha-romanoff"
+   },
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   },
+   {
+    "name": "Scott Lang / Ant-Man",
+    "slug": "scott-lang"
+   },
+   {
+    "name": "Sam Wilson",
+    "slug": "sam-wilson"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Five years after the Snap, the surviving Avengers are broken and grieving. When Scott Lang escapes the Quantum Realm, Tony Stark, Bruce Banner and others work out a way to travel through time and collect the Infinity Stones from the past. The team splits up and goes back to key moments, including the Battle of New York in 2012, to bring the Stones to the present and reverse what Thanos did."
+   },
+   {
+    "title": "Key moments",
+    "body": "Natasha sacrifices herself on Vormir to get the Soul Stone. A 2014 Thanos learns the plan and has his Nebula use the time machine to bring his army to the present, triggering a huge final battle where every hero returns. Tony snaps his fingers with all six Stones to defeat Thanos and dies from the damage. At his funeral, the heroes say goodbye. Steve Rogers returns the Stones to their timelines, stays in the past to live a full life with Peggy Carter, and returns as an old man to hand his shield to Sam Wilson."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no credits scene. Instead the credits end with the sound of metal being hammered, which echoes the first Iron Man film, where Tony builds his first suit in a cave. It is a quiet farewell to the character who started the whole saga. A June 2019 re-release added a few extra minutes of material after the credits, including a Stan Lee tribute."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Almost everything in Doomsday traces back here. Tony's death is the backdrop for Robert Downey Jr.'s return as Doom. Steve's choice to live with Peggy leads to the teenage son seen in the final trailer, and Chris Evans and Hayley Atwell are both confirmed for Doomsday. Sam taking the shield leads to Captain America: Brave New World, and Thor, Bucky, Sam and Scott are also confirmed. The time heist begins the branching timelines, and in 2012 Loki grabs the Tesseract and escapes, which starts the Loki series and the TVA. Essential."
+   }
+  ],
+  "runtime": 181
+ },
+ {
+  "id": "spider-man-far-from-home",
+  "title": "Spider-Man: Far From Home",
+  "type": "film",
+  "release": "2019-07-02",
+  "year": 2019,
+  "phase": 3,
+  "saga": "infinity",
+  "chrono": 2024,
+  "threads": [
+   "spider",
+   "multiverse"
+  ],
+  "essential": 2,
+  "oneLiner": "Peter Parker takes a school trip to Europe and is pulled into a fight with a hero from another world.",
+  "characters": [
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "Quentin Beck / Mysterio",
+    "slug": "mysterio"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "MJ",
+    "slug": "mj-watson"
+   },
+   {
+    "name": "Happy Hogan",
+    "slug": "happy-hogan"
+   },
+   {
+    "name": "Ned Leeds",
+    "slug": "ned-leeds"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After Endgame, Peter Parker wants a normal summer, with a school trip to Europe and a chance to tell MJ how he feels. Instead, Nick Fury pulls him into a mission to stop giant elemental monsters. A new hero named Quentin Beck, whom the press names Mysterio, says he comes from another Earth in the multiverse and that his world was destroyed by the same monsters. Peter is pushed to step up as the next Iron Man-level hero, while still grieving Tony."
+   },
+   {
+    "title": "Key moments",
+    "body": "Tony left Peter a pair of smart glasses linked to a powerful security system, and Peter hands them to Beck, which turns out to be a big mistake. Beck is not from another Earth at all: he is a former Stark employee faking everything with drone-powered illusions. Peter figures it out, fights through the illusions with his spider sense, and defeats him, though Beck's doctored footage has one last trick left."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two scenes. In the mid-credits scene, J. Jonah Jameson (J.K. Simmons) airs a recording from Beck that frames Spider-Man for the London attack and reveals that he is Peter Parker. In the post-credits scene, Nick Fury and Maria Hill are revealed to be the Skrulls Talos and Soren, while the real Fury is on a Skrull spaceship."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This film brings the word multiverse into everyday talk, though Beck's version is a lie, and it leads directly into Spider-Man: No Way Home. It also carries Tony's legacy through Peter, which gives weight to Robert Downey Jr.'s return as Doom. Spider-Man and Tom Holland are not announced for Doomsday, and Nick Fury is not on any official list, so treat it as a moderate link."
+   }
+  ],
+  "runtime": 129
+ },
+ {
+  "id": "wandavision",
+  "title": "WandaVision",
+  "type": "series",
+  "release": "2021-01-15",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "wanda",
+   "magic"
+  ],
+  "essential": 3,
+  "oneLiner": "Wanda wakes up inside a string of classic sitcoms, and nothing about it is as cozy as it looks.",
+  "characters": [
+   {
+    "name": "Wanda Maximoff / Scarlet Witch",
+    "slug": "wanda-maximoff"
+   },
+   {
+    "name": "Vision",
+    "slug": "vision"
+   },
+   {
+    "name": "Agatha Harkness",
+    "slug": "agatha-harkness"
+   },
+   {
+    "name": "Monica Rambeau",
+    "slug": "monica-rambeau"
+   },
+   {
+    "name": "White Vision",
+    "slug": "white-vision"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Wanda and Vision live in a perfect suburban town called Westview, and each episode plays like a sitcom from a different decade. Outside the town, FBI agent Jimmy Woo, Monica Rambeau and Darcy Lewis investigate why a whole community has vanished behind a strange broadcast. Slowly the show reveals that the sitcom world is not a trick played on Wanda. She is creating it herself, because she is grieving Vision, who died in Avengers: Infinity War. Her twin sons Billy and Tommy and a chatty neighbor named Agnes are part of the illusion."
+   },
+   {
+    "title": "Key moments",
+    "body": "The sitcom eras march from the 1950s to a modern-day mockumentary while Wanda slowly loses control of her own story. Monica is thrown out of the town boundary and comes back with powers. Agnes turns out to be the witch Agatha Harkness, who has been studying Wanda's magic. In the finale, Wanda faces a white copy of Vision rebuilt by the government agency S.W.O.R.D. She ends the spell, loses her family, and takes Agatha's spellbook, the Darkhold, into hiding as the Scarlet Witch."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Three scenes. At the end of episode eight, S.W.O.R.D.'s Hayward reactivates the rebuilt white Vision. In the finale's mid-credits scene, Hayward is arrested and a Skrull tells Monica that a friend of her mother's wants to meet her, which sets up The Marvels. In the post-credits scene, Wanda, in astral form, studies the Darkhold while she hears her sons crying for help, which leads into Doctor Strange in the Multiverse of Madness."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is where Wanda becomes the Scarlet Witch, which drives the plot of Multiverse of Madness. Two threads continue the story: White Vision flies off with his own memories restored, which leads to the series VisionQuest, and Billy and Tommy and Agatha come back in Agatha All Along. Wanda and Vision are not confirmed for Doomsday (Wanda is only rumored), so treat this as background, though strong background if you care about the Maximoff and Vision story."
+   }
+  ],
+  "watchNote": "Needed for VisionQuest",
+  "runtime": 321,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "falcon-and-the-winter-soldier",
+  "title": "The Falcon and the Winter Soldier",
+  "type": "series",
+  "release": "2021-03-19",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "cap",
+   "newavengers"
+  ],
+  "essential": 2,
+  "oneLiner": "Sam and Bucky team up to decide who deserves to carry Captain America's shield now that Steve is gone.",
+  "characters": [
+   {
+    "name": "Sam Wilson / Falcon",
+    "slug": "sam-wilson"
+   },
+   {
+    "name": "Bucky Barnes / Winter Soldier",
+    "slug": "bucky-barnes"
+   },
+   {
+    "name": "John Walker",
+    "slug": "john-walker"
+   },
+   {
+    "name": "Isaiah Bradley",
+    "slug": "isaiah-bradley"
+   },
+   {
+    "name": "Zemo",
+    "slug": "zemo"
+   },
+   {
+    "name": "Valentina",
+    "slug": "valentina"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After Avengers: Endgame, Steve Rogers hands his shield to Sam Wilson, but Sam gives it to a museum because he doubts he is the right man to carry it. The government promptly names a new Captain America, a decorated soldier named John Walker. Meanwhile, a group of rebels called the Flag Smashers is causing trouble across the world, and Sam and Bucky have to work together, along with their old enemy Zemo, to track them down. The show is also about what it means for a Black man to carry that symbol in America."
+   },
+   {
+    "title": "Key moments",
+    "body": "Sam and Bucky bicker their way through a series of missions and meet Isaiah Bradley, a Black super soldier who was secretly experimented on by the government decades ago. After his friend is killed, John Walker, now enhanced by the serum, kills a Flag Smasher in public with the shield, and he is stripped of the title. In the finale, Sam accepts the shield and takes up the Captain America name. Sharon Carter is revealed to be the secret crime boss called the Power Broker."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Two credits scenes. At the end of episode five, Walker builds a replacement shield from scrap metal and his war medals. At the end of the finale, Sharon Carter, now pardoned, is back inside government and intends to keep selling secrets as the Power Broker. Also worth knowing, though not credits scenes: in episode five Valentina Allegra de Fontaine approaches the disgraced Walker with a job offer, and in the finale she gives him the name U.S. Agent."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the origin of Sam as Captain America, and he carries the shield into Captain America: Brave New World. It also sets up Thunderbolts*: Valentina recruits John Walker as U.S. Agent, and Bucky later joins that group. Sam, Bucky, Walker and Joaquin Torres are confirmed for Doomsday. Valentina is not on any official list. If you watch only one Cap story before Doomsday, this is the one."
+   }
+  ],
+  "watchNote": "Watch before Thunderbolts*",
+  "runtime": 302,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "loki-season-1",
+  "title": "Loki, Season 1",
+  "type": "series",
+  "release": "2021-06-09",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 3,
+  "oneLiner": "Loki is arrested by the Time Variance Authority, which polices time itself and wants to prune him.",
+  "characters": [
+   {
+    "name": "Loki",
+    "slug": "loki"
+   },
+   {
+    "name": "Mobius",
+    "slug": "mobius"
+   },
+   {
+    "name": "Sylvie",
+    "slug": "sylvie"
+   },
+   {
+    "name": "He Who Remains",
+    "slug": "he-who-remains"
+   },
+   {
+    "name": "Kang",
+    "slug": "kang"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After stealing the Tesseract during the Avengers: Endgame time heist, Loki is caught by the Time Variance Authority, a bureaucracy that makes sure time follows a single approved path. Instead of erasing him, agent Mobius recruits him to help hunt a dangerous Loki variant who is killing the agency's staff. That variant turns out to be Sylvie, a version of Loki who was taken from her life as a child. The story then becomes a hunt for whoever really runs the TVA."
+   },
+   {
+    "title": "Key moments",
+    "body": "Loki and Sylvie get stuck on a doomed planet and begin to trust each other. They discover that the TVA's supposed makers, the Time-Keepers, are fake. At the end of time they meet a man called He Who Remains, who says he has been stopping a deadly multiversal war by keeping all of time on one path, the Sacred Timeline. He offers them a choice: take over or destroy him. Sylvie kills him, and the Sacred Timeline splits into many branching timelines. Loki returns to a TVA where nobody knows him."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is one extra beat, a title card in the finale's credits saying that Loki will return in Season 2. The finale's final scene, before the credits, shows Loki back at the TVA, where Mobius does not recognize him, and a huge statue of Kang the Conqueror, a variant of He Who Remains, stands where the Time-Keepers' statues were. It tells viewers the peace Sylvie created did not last."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the single most important setup for the multiverse storyline. It explains the Sacred Timeline, introduces Kang and his variants, and shows the multiverse being unleashed on purpose. Loki is confirmed for Doomsday. Kang's story was later reshaped, and the villain of Doomsday is Doctor Doom, but branching universes colliding is the foundation Doomsday builds on. Season 2 continues Loki's story, but this season is the must-watch."
+   }
+  ],
+  "watchNote": "Start here for the multiverse",
+  "runtime": 285,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "black-widow",
+  "title": "Black Widow",
+  "type": "film",
+  "release": "2021-07-09",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2016,
+  "threads": [
+   "newavengers"
+  ],
+  "essential": 2,
+  "oneLiner": "Natasha Romanoff, on the run after Civil War, reunites with her fake family to take down the Red Room.",
+  "characters": [
+   {
+    "name": "Natasha Romanoff / Black Widow",
+    "slug": "natasha-romanoff"
+   },
+   {
+    "name": "Yelena Belova",
+    "slug": "yelena-belova"
+   },
+   {
+    "name": "Alexei Shostakov / Red Guardian",
+    "slug": "red-guardian"
+   },
+   {
+    "name": "Valentina Allegra de Fontaine",
+    "slug": "valentina"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The film is set after Captain America: Civil War, when Natasha is a fugitive. A package from her past leads her to Yelena, the young woman she once pretended was her sister in a Russian undercover family. They team up with their fake parents, the super soldier Alexei and the scientist Melina, to destroy the Red Room, a facility that turns girls into assassins under a man called Dreykov. It is a family story about a hero who never had a real home."
+   },
+   {
+    "title": "Key moments",
+    "body": "Natasha and Yelena are hunted by a masked enemy called the Taskmaster, who copies fighting styles and turns out to be Dreykov's daughter Antonia. The family sits down to a tense dinner and finally lets its guard down. The team infiltrates Dreykov's floating base and learns that the Red Room uses a chemical to control the Widows. Natasha frees the women, the base crashes down, and she heads off to rejoin her allies."
+   },
+   {
+    "title": "Post-credits",
+    "body": "One scene. Yelena visits Natasha's memorial grave and meets Valentina Allegra de Fontaine, who tells her that Clint Barton is responsible for her sister's death, which sets up Hawkeye. Valentina comes across as a quiet, well-connected government figure who steers a grieving young woman toward a target."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Yelena and Red Guardian (Alexei) are confirmed for Doomsday. Valentina is not on any official list, and there is no reliable report of an appearance. Yelena's mission against Clint is resolved in Hawkeye, and the Thunderbolts* group follows. Natasha dies in Endgame, so this film is a flashback-style story and not a plot you need for the main fight."
+   }
+  ],
+  "watchNote": "Watch before Thunderbolts*",
+  "runtime": 134
+ },
+ {
+  "id": "what-if-season-1",
+  "title": "What If...?, Season 1",
+  "type": "series",
+  "release": "2021-08-11",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 1,
+  "oneLiner": "An animated anthology where the Watcher shows alternate versions of MCU history.",
+  "characters": [
+   {
+    "name": "Uatu the Watcher",
+    "slug": "uatu"
+   },
+   {
+    "name": "Peggy Carter",
+    "slug": "peggy-carter"
+   },
+   {
+    "name": "T'Challa",
+    "slug": "tchalla"
+   },
+   {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "Ultron",
+    "slug": "ultron"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The Watcher, a cosmic being who observes parallel universes, shows small changes to events we already know. In one, Peggy Carter gets the super soldier serum instead of Steve and becomes Captain Carter. In another, T'Challa is kidnapped by Ravagers and becomes Star-Lord. Each episode is a separate story with its own cast, and the show does not depend on any other series."
+   },
+   {
+    "title": "Key moments",
+    "body": "There is a murder mystery after the Avengers' first meeting, a universe where zombies infect the heroes, and a version where Thor throws a wild party on Earth. A darker episode shows a Doctor Strange who goes too far trying to save someone he loves. Another follows a world where Ultron wins and goes on to destroy entire universes. In the finale the Watcher breaks his own rule against interfering and gathers heroes from different universes to stop Ultron."
+   },
+   {
+    "title": "Post-credits",
+    "body": "One scene, after the finale. In Captain Carter's universe, Black Widow takes Peggy to a storage facility where a crate holds the Hydra Stomper armor, warning her that someone is inside. It strongly hints that Steve Rogers was preserved in it."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a weak link. It is a side story that shows the multiverse in cartoon form, and it is not required for Doomsday. Hayley Atwell is confirmed for Doomsday as Peggy Carter, but it has not been announced whether that is the Captain Carter variant. Captain Carter appeared in live action in Doctor Strange in the Multiverse of Madness as part of the Illuminati. The show is fun for multiverse flavor, but it can be skipped without losing the plot."
+   }
+  ],
+  "runtime": 294,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "shang-chi",
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "type": "film",
+  "release": "2021-09-03",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "cosmic",
+   "magic"
+  ],
+  "essential": 2,
+  "oneLiner": "A valet in San Francisco is dragged back into the criminal empire of his father, who wields ten magic rings.",
+  "characters": [
+   {
+    "name": "Shang-Chi",
+    "slug": "shang-chi"
+   },
+   {
+    "name": "Wenwu",
+    "slug": "wenwu"
+   },
+   {
+    "name": "Wong",
+    "slug": "wong"
+   },
+   {
+    "name": "Katy",
+    "slug": "katy"
+   },
+   {
+    "name": "Xialing",
+    "slug": "xialing"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Shang-Chi is living a quiet life in San Francisco as a valet, alongside his best friend Katy, until the Ten Rings attack him on a bus. His father Wenwu leads that global criminal organization and wields ten ancient rings that give him enormous power. Shang-Chi was trained as a child assassin and fled the family years ago. To warn his sister Xialing, he travels to Macau, where the family reunites and the trail leads to Ta Lo, his late mother's hidden village."
+   },
+   {
+    "title": "Key moments",
+    "body": "The bus fight shows off Shang-Chi's martial arts, and Katy learns who he really is. In a Macau fight club, Wong is seen battling the Abomination from The Incredible Hulk. Wenwu, who believes his dead wife is calling for him, leads the Ten Rings to Ta Lo, where the heroes learn a monster called the Dweller-in-Darkness has been impersonating her to get a sealed gate opened. Shang-Chi beats his father but spares him, and Wenwu later sacrifices himself, passing the rings to his son as the heroes destroy the creature."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: Wong calls Shang-Chi and Katy to Kamar-Taj, where Bruce Banner and Carol Danvers join him to study the Ten Rings, which turn out to be sending out a signal to an unknown destination. Post-credits: Xialing takes charge of the Ten Rings, despite earlier saying she would break the group up, and starts training women alongside men. The beacon has not been explained; any theory about who is listening is speculation."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Shang-Chi is confirmed for Doomsday, so this is his origin film. It also sets up the Ten Rings as an object of cosmic and magical interest, with Wong and the Avengers' scientists puzzling over them. Nothing here proves how the rings or their signal will connect to Doomsday, but if you want to know who Shang-Chi is before he shows up, this is the film."
+   }
+  ],
+  "runtime": 132
+ },
+ {
+  "id": "eternals",
+  "title": "Eternals",
+  "type": "film",
+  "release": "2021-11-05",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 1,
+  "oneLiner": "Immortal beings who have secretly protected Earth for seven thousand years reunite to face a new threat.",
+  "characters": [
+   {
+    "name": "Sersi",
+    "slug": "sersi"
+   },
+   {
+    "name": "Ikaris",
+    "slug": "ikaris"
+   },
+   {
+    "name": "Ajak",
+    "slug": "ajak"
+   },
+   {
+    "name": "Arishem",
+    "slug": "arishem"
+   },
+   {
+    "name": "Thena",
+    "slug": "thena"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The Eternals are immortal beings sent to Earth by the Celestial Arishem thousands of years ago to protect humans from monstrous Deviants. Told never to interfere in human conflicts, they have lived apart for centuries when a Deviant attack in the present forces them to reunite. Sersi, who can transmute matter, takes the lead after the team discovers their leader Ajak has been killed and has named her successor, and then uncovers the real reason they were sent."
+   },
+   {
+    "title": "Key moments",
+    "body": "The team learns that Arishem planted a Celestial, Tiamut, inside Earth, and its birth, called the Emergence, will destroy the planet once humanity has grown enough. Ikaris, the strongest Eternal, stays loyal to Arishem and turns on his friends, revealing he led Ajak to her death. In an erupting volcano in the Indian Ocean, the Eternals combine their powers into the Uni-Mind, and Sersi turns the rising Tiamut to stone. Arishem then takes Sersi, Phastos and Kingo away to judge them, while Thena, Makkari and Druig fly off in the Domo."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: Thena, Makkari and Druig are approached on the Domo by Eros, played by Harry Styles, who is Thanos' brother in the comics, along with his assistant Pip the Troll, voiced by Patton Oswalt. Post-credits: Sersi's partner Dane Whitman is asked, by an unseen voice (Mahershala Ali as Blade, voice only), whether he is ready to wield the Ebony Blade. Neither thread has paid off yet."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. The lasting detail is the dead Celestial Tiamut, still stuck in the Indian Ocean, which later becomes the source of adamantium in Captain America: Brave New World. It also establishes that Celestials exist, which could matter for any cosmic turn. No Eternals are confirmed for Doomsday, so this is optional."
+   }
+  ],
+  "runtime": 156
+ },
+ {
+  "id": "hawkeye",
+  "title": "Hawkeye",
+  "type": "series",
+  "release": "2021-11-24",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "street"
+  ],
+  "essential": 2,
+  "oneLiner": "Clint Barton tries to get home for Christmas, but a young archer fan keeps pulling him back into trouble.",
+  "characters": [
+   {
+    "name": "Clint Barton / Hawkeye",
+    "slug": "clint-barton"
+   },
+   {
+    "name": "Kate Bishop",
+    "slug": "kate-bishop"
+   },
+   {
+    "name": "Yelena Belova",
+    "slug": "yelena-belova"
+   },
+   {
+    "name": "Maya Lopez",
+    "slug": "maya-lopez"
+   },
+   {
+    "name": "Wilson Fisk",
+    "slug": "wilson-fisk"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "It is Christmas in New York, a year after Endgame, and Clint Barton just wants to get home to his family. But Kate Bishop, a young archer who has idolized Hawkeye since the Battle of New York, gets tangled up with the Tracksuit Mafia while wearing Clint's old Ronin suit. Clint helps her clean up the mess, and the two become partners. Behind it all sits a conspiracy tied to Kate's own family."
+   },
+   {
+    "title": "Key moments",
+    "body": "Kate's trouble with the Tracksuit Mafia drags Clint back into his buried Ronin past. Maya Lopez, a deaf fighter who leads the gang, wants revenge on Ronin. Yelena Belova arrives, hired to kill Clint over Natasha's death. The reveal is that Kate's mother Eleanor works with Wilson Fisk, the Kingpin, and in the finale Eleanor is arrested, Maya confronts Fisk and a gunshot is heard, and Clint returns to his family and burns the Ronin suit."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no credits scene. The ending that matters is Fisk's confrontation with Maya, after which a gunshot is heard, and Clint's return home on Christmas."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Kate Bishop (Hailee Steinfeld) was announced by Marvel as part of Doomsday, so this show is the best place to meet her. Clint himself is not confirmed. Yelena is confirmed and shows up here before Thunderbolts*. Fisk carries over into Daredevil: Born Again, and Maya into Echo. If you want to know why Kate is joining the team, start here."
+   }
+  ],
+  "watchNote": "Watch before Thunderbolts*",
+  "runtime": 285,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "spider-man-no-way-home",
+  "title": "Spider-Man: No Way Home",
+  "type": "film",
+  "release": "2021-12-17",
+  "year": 2021,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "spider",
+   "multiverse"
+  ],
+  "essential": 3,
+  "oneLiner": "Peter asks Doctor Strange to make the world forget he is Spider-Man, and the spell tears the multiverse open.",
+  "characters": [
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "MJ",
+    "slug": "mj-watson"
+   },
+   {
+    "name": "Ned Leeds",
+    "slug": "ned-leeds"
+   },
+   {
+    "name": "Green Goblin",
+    "slug": "green-goblin"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Mysterio's last trick reveals to the world that Peter Parker is Spider-Man and frames him for murder. The attention wrecks Peter's life and endangers MJ, Ned and Aunt May. He asks Doctor Strange to cast a spell making everyone forget his secret. Peter keeps asking for changes mid-spell, it goes wrong, and it pulls in people from other universes who know Spider-Man is Peter Parker, including Green Goblin, Doc Ock, Electro, Sandman and the Lizard."
+   },
+   {
+    "title": "Key moments",
+    "body": "Peter decides to cure the villains rather than send them back to die. The Goblin fatally wounds Aunt May, which devastates him. Two other Spider-Men from earlier film series, played by Tobey Maguire and Andrew Garfield, arrive, and the three Peters fight at the Statue of Liberty. In the end Peter asks Strange to make the entire world forget him, and even MJ and Ned no longer remember him."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: Eddie Brock, in a bar in his own universe, is sent back from the MCU, leaving a piece of the symbiote behind. Post-credits: a teaser trailer for Doctor Strange in the Multiverse of Madness. The film ends with Peter on his own, in a new suit."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is where the multiverse stops being theory and becomes real on screen: people from other universes are physically in this one. It leaves Peter alone and forgotten, which is where Spider-Man: Brand New Day picks up. Marvel has not announced Tom Holland for Doomsday, so his involvement is unconfirmed. The key idea is that Strange's botched spell tore open the walls between universes, a danger Multiverse of Madness follows up."
+   }
+  ],
+  "watchNote": "Watch before Multiverse of Madness",
+  "runtime": 148
+ },
+ {
+  "id": "moon-knight",
+  "title": "Moon Knight",
+  "type": "series",
+  "release": "2022-03-30",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "A mild gift-shop worker keeps losing time and shares his body with a mercenary and a god.",
+  "characters": [
+   {
+    "name": "Marc Spector / Moon Knight",
+    "slug": "marc-spector"
+   },
+   {
+    "name": "Steven Grant",
+    "slug": "steven-grant"
+   },
+   {
+    "name": "Layla El-Faouly",
+    "slug": "layla-el-faouly"
+   },
+   {
+    "name": "Arthur Harrow",
+    "slug": "arthur-harrow"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Steven Grant is a shy gift-shop worker in London who blacks out and wakes up in unfamiliar places. He shares his body with Marc Spector, a ruthless mercenary who is the avatar of the Egyptian moon god Khonshu. Together they have to stop Arthur Harrow, a cult leader who wants to free the goddess Ammit to punish people for crimes they have not yet committed. The show is darker and more personal than most of the MCU."
+   },
+   {
+    "title": "Key moments",
+    "body": "Steven slowly learns about his alters and gets help from Marc's wife Layla. A trip to Egypt finds Ammit's tomb, and the gods of the Egyptian pantheon get involved. Marc's childhood trauma, including the drowning of his brother, is revealed in the afterlife and explains why he split into different identities. In the finale, Marc and Steven work together to defeat Harrow, and Layla becomes the temporary avatar of the goddess Taweret."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is one credits scene, after the finale's first credits: Jake Lockley, Marc's third alter, takes over, and kills Harrow in a psychiatric hospital on Khonshu's orders. Layla's new hero identity, Scarlet Scarab, is not a credits scene; Marvel announced the name after the finale."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a standalone story with a weak link to the main plot. Nothing in it leads directly to the Avengers' fight with Doom. Moon Knight is not confirmed for Doomsday, and any fan idea that the mystical side of Marvel will get involved is speculation."
+   }
+  ],
+  "runtime": 285,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "doctor-strange-in-the-multiverse-of-madness",
+  "title": "Doctor Strange in the Multiverse of Madness",
+  "type": "film",
+  "release": "2022-05-06",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2024,
+  "threads": [
+   "multiverse",
+   "magic",
+   "wanda"
+  ],
+  "essential": 3,
+  "oneLiner": "Strange protects a girl who can jump between universes from a very powerful, very angry Scarlet Witch.",
+  "characters": [
+   {
+    "name": "Doctor Strange",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "Wanda Maximoff / Scarlet Witch",
+    "slug": "wanda-maximoff"
+   },
+   {
+    "name": "America Chavez",
+    "slug": "america-chavez"
+   },
+   {
+    "name": "Wong",
+    "slug": "wong"
+   },
+   {
+    "name": "Clea",
+    "slug": "clea"
+   },
+   {
+    "name": "Professor X",
+    "slug": "charles-xavier"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Doctor Strange meets America Chavez, a teenager who can punch holes between universes and is being hunted by a demon. The one behind the hunt is Wanda Maximoff, who has taken the Darkhold and become the Scarlet Witch. She wants America's power so she can reach a universe where her sons are real. Strange and America jump across the multiverse while Wanda follows."
+   },
+   {
+    "title": "Key moments",
+    "body": "On Earth-838 they meet the Illuminati, a council of heroes including Captain Carter, Captain Marvel (Maria Rambeau), Black Bolt, Mordo, a Reed Richards played by John Krasinski, and a Professor X played by Patrick Stewart. Wanda kills every one of them except Mordo, who is subdued by Strange. Strange uses forbidden magic to possess his own dead self and gains a third eye. In the end Wanda sees what she has done and brings Mount Wundagore down on herself, apparently dying."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: a sorceress named Clea, played by Charlize Theron, tells Strange that his actions caused an incursion and pulls him into the Dark Dimension. Post-credits: a short comic gag in which Bruce Campbell, as a street vendor, is hit by his own possessed hand."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This film explains the multiverse danger behind Doomsday in simple terms: when two universes collide in an incursion, one of them is destroyed. It introduces Clea and ends with Wanda apparently dead, which is not necessarily the end of her story. Patrick Stewart's Charles Xavier is confirmed for Doomsday, which Marvel calls his final on-screen appearance; Doctor Strange and Wanda are not confirmed. Watch it before Doomsday."
+   }
+  ],
+  "watchNote": "Watch before Doomsday",
+  "runtime": 126
+ },
+ {
+  "id": "ms-marvel",
+  "title": "Ms. Marvel",
+  "type": "series",
+  "release": "2022-06-08",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cosmic",
+   "mutants"
+  ],
+  "essential": 1,
+  "oneLiner": "A teenager from New Jersey who idolizes Captain Marvel discovers she has powers of her own.",
+  "characters": [
+   {
+    "name": "Kamala Khan / Ms. Marvel",
+    "slug": "kamala-khan"
+   },
+   {
+    "name": "Bruno Carrelli",
+    "slug": "bruno-carrelli"
+   },
+   {
+    "name": "Nakia Bahadir",
+    "slug": "nakia-bahadir"
+   },
+   {
+    "name": "Najma",
+    "slug": "najma"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Kamala Khan is a high-schooler in Jersey City who loves the Avengers and makes fan art of Captain Marvel. When she puts on a bangle that belonged to her great-grandmother, she finds she can create glowing energy constructs. She learns her family history is tied to the Partition of India and to beings from another dimension called the Djinn. A government group called the Department of Damage Control begins to watch her."
+   },
+   {
+    "title": "Key moments",
+    "body": "Kamala tries out her powers with her best friend Bruno, who helps design her costume. A trip to Karachi uncovers the family history and the bangle's origin, and she is thrown back to the Partition era in India. Back in Jersey City, a fight ends with Kamala saving her neighborhood and taking the name Ms. Marvel. In the finale Bruno tells her she has a genetic mutation her family does not share, a nod to mutants."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The first episode has a mid-credits scene in which Damage Control agents target her. In the finale, a mid-credits scene shows the bangle glowing as Kamala swaps places with Carol Danvers, Captain Marvel, which is the setup for The Marvels."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a light link. Kamala moves on to The Marvels, and the mutation reveal is the live-action MCU's nod to mutants. Kamala herself is not confirmed for Doomsday."
+   }
+  ],
+  "runtime": 270,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "thor-love-and-thunder",
+  "title": "Thor: Love and Thunder",
+  "type": "film",
+  "release": "2022-07-08",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 2,
+  "oneLiner": "Thor goes looking for himself and instead finds his ex, now wielding his hammer, and a god-killing villain.",
+  "characters": [
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Jane Foster / Mighty Thor",
+    "slug": "jane-foster"
+   },
+   {
+    "name": "Valkyrie",
+    "slug": "valkyrie"
+   },
+   {
+    "name": "Korg",
+    "slug": "korg"
+   },
+   {
+    "name": "Gorr",
+    "slug": "gorr"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Thor has been traveling with the Guardians of the Galaxy and trying to find himself after Endgame. When Gorr the God Butcher starts murdering gods across the universe, Thor returns to New Asgard, where he finds that his ex Jane Foster has taken up his broken hammer Mjolnir and become the Mighty Thor. Jane has cancer, and the hammer lets her fight but does not cure her. Thor, Jane, Valkyrie and Korg set out to stop Gorr."
+   },
+   {
+    "title": "Key moments",
+    "body": "The group visits Omnipotence City, where Zeus refuses to help and Thor ends up wounding him. Gorr takes the New Asgard children hostage into the Shadow Realm, and the group fights to get them back. At Eternity, Thor and Jane destroy the Necrosword. Jane dies, and Gorr, moved by Thor's plea, wishes his own daughter Love back to life before he dies. Thor then raises Love as his own."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: Zeus, recovering in Omnipotence City, sends his son Hercules, played by Brett Goldstein, to kill Thor. Post-credits: Jane arrives at the gates of Valhalla, where Heimdall welcomes her."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Thor and Love, his adopted daughter, are both confirmed for Doomsday. This film leaves Thor as an adoptive father with a new weapon and a Greek god who wants revenge; Hercules may come back, though nothing is confirmed. It matters less for the multiverse plot and more for knowing where Thor's life stands."
+   }
+  ],
+  "runtime": 119
+ },
+ {
+  "id": "she-hulk",
+  "title": "She-Hulk: Attorney at Law",
+  "type": "series",
+  "release": "2022-08-18",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "A lawyer gets Hulk powers from her cousin Bruce and tries to keep her day job in a superhero-filled world.",
+  "characters": [
+   {
+    "name": "Jennifer Walters / She-Hulk",
+    "slug": "jennifer-walters"
+   },
+   {
+    "name": "Bruce Banner",
+    "slug": "bruce-banner"
+   },
+   {
+    "name": "Matt Murdock / Daredevil",
+    "slug": "matt-murdock"
+   },
+   {
+    "name": "Abomination",
+    "slug": "abomination"
+   },
+   {
+    "name": "Wong",
+    "slug": "wong"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Jennifer Walters is a lawyer who gets a transfusion of her cousin Bruce Banner's blood after a car accident and becomes She-Hulk. Unlike Bruce, she keeps her calm and her mind. She is hired by a firm to handle legal cases involving superhumans. The show is a comedy in which Jen regularly talks directly to the audience and plays with the rules of storytelling."
+   },
+   {
+    "title": "Key moments",
+    "body": "Jen gets involved in Emil Blonsky's, the Abomination's, parole with help from Wong, meets Matt Murdock, a lawyer who is also Daredevil, and clashes with Titania. A hate group called Intelligencia, run by Todd Phelps, tries to steal Jen's blood to give itself powers. In the finale, Bruce returns from Sakaar with his son Skaar, and Jen breaks the fourth wall to confront the show's own production system, in the form of an AI called K.E.V.I.N., a joke about Marvel itself."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The finale has a mid-credits scene in which Wong breaks Blonsky out of prison and takes him to Kamar-Taj. Several early episodes also carry mid-credits scenes, but none of them are needed for Doomsday. There is no post-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a weak link. Matt Murdock, played by Charlie Cox, and Bruce Banner's son Skaar are the small pieces that may matter later; Daredevil leads into Daredevil: Born Again. She-Hulk herself is not confirmed for Doomsday. The show does not lead directly into the multiverse plot, so it is safe to skip."
+   }
+  ],
+  "runtime": 300,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "werewolf-by-night",
+  "title": "Werewolf by Night",
+  "type": "special",
+  "release": "2022-10-07",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2022,
+  "threads": [
+   "magic"
+  ],
+  "essential": 1,
+  "oneLiner": "A black-and-white monster-hunting contest at a creepy manor, with a rare relic as the prize.",
+  "characters": [
+   {
+    "name": "Jack Russell",
+    "slug": "jack-russell"
+   },
+   {
+    "name": "Elsa Bloodstone",
+    "slug": "elsa-bloodstone"
+   },
+   {
+    "name": "Man-Thing",
+    "slug": "man-thing"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "After the death of monster-hunter Ulysses Bloodstone, his widow Verussa gathers a group of hunters at Bloodstone Manor for a deadly contest to claim the Bloodstone, a powerful relic. Among them are Jack Russell, who is hiding a secret, and Ulysses' estranged daughter Elsa. The special is shot in black and white, in the style of old monster movies."
+   },
+   {
+    "title": "Key moments",
+    "body": "The hunt takes place in a maze, where the quarry is a captured monster with the Bloodstone embedded in it. That monster is Ted, also known as Man-Thing, a gentle creature Jack had been trying to rescue. Elsa and Jack team up to free him, and Jack's secret comes out: he is the werewolf. Verussa uses the Bloodstone to transform Jack, and in the chaos Ted burns Verussa. Elsa takes over the manor and the relic, and Jack and Ted go free."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a weak link. It introduces the monster side of the MCU, along with Man-Thing and Elsa Bloodstone, but it does not feed into the Doomsday plot. Watch it for fun, or skip it without losing anything."
+   }
+  ],
+  "runtime": 53
+ },
+ {
+  "id": "black-panther-wakanda-forever",
+  "title": "Black Panther: Wakanda Forever",
+  "type": "film",
+  "release": "2022-11-11",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "wakanda"
+  ],
+  "essential": 2,
+  "oneLiner": "Wakanda mourns King T'Challa while an underwater kingdom threatens war over vibranium.",
+  "characters": [
+   {
+    "name": "Shuri",
+    "slug": "shuri"
+   },
+   {
+    "name": "Namor",
+    "slug": "namor"
+   },
+   {
+    "name": "Queen Ramonda",
+    "slug": "ramonda"
+   },
+   {
+    "name": "Okoye",
+    "slug": "okoye"
+   },
+   {
+    "name": "M'Baku",
+    "slug": "mbaku"
+   },
+   {
+    "name": "Riri Williams",
+    "slug": "riri-williams"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "King T'Challa has died of an illness, and Wakanda is mourning. The world pressures Wakanda over its vibranium, and Queen Ramonda, Shuri and Okoye try to protect the nation. A vibranium detector built by MIT student Riri Williams reveals a second source in the ocean, which belongs to the underwater kingdom of Talokan. Its ruler, Namor, wants to protect his people from the surface world and demands that Wakanda hand over the scientist behind the machine."
+   },
+   {
+    "title": "Key moments",
+    "body": "Namor offers Wakanda an alliance against the surface world and threatens war if it refuses. When Wakanda does not give in, he attacks, and Ramonda dies saving Riri. Shuri, grieving, creates a new heart-shaped herb, takes the Black Panther mantle, and meets Killmonger in the Ancestral Plane. In the final battle she takes the fight to Namor, and when a vision of Ramonda gives her pause, she accepts his yielding and a truce rather than killing him."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is one credits scene, mid-credits. Nakia, now living in Haiti, introduces Shuri to her son, T'Challa's child, whose Wakandan name is T'Challa and who goes by Toussaint. There is no post-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Shuri as the new Black Panther, Namor and M'Baku are all confirmed for Doomsday. This film explains who they are, what the conflict between Wakanda and Talokan was about, and why Namor is dangerous but not strictly an enemy. Riri Williams is not confirmed. If you want to follow the Wakandan faction in Doomsday, this is the one to watch."
+   }
+  ],
+  "watchNote": "Watch before Doomsday",
+  "runtime": 161
+ },
+ {
+  "id": "guardians-of-the-galaxy-holiday-special",
+  "title": "The Guardians of the Galaxy Holiday Special",
+  "type": "special",
+  "release": "2022-11-25",
+  "year": 2022,
+  "phase": 4,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 1,
+  "oneLiner": "Drax and Mantis head to Earth to kidnap Kevin Bacon as a Christmas gift for Peter Quill.",
+  "characters": [
+   {
+    "name": "Peter Quill / Star-Lord",
+    "slug": "peter-quill"
+   },
+   {
+    "name": "Drax",
+    "slug": "drax"
+   },
+   {
+    "name": "Mantis",
+    "slug": "mantis"
+   },
+   {
+    "name": "Rocket",
+    "slug": "rocket"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The Guardians have settled on Knowhere, and Peter Quill is still down over losing Gamora. His friends Drax and Mantis decide to cheer him up with the best Christmas present they can think of: the actor Kevin Bacon, whom Peter loves. They travel to Earth to find him, while the rest of the team prepares a surprise celebration for Peter."
+   },
+   {
+    "title": "Key moments",
+    "body": "Drax and Mantis track Kevin Bacon down in Hollywood and take him with them. Back on Knowhere, the team realizes Bacon is only an actor, and Peter demands that he be returned home. Kraglin tells a story about Yondu and Christmas, and Bacon ends up staying for the party. At the end, Mantis tells Peter that she is his half-sister, and Peter's mood toward the holiday changes."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is a weak link. It is a short, silly Christmas special that sets up the team's mood going into Guardians of the Galaxy Vol. 3. Peter Quill is not confirmed for Doomsday, so you can skip it. Watch it if you want the feel of the team."
+   }
+  ],
+  "runtime": 44
+ },
+ {
+  "id": "quantumania",
+  "title": "Ant-Man and the Wasp: Quantumania",
+  "type": "film",
+  "release": "2023-02-17",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 2,
+  "oneLiner": "Scott Lang and his family get pulled into the Quantum Realm and meet Kang the Conqueror.",
+  "characters": [
+   {
+    "name": "Scott Lang / Ant-Man",
+    "slug": "scott-lang"
+   },
+   {
+    "name": "Hope van Dyne / Wasp",
+    "slug": "hope-van-dyne"
+   },
+   {
+    "name": "Kang the Conqueror",
+    "slug": "kang"
+   },
+   {
+    "name": "Hank Pym",
+    "slug": "hank-pym"
+   },
+   {
+    "name": "Cassie Lang",
+    "slug": "cassie-lang"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Scott Lang is enjoying life as a famous author when his daughter Cassie's experiment accidentally drags the whole family into the Quantum Realm. Down there, Hope's mother Janet turns out to have been hiding a big secret: she spent decades in this world and made an enemy of its ruler, Kang the Conqueror, a man exiled from his own timeline who wants to escape and conquer. The family has to fight through a strange civilization of rebels and odd creatures to stop Kang."
+   },
+   {
+    "title": "Key moments",
+    "body": "Kang is revealed as a calm, terrifying threat. Janet's past with him explains why she never talked about the Quantum Realm. Darren Cross, Scott's old enemy from the first Ant-Man, comes back as the twisted M.O.D.O.K., but later switches sides and sacrifices himself. Hank's ants join the uprising. Scott and Hope finally throw Kang and the Pym Particles into his power core, destroying him, and the family returns home."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Mid-credits: several variants of Kang, including Immortus, Rama-Tut and Centurion, all played by Jonathan Majors, discuss his death, and hundreds more gather in an arena and plan an uprising across the multiverse. Post-credits: Loki and Mobius meet another Kang variant, Victor Timely, at the 1893 Chicago World's Fair, using footage from Loki season 2."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This film was built to launch Kang as the main villain of the multiverse saga. After Jonathan Majors was dropped by Marvel in December 2023 following a legal case, the plan changed, and Doctor Doom, played by Robert Downey Jr., took that slot. Scott Lang and Cassie Lang (Kathryn Newton) are confirmed for Doomsday; Hope is not. You can skip this film and still follow Doomsday."
+   }
+  ],
+  "watchNote": "Optional. Watch Loki season 2 instead if short on time.",
+  "runtime": 124
+ },
+ {
+  "id": "guardians-of-the-galaxy-vol-3",
+  "title": "Guardians of the Galaxy Vol. 3",
+  "type": "film",
+  "release": "2023-05-05",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 1,
+  "oneLiner": "The Guardians race to save Rocket's life and face the scientist who created him.",
+  "characters": [
+   {
+    "name": "Rocket",
+    "slug": "rocket"
+   },
+   {
+    "name": "Peter Quill / Star-Lord",
+    "slug": "peter-quill"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   },
+   {
+    "name": "Groot",
+    "slug": "groot"
+   },
+   {
+    "name": "Adam Warlock",
+    "slug": "adam-warlock"
+   },
+   {
+    "name": "The High Evolutionary",
+    "slug": "high-evolutionary"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Adam Warlock, sent by Ayesha, attacks the Guardians on Knowhere and leaves Rocket critically wounded. His body carries a kill switch from the corporation that built him, so ordinary medical gear cannot heal him. The team has to find the override code, which sends them after the High Evolutionary, the obsessive scientist who made Rocket as a lab animal. Rocket's past plays out in flashbacks while his friends race to keep him alive."
+   },
+   {
+    "title": "Key moments",
+    "body": "Flashbacks show Rocket and his lab friends of Batch 89, and what the High Evolutionary did to them. The hunt for the code leads to Counter-Earth, which the villain destroys. Peter Quill and Groot recover the code and restart Rocket's heart. The team then frees rescued animal children and fights the High Evolutionary's forces, and Rocket chooses to spare his creator. At the end Peter hands the captain's role to Rocket and goes home to Earth to see his grandfather. Gamora rejoins the Ravagers, and Nebula and Drax stay on Knowhere to look after the rescued children."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There are two end scenes. In the mid-credits scene, Rocket leads a new team of Groot, Kraglin, Cosmo, Adam Warlock and Phyla-Vell, waiting in a desert as a horde of aliens approaches a village. After the credits, Peter eats breakfast with his grandfather, and a title card promises that Star-Lord will return. Neither scene sets up a specific upcoming film."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. This closes the story of the original Guardians team and makes Rocket the leader of a new lineup. No Guardian is on Marvel's official Doomsday cast list, and nothing in the film points toward Doomsday. The Star-Lord title card promises a return with no date or project attached. Watch it because it is one of Marvel's best films, not because the finale needs it."
+   }
+  ],
+  "watchNote": "Optional for Doomsday.",
+  "runtime": 150
+ },
+ {
+  "id": "secret-invasion",
+  "title": "Secret Invasion",
+  "type": "series",
+  "release": "2023-06-21",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 1,
+  "oneLiner": "Nick Fury returns to stop rebel Skrulls who have secretly replaced people inside Earth's governments.",
+  "characters": [
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   },
+   {
+    "name": "Talos",
+    "slug": "talos"
+   },
+   {
+    "name": "G'iah",
+    "slug": "giah"
+   },
+   {
+    "name": "Gravik",
+    "slug": "gravik"
+   },
+   {
+    "name": "Rhodey (Skrull)",
+    "slug": "james-rhodes"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Nick Fury has spent years in space, but he comes back to an Earth where the Skrulls he once promised a new home have a rebel faction under Gravik. Gravik's Skrulls have quietly replaced people in governments and militaries around the world and want the planet for themselves. Fury works with Skrull ally Talos, Talos's daughter G'iah, Maria Hill, and Fury's wife Varra, a Skrull. The show plays as a slow spy thriller more than an action story."
+   },
+   {
+    "title": "Key moments",
+    "body": "The Skrull infiltration runs deep: Colonel Rhodes is revealed to be the Skrull Raava, working to push the US toward war. Maria Hill is killed in the first episode by Gravik posing as Fury. G'iah is shot, then survives by taking Extremis-based powers, and Talos is killed in episode 4. Gravik takes the stored DNA of Earth's heroes, called the Harvest, to become a super-soldier, and G'iah kills him with the same power. Fury kills Raava and stops a nuclear strike, but a new law against off-world species fuels public violence. Fury and Varra leave Earth for a peace summit with the Kree. The real Rhodes is freed from a containment pod at the end."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. Nothing in the series is tied to Doomsday by any official announcement. Neither Fury nor Rhodey is on Marvel's Doomsday cast list. The takeaways are that Rhodey was replaced by a Skrull for an unspecified long stretch (fans theorize it dates to around Civil War, which the director has not confirmed), and that Fury and the Skrulls are still out there. Most fans rate it as one of Marvel's weaker series, so skipping it costs little if you are short on time."
+   }
+  ],
+  "watchNote": "Skippable.",
+  "runtime": 264,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "loki-season-2",
+  "title": "Loki, Season 2",
+  "type": "series",
+  "release": "2023-10-05",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 3,
+  "oneLiner": "Loki and Mobius fight to save a collapsing TVA while Loki slips through time.",
+  "characters": [
+   {
+    "name": "Loki",
+    "slug": "loki"
+   },
+   {
+    "name": "Mobius",
+    "slug": "mobius"
+   },
+   {
+    "name": "Sylvie",
+    "slug": "sylvie"
+   },
+   {
+    "name": "Victor Timely / Kang",
+    "slug": "kang"
+   },
+   {
+    "name": "Ouroboros / OB",
+    "slug": "ob"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Season 2 starts right after Season 1. Loki is slipping uncontrollably through time, and the TVA is falling apart because Sylvie killing He Who Remains let the timeline branch out of control. The Temporal Loom, the machine that handles the branches, is about to overload. Loki, Mobius and the TVA team search for a fix, chasing Victor Timely, a Kang variant living in 1893 Chicago, while Sylvie hides in a branched 1982 Oklahoma."
+   },
+   {
+    "title": "Key moments",
+    "body": "Episode 4 ends with the Loom exploding after Timely is killed. In episode 5 Loki learns to control his time-slipping. In the finale he returns to a moment just before the explosion, refuses He Who Remains' offer to kill Sylvie, and steps into the Loom himself. He destroys it, rearranges the branches into a tree-like structure, and takes a seat at the End of Time to keep it all running alone. The TVA continues under new leadership. Mobius goes back to a normal life, and Sylvie is left with her own timeline."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The only credits scene is in episode 1: during the credits, Sylvie visits a McDonald's in a branched 1982 Broxton, Oklahoma. The other episodes have no credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Loki is on Marvel's confirmed Doomsday cast list, so this is the most direct character link in this stretch. The season ends with him alone at the End of Time holding the branching timelines together. How that connects to Doomsday has not been revealed. Reading it as the multiverse that Doomsday threatens is a reasonable fan theory, not something Marvel has stated. Watch season 1 first."
+   }
+  ],
+  "watchNote": "Watch season 1 first.",
+  "runtime": 309,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "the-marvels",
+  "title": "The Marvels",
+  "type": "film",
+  "release": "2023-11-10",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2026,
+  "threads": [
+   "cosmic"
+  ],
+  "essential": 2,
+  "oneLiner": "Captain Marvel, Monica Rambeau and Ms. Marvel swap places whenever they use their powers.",
+  "characters": [
+   {
+    "name": "Carol Danvers / Captain Marvel",
+    "slug": "carol-danvers"
+   },
+   {
+    "name": "Monica Rambeau",
+    "slug": "monica-rambeau"
+   },
+   {
+    "name": "Kamala Khan / Ms. Marvel",
+    "slug": "kamala-khan"
+   },
+   {
+    "name": "Dar-Benn",
+    "slug": "dar-benn"
+   },
+   {
+    "name": "Nick Fury",
+    "slug": "nick-fury"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Dar-Benn, a Kree leader whose homeworld Hala is dying after Carol Danvers destroyed the Supreme Intelligence, gets hold of a Quantum Band and starts opening jump points to steal resources. When Carol, Monica Rambeau and Kamala Khan use their light-based powers, they swap places with each other. The trio has to learn to work as a team, with help from Nick Fury and Kamala's family, who end up on the S.A.B.E.R. space station."
+   },
+   {
+    "title": "Key moments",
+    "body": "The swapping drives the action, and the film is short and light. One planet's people communicate by singing. Carol faces her history with the Kree, and Monica has to deal with her feelings about Carol after losing her mother. Dar-Benn gets hold of Kamala's band as well, and using both destroys her and tears a rift in reality. Monica is stranded on the other side while Carol restores Hala's sun. Carol then moves into Monica's house, and Kamala starts building a young team, beginning with Kate Bishop."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The Kate Bishop recruitment is the last scene of the film proper, before the credits. In the mid-credits scene, Monica wakes up in another universe and meets that world's Maria Rambeau, who has Binary-style powers, and Kelsey Grammer's Beast. A short audio gag over the Marvel logo after the credits is a Flerken's meow and a tentacle squelch. There is no full post-credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Kate Bishop has been announced for Doomsday, and Kelsey Grammer's Beast is on the confirmed X-Men cast. Carol, Monica and Kamala are not announced. The mid-credits scene is the main link: it puts Monica in an X-Men world with Beast. How Doomsday uses it has not been explained. The rest of the film is lighter background, so one scene is the part to catch if you are short on time."
+   }
+  ],
+  "runtime": 105
+ },
+ {
+  "id": "what-if-season-2",
+  "title": "What If...?, Season 2",
+  "type": "series",
+  "release": "2023-12-22",
+  "year": 2023,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 1,
+  "oneLiner": "The animated multiverse anthology continues with new alternate-history stories told by the Watcher.",
+  "characters": [
+   {
+    "name": "The Watcher",
+    "slug": "uatu"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   },
+   {
+    "name": "Strange Supreme",
+    "slug": "doctor-strange"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Season 2 of the animated anthology has nine episodes, released daily from December 22 to 30, 2023. Each one is a stand-alone alternate universe watched by Uatu the Watcher, who is supposed to observe the multiverse without interfering. Episodes cover Nebula joining the Nova Corps, Peter Quill attacking Earth, Happy Hogan saving Christmas, Tony Stark crashing on Sakaar, Captain Carter facing a brainwashed Steve Rogers, Kahhori gaining the Tesseract's power, Hela allied with Wenwu, and the Avengers in 1602."
+   },
+   {
+    "title": "Key moments",
+    "body": "The season builds toward Strange Supreme, a Doctor Strange variant who has been capturing other variants to feed a machine called the Forge, hoping to resurrect his lost universe. In the finale, Captain Carter and Kahhori stop him, and he sacrifices himself. The Watcher then restores that universe and Carter asks to see more of the multiverse."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Episode 4 has a mid-credits scene in which the Grandmaster, now a puddle, begs Topaz to collect him. Other episodes have no credits scene."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. The show is animated and set in separate alternate universes, and nothing in it is tied to Doomsday by any announcement. It is useful mainly as a picture of how large the multiverse is. You can skip it and miss no plot."
+   }
+  ],
+  "watchNote": "Skippable.",
+  "runtime": 271,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "echo",
+  "title": "Echo",
+  "type": "series",
+  "release": "2024-01-09",
+  "year": 2024,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "Maya Lopez returns home to Oklahoma and faces her family's history and the Kingpin.",
+  "characters": [
+   {
+    "name": "Maya Lopez / Echo",
+    "slug": "maya-lopez"
+   },
+   {
+    "name": "Wilson Fisk / Kingpin",
+    "slug": "wilson-fisk"
+   },
+   {
+    "name": "Matt Murdock / Daredevil",
+    "slug": "matt-murdock"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "All five episodes were released together on January 9, 2024. After shooting Wilson Fisk in Hawkeye, Maya Lopez, a deaf Choctaw woman raised partly by the Kingpin, leaves New York and goes home to Tamaha, Oklahoma. She wants to leave her old life behind but ends up facing it when Fisk survives and comes after her. The story digs into her Native heritage, her family and the ancestral power running through the women in her line. It is darker and more grounded than most Marvel shows."
+   },
+   {
+    "title": "Key moments",
+    "body": "Flashbacks and visions of Maya's Choctaw ancestors anchor the series. Matt Murdock appears briefly as Daredevil in a fight with Maya shown in flashback. Fisk offers Maya his empire back, and she refuses to kill him, but she also refuses to follow him. In the finale he kidnaps her family at the powwow, and Maya shares her powers with them. She takes Fisk into a memory of his father abusing his mother, and he leaves before police arrive. Maya then leaves Tamaha."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The mid-credits scene in the finale shows Fisk on a plane watching news coverage of a New York mayoral race with no clear front-runner. It sets up Daredevil: Born Again."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. It matters mainly as the lead-in to Daredevil: Born Again, which picks up Fisk's rise in New York. It is a street-level story with no cosmic or multiverse content. Maya, Fisk and Daredevil are not on Marvel's Doomsday cast list."
+   }
+  ],
+  "watchNote": "Watch before Daredevil: Born Again.",
+  "runtime": 203,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "deadpool-and-wolverine",
+  "title": "Deadpool & Wolverine",
+  "type": "film",
+  "release": "2024-07-26",
+  "year": 2024,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "mutants",
+   "multiverse"
+  ],
+  "essential": 3,
+  "oneLiner": "The TVA recruits Deadpool and a Wolverine variant to save a dying timeline.",
+  "characters": [
+   {
+    "name": "Wade Wilson / Deadpool",
+    "slug": "deadpool"
+   },
+   {
+    "name": "Logan / Wolverine",
+    "slug": "wolverine"
+   },
+   {
+    "name": "Cassandra Nova",
+    "slug": "cassandra-nova"
+   },
+   {
+    "name": "Paradox",
+    "slug": "paradox"
+   },
+   {
+    "name": "Johnny Storm",
+    "slug": "johnny-storm"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Wade Wilson has quit being Deadpool and sells used cars when the TVA grabs him. Mr. Paradox explains that Wade's universe is dying because its anchor being, that world's Wolverine, Logan, has died. Wade refuses to accept it, steals a TVA device and searches the multiverse for another Wolverine to replace him. He comes back with a grumpy, bitter variant, and Paradox sends the pair to the Void, a wasteland at the end of time ruled by Cassandra Nova."
+   },
+   {
+    "title": "Key moments",
+    "body": "Cassandra Nova, Charles Xavier's twin sister, rules the Void. In it, the pair meet Chris Evans as a Fox-era Johnny Storm, who is killed by Cassandra, and then join a group of cast-offs: Laura, Elektra, Blade and Gambit. They use Juggernaut's helmet to block Cassandra's powers, but she escapes, takes the Time Ripper and plans to destroy every timeline. Wade and Logan destroy it together, and Cassandra dies. TVA agent Hunter B-15 arrests Paradox and lets Logan stay in Wade's universe."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Over the credits, behind-the-scenes footage from the Fox X-Men and Fantastic Four films plays to a Green Day song. A post-credits scene returns Deadpool to TVA headquarters, where he plays footage of Johnny Storm swearing at Cassandra in the car on the way to her base."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Doomsday has an announced X-Men cast, including Professor X, Magneto, Cyclops, Beast, Nightcrawler, Mystique and Gambit. Neither Deadpool nor Wolverine has been announced. This film is the earliest MCU place that mutants, the TVA and the idea of a dying universe show up together, which is why it is useful background. Whether any of it feeds Doomsday has not been stated by Marvel."
+   }
+  ],
+  "runtime": 128
+ },
+ {
+  "id": "agatha-all-along",
+  "title": "Agatha All Along",
+  "type": "series",
+  "release": "2024-09-18",
+  "year": 2024,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "wanda",
+   "magic"
+  ],
+  "essential": 2,
+  "oneLiner": "Powerless after WandaVision, Agatha Harkness joins a coven on the Witches' Road.",
+  "characters": [
+   {
+    "name": "Agatha Harkness",
+    "slug": "agatha-harkness"
+   },
+   {
+    "name": "Billy Maximoff / Wiccan",
+    "slug": "billy-maximoff"
+   },
+   {
+    "name": "Rio Vidal",
+    "slug": "rio-vidal"
+   },
+   {
+    "name": "Lilia",
+    "slug": "lilia"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Three years after WandaVision, Agatha Harkness is still stuck in the fake town of Westview, powerless and acting as 'Agnes' under Wanda's spell. A teenager she calls 'Teen' breaks the spell and talks her onto the Witches' Road, a magical gauntlet that rewards any witch who survives its trials. Agatha builds a coven that includes Lilia and Jen, while Rio Vidal, a witch from her past, hunts her. Each trial is built around a different witchcraft tradition."
+   },
+   {
+    "title": "Key moments",
+    "body": "Teen is revealed to be Billy Maximoff, the son of Wanda and Vision, whose soul ended up in the body of a teenager named William Kaplan after a car accident. Rio turns out to be Death. Lilia sacrifices herself in episode 7, and Agatha dies in the finale after giving herself up to Death to save Billy. She returns as a ghost, and Billy seals the Road. Billy and Agatha then set out to find his brother Tommy."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Moderate link at best. It carries Billy Maximoff and the thread of Wanda's missing sons forward. Neither Billy, Agatha nor Wanda is on Marvel's Doomsday cast list, and Wanda's involvement is only a rumor. The series has no credits scene, so nothing is teased. Watch WandaVision first."
+   }
+  ],
+  "watchNote": "Watch WandaVision first.",
+  "runtime": 359,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "what-if-season-3",
+  "title": "What If...?, Season 3",
+  "type": "series",
+  "release": "2024-12-22",
+  "year": 2024,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 1,
+  "oneLiner": "The final season of the animated anthology wraps up the Watcher's story.",
+  "characters": [
+   {
+    "name": "The Watcher",
+    "slug": "uatu"
+   },
+   {
+    "name": "Strange Supreme",
+    "slug": "doctor-strange"
+   },
+   {
+    "name": "Nebula",
+    "slug": "nebula"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The third and final season has eight episodes, released daily from December 22 to 29, 2024. Each is a stand-alone alternate universe, including the Hulk fighting the Mech Avengers, Agatha in Hollywood, Red Guardian against the Winter Soldier, Howard the Duck getting married, and a 1872 story with Shang-Chi and Kate Bishop."
+   },
+   {
+    "title": "Key moments",
+    "body": "The season ends with the Watcher on trial before the other Watchers for his repeated interference. Captain Carter sacrifices herself to take the group to Strange Supreme's universe, where the Watchers' conflict is resolved. The Watcher then invites Kahhori, Byrdie and Storm to help him watch over the multiverse."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. It is an animated side series set in alternate universes, and nothing in it is tied to Doomsday by any announcement. It closes out the Watcher's storyline, but the main films do not depend on it. No credits scenes have been reported for the season."
+   }
+  ],
+  "watchNote": "Skippable.",
+  "runtime": 235,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "your-friendly-neighborhood-spider-man",
+  "title": "Your Friendly Neighborhood Spider-Man",
+  "type": "series",
+  "release": "2025-01-29",
+  "year": 2025,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "spider"
+  ],
+  "essential": 1,
+  "oneLiner": "A teenage Peter Parker begins his Spider-Man journey with Norman Osborn mentoring him, in a separate universe.",
+  "characters": [
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "Norman Osborn",
+    "slug": "norman-osborn"
+   },
+   {
+    "name": "Aunt May",
+    "slug": "may-parker"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "This animated series is set in a separate universe from the main MCU. Peter Parker is a high school student who gains his powers and starts learning to be a hero, with Norman Osborn, the head of Oscorp, acting as his mentor instead of Tony Stark. The tone is warm and youthful, with school, friends and early adventures before the bigger villains arrive."
+   },
+   {
+    "title": "Key moments",
+    "body": "Season 1 has ten episodes, released in batches from January 29 to February 19, 2025. Peter's powers come from a time paradox set off by Doctor Strange's time-travel during a symbiote fight. Norman's evolution toward the Green Goblin is the main long-term hook, and Doc Ock is also in the mix. Peter's secret identity is exposed along the way, and the season ends on a dark turn at his internship. It is self-contained, so it works as a friendly starting point for newcomers."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Separate universe, so it is not tied to Doomsday by any announcement. Tom Holland's Spider-Man is not on the Doomsday cast list. Treat this one as optional, and only watch it if you want more Peter Parker in a lighter, younger tone."
+   }
+  ],
+  "watchNote": "Separate universe. Optional.",
+  "runtime": 307,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "captain-america-brave-new-world",
+  "title": "Captain America: Brave New World",
+  "type": "film",
+  "release": "2025-02-14",
+  "year": 2025,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "cap"
+  ],
+  "essential": 3,
+  "oneLiner": "Sam Wilson, the new Captain America, uncovers a plot that threatens President Thaddeus Ross and global peace.",
+  "characters": [
+   {
+    "name": "Sam Wilson / Captain America",
+    "slug": "sam-wilson"
+   },
+   {
+    "name": "Thaddeus Ross",
+    "slug": "thaddeus-ross"
+   },
+   {
+    "name": "Joaquin Torres / Falcon",
+    "slug": "joaquin-torres"
+   },
+   {
+    "name": "Isaiah Bradley",
+    "slug": "isaiah-bradley"
+   },
+   {
+    "name": "The Leader",
+    "slug": "the-leader"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Sam Wilson is Captain America, leading a small team with Joaquin Torres, the new Falcon. Thaddeus Ross, the old general who hunted Hulk, has been elected President of the United States. At a White House summit, Ross reveals adamantium, a rare metal, has been found on Celestial Island, the remains of the Celestial Tiamut in the Indian Ocean, and proposes a treaty to share it. During the summit, Isaiah Bradley, the super-soldier from The Falcon and the Winter Soldier, opens fire after being triggered, and Sam has to work out who is controlling him."
+   },
+   {
+    "title": "Key moments",
+    "body": "The mastermind is Samuel Sterns, the scientist from The Incredible Hulk, who now has superhuman intelligence and a grudge against Ross, who imprisoned him. Sterns's mind-control tech pushes American pilots into attacking Japan's fleet at Celestial Island, and Sam and Torres stop it. When Sterns is exposed, Ross transforms into the Red Hulk and wrecks part of the White House. Sam talks him down by reminding him of his estranged daughter Betty. Ross resigns and is imprisoned, Isaiah is cleared, and Torres is invited to join the Avengers."
+   },
+   {
+    "title": "Post-credits",
+    "body": "In the post-credits scene, Sterns, now a prisoner on the Raft, tells Sam that something bigger is coming and that Sam's heroes are not the only ones protecting existence. Sam leaves unconvinced. It is the first time anything in this stretch of the MCU warns, in person, of outside forces arriving."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Sam Wilson and Joaquin Torres are on Marvel's confirmed Doomsday cast list. Thaddeus Ross and Samuel Sterns are not, and no reliable report says they appear. The adamantium and Celestial Island are the film's main long-term setup, though how they pay off is unannounced. Watch this before Thunderbolts*, and The Falcon and the Winter Soldier first if you can."
+   }
+  ],
+  "watchNote": "Watch before Thunderbolts*.",
+  "runtime": 118
+ },
+ {
+  "id": "daredevil-born-again-season-1",
+  "title": "Daredevil: Born Again, Season 1",
+  "type": "series",
+  "release": "2025-03-04",
+  "year": 2025,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "street"
+  ],
+  "essential": 2,
+  "oneLiner": "Matt Murdock and Wilson Fisk clash again as Fisk wins the mayor's office in New York.",
+  "characters": [
+   {
+    "name": "Matt Murdock / Daredevil",
+    "slug": "matt-murdock"
+   },
+   {
+    "name": "Wilson Fisk / Kingpin",
+    "slug": "wilson-fisk"
+   },
+   {
+    "name": "Frank Castle / Punisher",
+    "slug": "frank-castle"
+   },
+   {
+    "name": "Karen Page",
+    "slug": "karen-page"
+   },
+   {
+    "name": "Bullseye",
+    "slug": "bullseye"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "In the premiere, Bullseye (Dex) kills Matt Murdock's friend Foggy Nelson, and Matt tries to kill him. A year later, Matt has retired as Daredevil and works at a law firm. Wilson Fisk, the Kingpin, has gone legitimate and wins the New York mayoral election. A string of killings and corrupt police wearing Punisher skulls pull Matt back in, and the two enemies fight a long war in the courts and on the streets. It is more adult than most Marvel shows, with violence and a dark mood."
+   },
+   {
+    "title": "Key moments",
+    "body": "Fisk forms an Anti-Vigilante Task Force, originally aimed at a killer called Muse. The task force becomes a tool for Fisk. Matt and Frank Castle, the Punisher, clash and then cooperate, Karen Page returns, and Heather Glenn is drawn into the fight. Dex escapes prison and shoots at Fisk at his ball, and Matt takes the bullet. In the finale, Fisk cuts power to the city and declares martial law, and Matt starts recruiting allies to resist him."
+   },
+   {
+    "title": "Post-credits",
+    "body": "In the mid-credits scene of the finale, Frank Castle tricks a prison guard and escapes custody."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Moderate link at best. Fisk as Mayor with a vigilante task force is a big change for New York, but nothing announced connects it to Doomsday. Daredevil, Fisk and the Punisher are not on Marvel's Doomsday cast list. It is a very good show for Daredevil fans, but skippable for the main plot."
+   }
+  ],
+  "watchNote": "Watch Daredevil on Netflix first if you can.",
+  "runtime": 429,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "thunderbolts",
+  "title": "Thunderbolts*",
+  "type": "film",
+  "release": "2025-05-02",
+  "year": 2025,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "newavengers"
+  ],
+  "essential": 3,
+  "oneLiner": "A team of misfit anti-heroes is trapped in a vault and forced to work together.",
+  "characters": [
+   {
+    "name": "Yelena Belova",
+    "slug": "yelena-belova"
+   },
+   {
+    "name": "Bucky Barnes",
+    "slug": "bucky-barnes"
+   },
+   {
+    "name": "Red Guardian",
+    "slug": "red-guardian"
+   },
+   {
+    "name": "John Walker",
+    "slug": "john-walker"
+   },
+   {
+    "name": "Ghost",
+    "slug": "ava-starr"
+   },
+   {
+    "name": "Bob / Sentry",
+    "slug": "bob-reynolds"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "CIA director Valentina Allegra de Fontaine sends Yelena Belova, John Walker, Ghost and Taskmaster to a secret facility, each told to kill the others. It is a setup: she plans to burn the place down with them inside, along with proof of her own misconduct. They escape, free a dazed man named Bob, and learn he is the Sentry. Bucky Barnes and Red Guardian join the scramble as the group fights Valentina and each other."
+   },
+   {
+    "title": "Key moments",
+    "body": "Valentina plans to present Bob as a hero, but he turns on her. His dark side, the Void, swallows New York in shadow. Yelena leads the team into Bob's mind, where they help him face his pain, and the Void fades. Valentina then presents the team to the public as the New Avengers, and Yelena tells her they now hold the leverage over her."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There are two scenes. In the mid-credits scene, Red Guardian pushes a supermarket shopper toward a Wheaties box with the New Avengers on it, and she puts it back when he turns away. The post-credits scene jumps fourteen months ahead to the old Avengers Tower, now the Watchtower. Sam Wilson is suing the team over use of the Avengers name, and Red Guardian floats a rename to dodge the case. Then an unknown craft from another dimension appears, with a large 4 on its hull, the Fantastic Four's ship. A title card promises the New Avengers and Bob will return."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the most direct runway to Doomsday, set fourteen months before it. Yelena, Bucky, Red Guardian, John Walker, Ghost and Bob are all on Marvel's confirmed cast list, as is Sam Wilson. Valentina is not on any official list, so her return is unconfirmed. The post-credits scene sets up the Wilson trademark feud and the Fantastic Four's arrival. Watch it right before Doomsday, ideally after Captain America: Brave New World."
+   }
+  ],
+  "watchNote": "Watch after Brave New World, right before Doomsday",
+  "runtime": 127
+ },
+ {
+  "id": "ironheart",
+  "title": "Ironheart",
+  "type": "series",
+  "release": "2025-06-24",
+  "year": 2025,
+  "phase": 5,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "magic",
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "Riri Williams builds her own armor and gets pulled into a magic-powered criminal crew in Chicago.",
+  "characters": [
+   {
+    "name": "Riri Williams / Ironheart",
+    "slug": "riri-williams"
+   },
+   {
+    "name": "Parker Robbins / The Hood",
+    "slug": "parker-robbins"
+   },
+   {
+    "name": "Mephisto",
+    "slug": "mephisto"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Riri Williams is a young genius from Chicago who builds her own Iron Man-style suit and is pushed out of MIT. Back home she falls in with a crew led by Parker Robbins, the Hood, whose power comes from a magical cloak. Riri also builds an AI copy of her late best friend Natalie into her suit. The six-episode series mixes street-level crime, tech and dark magic, far from the Avengers."
+   },
+   {
+    "title": "Key moments",
+    "body": "The crew's heists go bad, Riri hides her part in a death, and Parker eventually orders her killed. She rebuilds her suit with magic from Zelma Stanton, which wipes the Natalie AI. In the finale a flashback shows Parker making a deal with Mephisto, played by Sacha Baron Cohen, for the cloak. Riri beats Parker, then Mephisto offers her a deal. She accepts on the condition that her loved ones are left alone, and Natalie is restored to life."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is one credits scene, in the finale. Parker, who has lost his powers, visits the Stantons' magic shop and asks Zelma for help getting bigger magic. She does not answer before the scene ends."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. Mephisto's first MCU appearance is a tease for the magic side of the franchise, and Riri may return later. Ironheart is not on the confirmed Doomsday cast list, and the series sets nothing up for the film in any confirmed way. Skip it if short on time."
+   }
+  ],
+  "watchNote": "Skippable.",
+  "runtime": 302,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "eyes-of-wakanda",
+  "title": "Eyes of Wakanda",
+  "type": "series",
+  "release": "2025-08-01",
+  "year": 2025,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": -1260,
+  "threads": [
+   "wakanda"
+  ],
+  "essential": 1,
+  "oneLiner": "An animated anthology about Wakanda's secret agents, the Hatut Zaraze, retrieving stolen vibranium across history.",
+  "characters": [
+   {
+    "name": "Noni",
+    "slug": "noni"
+   },
+   {
+    "name": "Hatut Zaraze spies",
+    "slug": "hatut-zeraze"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Eyes of Wakanda is a four-episode animated series released all at once on August 1, 2025. It follows the Hatut Zaraze, Wakanda's covert agents, as they retrieve stolen vibranium artifacts across history. Episodes jump between eras: Minoan Crete in 1260 BC, the Trojan War, Ming-era China in 1400 AD and Ethiopia in 1896. The cast is new, led by Noni, a disgraced former Dora Milaje. Ayo from the films does not appear."
+   },
+   {
+    "title": "Key moments",
+    "body": "Noni defeats the rogue agent Nkati and joins the Hatut Zaraze. B'Kai spends years undercover in Troy as a Greek warrior. Basha slips into K'un-Lun and meets an Iron Fist wielder. In the finale, a future Black Panther arrives from five hundred years ahead with a warning that Wakanda's isolation leaves it open to an alien Horde. The episode ends years later with Killmonger preparing to steal an axe from a London museum."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Side story. Because it spans eras, it is placed at its earliest setting, 1260 BC, which is also where the official Disney+ timeline starts the whole MCU. It does not set up Doomsday in any confirmed way. The closing Horde warning is the only forward-looking idea, and nothing says it pays off in the film. Skip it unless Wakandan lore is the draw."
+   }
+  ],
+  "watchNote": "Side story. Skippable.",
+  "runtime": 121,
+  "runtimeEstimated": false
+ },
+ {
+  "id": "marvel-zombies",
+  "title": "Marvel Zombies",
+  "type": "series",
+  "release": "2025-09-24",
+  "year": 2025,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "multiverse"
+  ],
+  "essential": 1,
+  "oneLiner": "An animated horror story in which Marvel heroes in a zombie-infested world fight to survive.",
+  "characters": [
+   {
+    "name": "Kamala Khan",
+    "slug": "kamala-khan"
+   },
+   {
+    "name": "Yelena Belova",
+    "slug": "yelena-belova"
+   },
+   {
+    "name": "Kate Bishop",
+    "slug": "kate-bishop"
+   },
+   {
+    "name": "Okoye (zombie)",
+    "slug": "okoye"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Marvel Zombies is a four-episode animated horror series released all at once on September 24, 2025. In a world overrun by a zombie plague, survivors including Kamala Khan, Kate Bishop, Riri Williams and the AI F.R.I.D.A.Y. head to a S.H.I.E.L.D. base in Ohio to activate a transmitter. It continues the zombie universe from What If...? and is darker and bloodier than most Marvel shows."
+   },
+   {
+    "title": "Key moments",
+    "body": "Kate dies and Riri is bitten in the first episode. Yelena sacrifices herself while defending the survivors at Zemo's sanctuary. A flashback shows T'Challa dying to stop a zombified Thanos. At New Asgard, Wanda is revealed as the mastermind behind the infected food. Most heroes die in the finale, and Kamala wakes in a seemingly restored world that Riri reveals to be an illusion."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Side story. It takes place in a different universe and does not set up Doomsday in any confirmed way. Kate Bishop is confirmed for the film, but that is the live-action version and unrelated to this series. Skip it if short on time."
+   }
+  ],
+  "watchNote": "Side story. Skippable.",
+  "runtime": 136,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "fantastic-four-first-steps",
+  "title": "The Fantastic Four: First Steps",
+  "type": "film",
+  "release": "2025-07-25",
+  "year": 2025,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 1964,
+  "threads": [
+   "doom",
+   "cosmic",
+   "multiverse"
+  ],
+  "essential": 3,
+  "oneLiner": "Marvel's First Family faces a planet-eater on a retro-futuristic Earth-828, with a baby on the way.",
+  "characters": [
+   {
+    "name": "Reed Richards / Mister Fantastic",
+    "slug": "reed-richards"
+   },
+   {
+    "name": "Sue Storm / Invisible Woman",
+    "slug": "sue-storm"
+   },
+   {
+    "name": "Johnny Storm / Human Torch",
+    "slug": "johnny-storm"
+   },
+   {
+    "name": "Ben Grimm / The Thing",
+    "slug": "ben-grimm"
+   },
+   {
+    "name": "Franklin Richards",
+    "slug": "franklin-richards"
+   },
+   {
+    "name": "Galactus",
+    "slug": "galactus"
+   },
+   {
+    "name": "Silver Surfer",
+    "slug": "silver-surfer"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "The film takes place on Earth-828, a separate universe with a retro-futuristic 1960s look, four years after Reed, Sue, Johnny and Ben gained powers from cosmic rays. Reed and Sue are expecting a baby when the Silver Surfer arrives with a warning that Galactus, a planet-devourer, has chosen Earth. The team flies into space to bargain, and Galactus offers to spare Earth in return for their unborn child. They refuse, and the fight over the planet begins."
+   },
+   {
+    "title": "Key moments",
+    "body": "Sue gives birth to Franklin on the trip home, and the baby turns out to be very powerful. Back on Earth, the public turns on the team for refusing Galactus. Reed plans to move the planet away with teleportation bridges. The Silver Surfer is revealed as Shalla-Bal, a scientist from Zenn-La who served Galactus to save her world, and she ends up helping the heroes. Sue dies using all her power against Galactus, and Franklin brings her back."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There are two credits scenes. In the mid-credits scene, set four years later, Sue steps away while reading to Franklin. When she returns, a figure in a green cloak sits with him, holding a metal mask, and Franklin reaches toward it. Doom's face is never shown, and Robert Downey Jr. is reported to play him uncredited. The post-credits scene is the opening of the Fantastic Four's in-universe cartoon, which has no bearing on the plot."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the direct set-up. Doom meets Franklin in the mid-credits scene, though why he is interested has not been explained. Pedro Pascal, Vanessa Kirby, Joseph Quinn and Ebon Moss-Bachrach are all on the confirmed Doomsday cast list. The Thunderbolts* post-credits scene shows their ship arriving in the main MCU. Franklin's own role in Doomsday is unconfirmed."
+   }
+  ],
+  "watchNote": "Pairs with the Thunderbolts* post-credits",
+  "runtime": 114
+ },
+ {
+  "id": "spider-man-brand-new-day",
+  "title": "Spider-Man: Brand New Day",
+  "type": "film",
+  "release": "2026-07-31",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2026,
+  "threads": [
+   "spider",
+   "street",
+   "mutants"
+  ],
+  "essential": 2,
+  "oneLiner": "Four years after the world forgot him, Peter Parker protects New York alone and meets a young telepath.",
+  "characters": [
+   {
+    "name": "Peter Parker / Spider-Man",
+    "slug": "peter-parker"
+   },
+   {
+    "name": "MJ",
+    "slug": "mj-watson"
+   },
+   {
+    "name": "Ned Leeds",
+    "slug": "ned-leeds"
+   },
+   {
+    "name": "Jean Grey",
+    "slug": "jean-grey"
+   },
+   {
+    "name": "Frank Castle / Punisher",
+    "slug": "frank-castle"
+   },
+   {
+    "name": "Bruce Banner / Hulk",
+    "slug": "bruce-banner"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Four years after Doctor Strange's spell erased Peter Parker from everyone's memory, Peter stays away from MJ and Ned and patrols New York alone as Spider-Man. His overwork triggers new powers, including organic webbing. He gets pulled into a hunt involving the Department of Damage Control, which is searching for something called V-Max, and a telepath who hops between people's minds. She turns out to be Jean Grey, played by Sadie Sink. Peter turns to Bruce Banner for help with his changing body."
+   },
+   {
+    "title": "Key moments",
+    "body": "Jon Bernthal's Punisher clashes with Spider-Man, and Mac Gargan returns as Scorpion in a mechanized suit. The ninja group the Hand, led by Snow, is also in the mix. Jean's sister Sara was another telepath that the DODC kidnapped and killed. Jean possesses Banner, and the Hulk attacks DODC headquarters. At the climax, Jean's rage freezes everyone at the facility but Peter. Frank Castle shoots at Jean, Peter takes the hit, and Jean keeps him alive remotely."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no mid-credits scene. The single post-credits scene shows Ned's Spidey Tracker app. Spider-Man's pin starts in New York, then the map zooms out to North America and past Earth into deep space. A title card says Spider-Man will return, without naming a film. Fans debate who or what this points to, including a link to Doomsday or Secret Wars, but nothing is confirmed."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "The link is real but mostly indirect. Yelena Belova, now using the Black Widow name, appears and is on the Doomsday cast list. Mark Ruffalo's Banner and Jean Grey are here, but neither is confirmed for Doomsday. Tom Holland's Peter is not on any official Doomsday list, so any appearance is speculation. The post-credits tease could point at Doomsday or Secret Wars, and nothing says which."
+   }
+  ],
+  "runtime": 145
+ },
+ {
+  "id": "wonder-man",
+  "title": "Wonder Man",
+  "type": "series",
+  "release": "2026-01-27",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2025,
+  "threads": [
+   "street",
+   "newavengers"
+  ],
+  "essential": 1,
+  "oneLiner": "A struggling actor with secret powers and a washed-up Mandarin impersonator chase a Hollywood role.",
+  "characters": [
+   {
+    "name": "Simon Williams / Wonder Man",
+    "slug": "simon-williams"
+   },
+   {
+    "name": "Trevor Slattery",
+    "slug": "trevor-slattery"
+   },
+   {
+    "name": "P. Cleary (DODC)",
+    "slug": "p-cleary"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Simon Williams is an actor whose career keeps stalling, partly because he secretly has ionic powers and superpowered people are barred from Hollywood under the Doorman Clause. He befriends Trevor Slattery, the actor who played the fake Mandarin in Iron Man 3, and they audition together for a remake of an in-universe Wonder Man movie. It is a small, character-driven show under the Marvel Spotlight label, and all eight episodes were released on January 27, 2026."
+   },
+   {
+    "title": "Key moments",
+    "body": "The Department of Damage Control recruits Trevor as an informant, straining their friendship. A black-and-white flashback episode explains how the Doorman Clause came about. Both men get cast in the remake after a strong audition at the director's mansion. During filming, Simon learns of Trevor's deal and destroys the set in an explosion. Trevor takes the blame and is jailed, and Simon later breaks him out of the DODC prison. The two fly away together."
+   },
+   {
+    "title": "Post-credits",
+    "body": "There is no mid-credits or post-credits scene in any episode, including the finale."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Mostly background. The show ties in through Trevor Slattery and the DODC, which also appears in Spider-Man: Brand New Day. Wonder Man is not on the confirmed Doomsday cast list, and the show sets nothing up for the film in any confirmed way. Some commentary guesses Simon could join the heroes later, but that is speculation."
+   }
+  ],
+  "runtime": 240,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "daredevil-born-again-season-2",
+  "title": "Daredevil: Born Again, Season 2",
+  "type": "series",
+  "release": "2026-03-24",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2026,
+  "threads": [
+   "street"
+  ],
+  "essential": 2,
+  "oneLiner": "Mayor Fisk's task force hunts vigilantes while Matt Murdock decides how far to go to bring him down.",
+  "characters": [
+   {
+    "name": "Matt Murdock / Daredevil",
+    "slug": "matt-murdock"
+   },
+   {
+    "name": "Wilson Fisk / Kingpin",
+    "slug": "wilson-fisk"
+   },
+   {
+    "name": "Karen Page",
+    "slug": "karen-page"
+   },
+   {
+    "name": "Bullseye",
+    "slug": "bullseye"
+   },
+   {
+    "name": "Jessica Jones",
+    "slug": "jessica-jones"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Wilson Fisk is mayor of New York and runs an Anti-Vigilante Task Force. Matt Murdock has been unmasked as Daredevil, and Fisk turns the city against him. The season ran eight episodes, from March 24 to May 5, 2026. Matt, Karen Page and their allies try to prove that Fisk is smuggling weapons through the Red Hook port, while a smear campaign targets the mayor."
+   },
+   {
+    "title": "Key moments",
+    "body": "Fisk's wife Vanessa is hit by a glass shard and dies after surgery, which pushes him further into darkness. Matt fights Fisk and Fisk survives. Jessica Jones returns to help, and Matt is shot at the courthouse. Heather Glenn takes up the Muse mask. In the finale Matt publicly admits he is Daredevil to get Karen's case dismissed and persuades Fisk to accept exile from New York. Matt is arrested and ends the season in prison. Bullseye takes over Mr. Charles's work, and Luke Cage returns to Jessica Jones."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. The season is a street-level story with no Avengers in it. Frank Castle is absent because Jon Bernthal was committed to The Punisher: One Last Kill and Spider-Man: Brand New Day. Valentina Allegra de Fontaine is mentioned but does not appear. Daredevil and Fisk are not on the confirmed Doomsday cast list. Worth watching if you like Matt and Fisk, but safe to skip."
+   }
+  ],
+  "watchNote": "Pair with The Punisher: One Last Kill",
+  "runtime": 400
+ },
+ {
+  "id": "punisher-one-last-kill",
+  "title": "The Punisher: One Last Kill",
+  "type": "special",
+  "release": "2026-05-12",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2026,
+  "threads": [
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "Frank Castle tries to put down the skull and finds he cannot, with a bounty on his head.",
+  "characters": [
+   {
+    "name": "Frank Castle / Punisher",
+    "slug": "frank-castle"
+   },
+   {
+    "name": "Karen Page",
+    "slug": "karen-page"
+   },
+   {
+    "name": "Curtis Hoyle",
+    "slug": "curtis-hoyle"
+   },
+   {
+    "name": "Ma Gnucci",
+    "slug": "ma-gnucci"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "Frank Castle has killed the last of the Gnucci family he blames for his family's deaths and tries to move on. Hallucinations of people from his past haunt him. At his family's graves a vision of his daughter Lisa stops him from ending his own life. Crime boss Ma Gnucci, played by Judith Light, puts a bounty on him for killing her husband and three sons, and criminals attack his apartment building. The special premiered on Disney+ on May 12, 2026."
+   },
+   {
+    "title": "Key moments",
+    "body": "Frank escapes a burning building and protects a shopkeeper named Dre, his wife and their young daughter Charli. Charli gives him a paper rose, which he leaves on Lisa's grave, and he decides he still has work to do. He returns to the streets in a new costume. Karen Page appears as a vision, and Curtis Hoyle also appears. It runs alongside Daredevil: Born Again season 2, which explains why Frank is absent from that show."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. It is mainly a bridge to Spider-Man: Brand New Day, where Bernthal's Castle fights Spider-Man and later shoots at Jean Grey. Nothing here involves Doom, the Avengers or the multiverse, and nothing is confirmed to carry into Doomsday. Skip it if you only care about the road to December."
+   }
+  ],
+  "runtime": 51,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "x-men-97-season-2",
+  "title": "X-Men '97, Season 2",
+  "type": "series",
+  "release": "2026-07-01",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 1997,
+  "threads": [
+   "mutants",
+   "multiverse"
+  ],
+  "essential": 2,
+  "oneLiner": "The animated X-Men are scattered through time and race home to stop Apocalypse.",
+  "characters": [
+   {
+    "name": "Cyclops",
+    "slug": "cyclops"
+   },
+   {
+    "name": "Magneto",
+    "slug": "magneto"
+   },
+   {
+    "name": "Charles Xavier",
+    "slug": "charles-xavier"
+   },
+   {
+    "name": "Gambit",
+    "slug": "gambit"
+   },
+   {
+    "name": "Nightcrawler",
+    "slug": "nightcrawler"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "This animated season picks up with the X-Men scattered through time, from Ancient Egypt to the far future. They have to get back to the 1990s to stop Apocalypse, who has traveled there too. Season 2 premiered July 1, 2026 with three episodes and ran weekly to a nine-episode finale on August 12. It is animated, with its own continuity, separate from the live-action cast."
+   },
+   {
+    "title": "Key moments",
+    "body": "In Ancient Egypt, En Sabah Nur rises against Pharaoh Rama-Tut, who is revealed to be Kang the Conqueror. Magneto is killed saving others from Apocalypse's black hole. Gambit is later turned into one of Apocalypse's Horsemen. Nightcrawler offers his life so that Rogue and Gambit can survive. In the finale Cable shoots Gambit, which unleashes Apocalypse."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The fourth episode has a mid-credits scene in which Wolverine, back in the 1990s, receives a Weapon X file from Captain America and Black Widow. The finale's mid-credits scene shows Mystique shooting Valerie Cooper and taking her identity as Graydon Creed is elected president."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "The link is thin. It brings Kang back as Rama-Tut after the live-action Kang plan was dropped. Live-action Xavier, Magneto, Cyclops, Gambit, Nightcrawler and Mystique are confirmed for Doomsday, but this is a separate animated continuity and nothing is confirmed to carry over. Treat it as mood-setting for the mutant side, not required viewing."
+   }
+  ],
+  "runtime": 300,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "visionquest",
+  "title": "VisionQuest",
+  "type": "series",
+  "release": "2026-10-13",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2026,
+  "threads": [
+   "wanda",
+   "doom"
+  ],
+  "essential": 3,
+  "oneLiner": "A rebuilt Vision hides in Edinburgh, a bounty hunter arrives, and Ultron comes back.",
+  "characters": [
+   {
+    "name": "Vision",
+    "slug": "vision"
+   },
+   {
+    "name": "Ultron",
+    "slug": "ultron"
+   },
+   {
+    "name": "Tommy Maximoff",
+    "slug": "tommy-maximoff"
+   },
+   {
+    "name": "Billy Maximoff",
+    "slug": "billy-maximoff"
+   },
+   {
+    "name": "Wanda Maximoff",
+    "slug": "wanda-maximoff"
+   }
+  ],
+  "cards": [
+   {
+    "title": "The story",
+    "body": "VisionQuest is a sequel to WandaVision from creator Terry Matalas. Vision lives quietly in Edinburgh, working in a pub and talking to the AI personas in his mindspace while keeping Ultron locked up. When a bounty is placed on him, the hunter Paladin comes for him, and he runs with Tommy Maximoff, a teenager who may be his reborn son. Paul Bettany plays Vision and James Spader plays Ultron. The eight episodes aired from October 13 to November 10, 2026."
+   },
+   {
+    "title": "Key moments",
+    "body": "J.A.R.V.I.S. sacrifices himself to save Vision. The Butcherbird killer turns out to be Jocasta, and Ultron takes control of Vision's body for a time. Vision accepts Tommy as his son. The buyer behind the hunt, the Client, is revealed as Virgil Horton. In the finale Jocasta is destroyed and Ultron kills Virgil. Ultron then threatens London with a nanite swarm, and Vision talks him down inside a sitcom he builds in his mind. Ultron stops and slips away. Billy and Tommy help save their father."
+   },
+   {
+    "title": "Post-credits",
+    "body": "The finale, Forever, has two end scenes. First, Ultron is shown keeping Jocasta's data drive. Second, a shadowed, hooded figure wakes Wanda Maximoff beneath Mount Wundagore, saying Scarlet Witch should awaken because her power will be his. The scene does not name him. Several outlets read him as Doctor Doom, which is unconfirmed. The scene replays Wanda's burial from Multiverse of Madness."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "This is the most direct lead-in of the Phase 6 shows, but it stays ambiguous. Wanda is alive and someone wants her power, with a fan reading pointing at Doom. Olsen is not on the official Doomsday list, so her role is unconfirmed, as is Vision's. If you only watch one show before December, this is the one, ideally after WandaVision."
+   }
+  ],
+  "watchNote": "Watch WandaVision first",
+  "runtime": 480,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "endgame-encore",
+  "title": "Avengers: Endgame Encore",
+  "type": "special",
+  "release": "2026-09-25",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2023,
+  "threads": [
+   "infinity",
+   "multiverse",
+   "doom"
+  ],
+  "essential": 3,
+  "oneLiner": "Endgame returns to theaters with new scenes built to bridge the film into Doomsday.",
+  "characters": [
+   {
+    "name": "Steve Rogers",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Peggy Carter",
+    "slug": "peggy-carter"
+   },
+   {
+    "name": "Loki",
+    "slug": "loki"
+   }
+  ],
+  "cards": [
+   {
+    "title": "What it is",
+    "body": "On September 25, 2026, Endgame returned to theaters as Avengers Endgame: Encore, ahead of Doomsday, with new footage shot during Doomsday production. Runtime is about 185 minutes, though premium formats such as IMAX and Disney's Infinity Vision differ slightly. Scene order differs by print, and some theaters reportedly miss the TVA scene."
+   },
+   {
+    "title": "What is new",
+    "body": "The ending is extended. As Steve and Peggy dance in their home, there is a knock. Peggy opens the door to Loki in his TVA outfit, who says he can help both of them, and Steve steps out to face him. The scene stops there without saying what Loki wants."
+   },
+   {
+    "title": "Post-credits",
+    "body": "Further scenes play during and after the credits. In one, Bruce Banner records a video diary about his gamma research in an underground facility. A green glow appears, the camera cuts out, and an unseen voice, widely read as Doctor Doom, says he has come to collect him as the Hulk roars. In the TVA scene, Mobius and O.B. watch two Earths fire on each other, including the Fox X-Men universe, and then thousands of universes appear as O.B. says the multiverse is collapsing. The last scene shows Doom shaping his mask, with the hammering sound echoing Tony Stark's in Endgame. Sources differ on where this takes place."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "It is the clearest on-screen bridge between Endgame and Doomsday. Steve, Peggy and Loki are confirmed for the film, and the trailers show Steve and Peggy with their teenage son. A TVA connection to what Loki wants is a fan guess. Banner appears only in this bonus scene, and his role in Doomsday is not confirmed. Worth seeing for the multiverse setup despite the short length of the new material."
+   }
+  ],
+  "runtime": 183,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "avengers-doomsday",
+  "title": "Avengers: Doomsday",
+  "type": "film",
+  "release": "2026-12-18",
+  "year": 2026,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2027,
+  "threads": [
+   "doom",
+   "multiverse",
+   "mutants"
+  ],
+  "essential": 3,
+  "oneLiner": "Doctor Doom takes on the Avengers, the Fantastic Four and the X-Men in the Russos' return to Marvel.",
+  "characters": [
+   {
+    "name": "Victor von Doom / Doctor Doom",
+    "slug": "victor-von-doom"
+   },
+   {
+    "name": "Steve Rogers",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Reed Richards",
+    "slug": "reed-richards"
+   },
+   {
+    "name": "Sam Wilson",
+    "slug": "sam-wilson"
+   },
+   {
+    "name": "Thor",
+    "slug": "thor"
+   },
+   {
+    "name": "Charles Xavier",
+    "slug": "charles-xavier"
+   },
+   {
+    "name": "Magneto",
+    "slug": "magneto"
+   }
+  ],
+  "cards": [
+   {
+    "title": "What we know",
+    "body": "Directed by Anthony and Joe Russo and written by Stephen McFeely and Michael Waldron, Doomsday opens in the US on December 18, 2026. Robert Downey Jr. plays Doctor Doom. Marvel lists Chris Evans, Hayley Atwell, Chris Hemsworth, Tom Hiddleston, Anthony Mackie and Sebastian Stan, among many others. The Fantastic Four cast and the X-Men actors, including Patrick Stewart, Ian McKellen, Kelsey Grammer, James Marsden, Alan Cumming, Rebecca Romijn and Channing Tatum, are also confirmed. Stewart died in October 2026, and Marvel calls this his final on-screen appearance. The final trailer shows Steve and Peggy with their teenage son."
+   },
+   {
+    "title": "The trailers",
+    "body": "Four teasers ran before Avatar: Fire and Ash in December 2025, the first revealing Chris Evans' return as Steve Rogers. A first full trailer debuted at CinemaCon in April 2026 and went online in July. A Doom-focused special look followed in August, and the final trailer arrived in November."
+   },
+   {
+    "title": "Why Doom instead of Kang",
+    "body": "Marvel announced Kang Dynasty and Secret Wars at Comic-Con in July 2022, with Jonathan Majors as Kang. Marvel dropped Majors in December 2023. Director Destin Daniel Cretton stepped down in November 2023. By early 2024 the scripts were being rewritten to minimize Kang. At Comic-Con in July 2024 the Russos were announced as directors, the film was retitled Doomsday, and Downey was revealed as Doom. Kevin Feige has said Doom is not a Tony Stark variant."
+   },
+   {
+    "title": "What to expect",
+    "body": "Only what Marvel or the Russos have said on record. Feige has said the film picks up where Endgame left off. Not confirmed: Wanda, Bruce Banner, Valentina, Franklin Richards, Namora, Attuma, Spider-Man, Doctor Strange, Wolverine and Deadpool. Reports of Ryan Reynolds and Hugh Jackman involvement, or a Sandra Huller cameo with unknown role, remain unconfirmed."
+   }
+  ],
+  "runtime": 150,
+  "runtimeEstimated": true
+ },
+ {
+  "id": "avengers-secret-wars",
+  "title": "Avengers: Secret Wars",
+  "type": "film",
+  "release": "2027-12-17",
+  "year": 2027,
+  "phase": 6,
+  "saga": "multiverse",
+  "chrono": 2027,
+  "threads": [
+   "multiverse",
+   "doom"
+  ],
+  "essential": 1,
+  "oneLiner": "The Russos close out the Multiverse Saga one year after Doomsday.",
+  "characters": [
+   {
+    "name": "Victor von Doom / Doctor Doom",
+    "slug": "victor-von-doom"
+   },
+   {
+    "name": "Steve Rogers",
+    "slug": "steve-rogers"
+   },
+   {
+    "name": "Reed Richards",
+    "slug": "reed-richards"
+   }
+  ],
+  "cards": [
+   {
+    "title": "What we know",
+    "body": "Avengers: Secret Wars is set for December 17, 2027, directed by the Russo brothers from a script by Michael Waldron, Stephen McFeely, Chris McKenna and Erik Sommers. Robert Downey Jr. plays Doctor Doom in Doomsday and was announced in 2024 as the villain of both films. It closes out Phase Six and the Multiverse Saga. Spider-Man: Brand New Day's post-credits scene is sometimes read as pointing here, but that is unconfirmed."
+   }
+  ],
+  "runtime": 0
+ },
+ {
+  "id": "fox-x-men",
+  "title": "The Fox X-Men films (2000-2019)",
+  "type": "context",
+  "release": "2000-07-14",
+  "year": 2000,
+  "phase": 0,
+  "saga": "multiverse",
+  "chrono": 2000,
+  "threads": [
+   "mutants"
+  ],
+  "essential": 2,
+  "oneLiner": "The original X-Men movies from another studio, whose stars are now in Doomsday.",
+  "characters": [
+   {
+    "name": "Charles Xavier",
+    "slug": "charles-xavier"
+   },
+   {
+    "name": "Magneto",
+    "slug": "magneto"
+   },
+   {
+    "name": "Cyclops",
+    "slug": "cyclops"
+   },
+   {
+    "name": "Beast",
+    "slug": "beast"
+   },
+   {
+    "name": "Nightcrawler",
+    "slug": "nightcrawler"
+   },
+   {
+    "name": "Mystique",
+    "slug": "mystique"
+   },
+   {
+    "name": "Gambit",
+    "slug": "gambit"
+   }
+  ],
+  "cards": [
+   {
+    "title": "What they were",
+    "body": "Before Disney bought Fox in 2019, Fox made its own X-Men movies, starting with X-Men in 2000. They ran as a separate series from the MCU, with their own timeline and casting. Patrick Stewart played Professor X, Ian McKellen played Magneto, James Marsden played Cyclops, Rebecca Romijn played Mystique, Alan Cumming played Nightcrawler, and Kelsey Grammer played Beast. Channing Tatum was cast as Gambit for a solo film that never got made."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Stewart, McKellen, Grammer, Marsden, Cumming, Romijn and Tatum's Gambit are all on Marvel's confirmed Doomsday cast list. That is the main reason this node is on the timeline. Stewart died in October 2026, and Marvel calls Doomsday his final on-screen appearance. The film places the X-Men on Earth-10005, and how these versions reached the main MCU is not explained in anything official."
+   }
+  ],
+  "runtime": 0
+ },
+ {
+  "id": "netflix-daredevil-defenders",
+  "title": "Netflix Daredevil & The Defenders (2015-2019)",
+  "type": "context",
+  "release": "2015-04-10",
+  "year": 2015,
+  "phase": 0,
+  "saga": "multiverse",
+  "chrono": 2015,
+  "threads": [
+   "street"
+  ],
+  "essential": 1,
+  "oneLiner": "The Netflix street-level Marvel shows whose Matt, Fisk and Frank carry into Born Again.",
+  "characters": [
+   {
+    "name": "Matt Murdock / Daredevil",
+    "slug": "matt-murdock"
+   },
+   {
+    "name": "Wilson Fisk / Kingpin",
+    "slug": "wilson-fisk"
+   },
+   {
+    "name": "Frank Castle / Punisher",
+    "slug": "frank-castle"
+   },
+   {
+    "name": "Jessica Jones",
+    "slug": "jessica-jones"
+   },
+   {
+    "name": "Luke Cage",
+    "slug": "luke-cage"
+   }
+  ],
+  "cards": [
+   {
+    "title": "What they were",
+    "body": "Between 2015 and 2019, Netflix made a run of Marvel shows set in New York: Daredevil, Jessica Jones, Luke Cage, Iron Fist, the team-up The Defenders, and The Punisher. They were grittier and more violent than the movies. Charlie Cox played Matt Murdock, Vincent D'Onofrio played Wilson Fisk, and Jon Bernthal played Frank Castle. After Netflix dropped them, Disney brought those characters into the MCU one by one."
+   },
+   {
+    "title": "Why it matters for Doomsday",
+    "body": "Weak link. Matt, Fisk and Frank carry over into Daredevil: Born Again, The Punisher: One Last Kill and Spider-Man: Brand New Day, and Jessica Jones and Luke Cage return in Born Again season 2. None of them is confirmed for Doomsday, and none of it is confirmed to feed into the film. If you only care about the road to December, skip these shows."
+   }
+  ],
+  "runtime": 0
+ }
+]
