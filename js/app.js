@@ -3,8 +3,8 @@
 'use strict';
 var RTD = window.RTD, S = RTD.S, U = RTD.util, esc = U.esc, SH = RTD.sheet, Nv = RTD.nav, V = RTD.views, D = RTD.dates;
 var $ = function (s, r) { return (r || document).querySelector(s); }, $$ = function (s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); };
-var VIEWS = ['map', 'tva', 'plan', 'cast', 'theories', 'list'];
-var ALIAS = { timeline: 'map', roster: 'cast', board: 'map' };
+var VIEWS = ['map', 'tva', 'plan', 'cast', 'earths', 'theories', 'list'];
+var ALIAS = { timeline: 'map', roster: 'cast', board: 'map', multiverse: 'earths', earth: 'earths' };
 function isTL(v) { return v === 'map' || v === 'tva'; }
 var modalEl = null, modalReturn = null, toastT = 0, resetArmed = 0;
 
@@ -165,6 +165,7 @@ function act(a, t, e) {
     case 'core': SH.openCore(); break;
     case 'plan': RTD.go('plan'); break;
     case 'theory': V.openTheory(id); RTD.go('theories'); break;
+    case 'earth': RTD.go('earths'); var ea = document.getElementById('earth-' + id); if (ea) { ea.scrollIntoView({ block: 'start' }); var et = ea.querySelector('.e-name'); if (et) { et.setAttribute('tabindex', '-1'); et.focus({ preventScroll: true }); } } break;
     case 'theorytoggle': V.toggleTheory(id); break;
     case 'order': S.order = t.dataset.v; RTD.store.set('rtd.order', S.order); refreshMenu(); rerenderPage(); break;
     case 'depth': S.depth = +t.dataset.v; RTD.store.set('rtd.depth', S.depth); V.plan(); focusSame(t); break;

@@ -79,7 +79,7 @@ V.cast = function () {
   html += RTD.TEAM_ORDER.map(function (k) {
     var ps = list.filter(function (p) { return p.team === k; }).sort(function (a, b) { return RTD.STATUS[a.status].rank - RTD.STATUS[b.status].rank; }); if (!ps.length) return '';
     return '<section class="grp"><h2 class="grp-t">' + esc(RTD.TEAMS[k].t) + '</h2><p class="small muted">' + esc(RTD.TEAMS[k].p) + '</p><div class="faces">' + ps.map(function (p) {
-      return '<button type="button" class="person s-' + esc(p.status) + '" data-act="person" data-slug="' + esc(p.slug) + '">' + RTD.face(p.slug, p.character, 'big') + '<span class="pn">' + esc(p.character) + '</span><span class="pa">' + esc(p.actor || 'Unannounced') + '</span>' + RTD.statusChip(p.status) + '</button>';
+      return '<button type="button" class="person s-' + esc(p.status) + '" data-act="person" data-slug="' + esc(p.slug) + '">' + RTD.face(p.slug, p.character, 'big') + '<span class="pn">' + esc(p.character) + '</span><span class="pa">' + esc(p.actor || 'Unannounced') + '</span>' + personEarth(p.slug) + RTD.statusChip(p.status) + '</button>';
     }).join('') + '</div></section>';
   }).join('') || '<p class="empty">Roster data did not load.</p>';
   el.querySelector('.pg-in').innerHTML = failed(S.roster, 'The cast list') + html + '<div class="donate-row">' + RTD.extras.bigHTML() + '</div><p class="small foot-note">Unofficial fan guide. Not affiliated with, endorsed or sponsored by Marvel or Disney. Names and titles are used only to identify the stories.</p>';
@@ -105,5 +105,39 @@ V.theories = function () {
 };
 V.toggleCast = function (v) { castOnly = !!+v; V.cast(); };
 V.toggleTheory = function (id) { openTheory = openTheory === id ? null : id; V.theories(); var b = document.querySelector('[data-act="theorytoggle"][data-id="' + id + '"]'); if (b) b.focus(); };
+/* ---------- the multiverse page ---------- */
+function personEarth(slug) {
+  var E = S.earths, pe = E && E.people[slug]; if (!pe) return '';
+  return pe.earth && E.byId[pe.earth] ? '<span class="pe" style="--c:' + RTD.earthColor(pe.earth) + '"><i></i>' + esc(RTD.earthName(pe.earth)) + '</span>' : '<span class="pe unk"><i></i>Earth not stated</span>';
+}
+V.personEarth = personEarth;
+function labChip(l) { l = RTD.EARTH_LABEL[l] ? l : 'unknown'; return '<span class="chip e-lab l-' + l + '">' + esc(RTD.EARTH_LABEL[l]) + '</span>'; }
+V.labChip = labChip;
+function whoBtn(slug) {
+  var p = S.person[slug]; if (!p) return '';
+  var pe = S.earths.people[slug] || {};
+  return '<li><button type="button" class="e-who" data-act="person" data-slug="' + esc(slug) + '">' + RTD.face(slug, p.character) + '<span class="e-wt"><b>' + esc(p.character) + '</b><span class="small muted">' + esc(p.actor || 'Unannounced') + (pe.label && pe.label !== 'screen' ? ' · ' + esc(RTD.EARTH_LABEL[pe.label] || '') : '') + '</span>' + (pe.variantOf ? '<span class="small e-var">' + esc(pe.variantOf) + '</span>' : '') + '</span></button></li>';
+}
+V.earths = function () {
+  var el = document.getElementById('v-earths'), E = S.earths, g = S.g;
+  var html = pageHead('The Multiverse', 'Marvel gives each universe a number. Here is every Earth in this story, who comes from it and which events touch it. Each number says how we know it.');
+  if (!E) { el.querySelector('.pg-in').innerHTML = html + '<div class="note-box" role="alert"><p>The multiverse data did not load. Check your connection and try again.</p><button type="button" class="btn primary" data-act="reload">Try again</button></div>' + '<div class="donate-row">' + RTD.extras.bigHTML() + '</div><p class="small foot-note">Unofficial fan guide. Not affiliated with, endorsed or sponsored by Marvel or Disney. Names and titles are used only to identify the stories.</p>'; return; }
+  html += '<div class="chips e-legend">' + labChip('screen') + labChip('reference') + labChip('wiki') + labChip('unknown') + '</div>';
+  html += '<div class="ideas">' + E.ideas.map(function (d, i) { return '<section class="idea t' + (i % 3) + '"><h2 class="idea-t">' + esc(d.title) + '</h2><p>' + esc(d.text) + '</p>' + ((d.examples || []).length ? '<ul class="idea-ex">' + d.examples.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>' : '') + '</section>'; }).join('') + '</div>';
+  var order = g ? g.order : [];
+  html += E.list.map(function (e) {
+    var who = S.roster.filter(function (p) { var pe = E.people[p.slug]; return pe && pe.earth === e.id; }).sort(function (a, b) { return RTD.STATUS[a.status].rank - RTD.STATUS[b.status].rank; });
+    var evs = order.filter(function (id) { return RTD.beatEarths(id).indexOf(e.id) >= 0; });
+    var src = /^https?:\/\//.test(e.sourceUrl || '') ? '<a class="small e-src" href="' + esc(e.sourceUrl) + '" target="_blank" rel="noopener noreferrer">Source: ' + esc(e.sourceUrl.replace(/^https?:\/\/(www\.)?/, '').split('/')[0]) + '</a>' : '';
+    return '<section class="earth' + (e.kind === 'place' ? ' place' : '') + '" id="earth-' + esc(e.id) + '" style="--c:' + RTD.earthColor(e.id) + '"><div class="e-head"><span class="e-orb" aria-hidden="true"></span><div><h2 class="e-name">' + esc(e.name) + '</h2><p class="e-nick">' + esc(e.nick || '') + '</p></div></div>' +
+      '<div class="chips">' + labChip(e.label) + (e.seenIn || []).slice(0, 4).map(function (t) { return '<span class="chip">' + esc(t) + '</span>'; }).join('') + '</div>' +
+      '<p class="e-basis">' + esc(e.basis || '') + '</p>' + (e.note ? '<p class="small e-note">' + esc(e.note) + '</p>' : '') + src +
+      (who.length ? '<h3 class="mini-h">From here (' + who.length + ')</h3><ul class="e-whos">' + who.map(function (p) { return whoBtn(p.slug); }).join('') + '</ul>' : '') +
+      (evs.length ? '<details class="e-ev"><summary>' + evs.length + (evs.length === 1 ? ' event touches ' : ' events touch ') + esc(e.name) + '</summary><ul class="rel-list">' + evs.map(function (id) { return '<li><button type="button" class="rel" data-act="beat" data-id="' + esc(id) + '"><b>' + esc(g.byId[id].title) + '</b><span class="rel-s">' + esc(RTD.earthText(RTD.beatEarths(id))) + '</span></button></li>'; }).join('') + '</ul></details>' : '') + '</section>';
+  }).join('');
+  var unk = S.roster.filter(function (p) { var pe = E.people[p.slug]; return !pe || !pe.earth || !E.byId[pe.earth]; });
+  if (unk.length) html += '<section class="earth unknown" style="--c:#8a7fb0"><div class="e-head"><span class="e-orb" aria-hidden="true"></span><div><h2 class="e-name">Home not stated</h2><p class="e-nick">The films have not said which universe these people come from yet.</p></div></div><ul class="e-whos">' + unk.map(function (p) { return whoBtn(p.slug); }).join('') + '</ul></section>';
+  el.querySelector('.pg-in').innerHTML = html + '<div class="donate-row">' + RTD.extras.bigHTML() + '</div><p class="small foot-note">Unofficial fan guide. Not affiliated with, endorsed or sponsored by Marvel or Disney. Names and titles are used only to identify the stories.</p>';
+};
 V.render = function (name) { if (V[name]) V[name](); };
 })();

@@ -1,0 +1,685 @@
+{
+ "earths": [
+  {
+   "id": "616",
+   "name": "Earth-616",
+   "nick": "The main MCU world",
+   "kind": "earth",
+   "label": "screen",
+   "basis": "An alternate Christine Palmer tells Strange he is from Earth-616 in Doctor Strange in the Multiverse of Madness, and Deadpool & Wolverine shows it on screen as \"Earth-616, The Sacred Timeline\". Mysterio also says it in Far From Home, but he was lying about himself at the time.",
+   "sourceUrl": "https://gizmodo.com/mcu-timeline-earth-616-vs-earth-199999-confirmed-marvel-1850972538",
+   "seenIn": [
+    "Doctor Strange in the Multiverse of Madness",
+    "Deadpool & Wolverine"
+   ],
+   "note": "Marvel's 2008 Official Handbook, a reference book, calls the MCU's world Earth-199999. The films and Marvel Studios' 2023 Official Timeline book use 616, so this site does too."
+  },
+  {
+   "id": "838",
+   "name": "Earth-838",
+   "nick": "The Illuminati world",
+   "kind": "earth",
+   "label": "screen",
+   "basis": "The Illuminati say it in Doctor Strange in the Multiverse of Madness. It is the world where they live and where an alternate Christine Palmer comes from.",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Multiverse_(Marvel_Cinematic_Universe)",
+   "seenIn": [
+    "Doctor Strange in the Multiverse of Madness"
+   ],
+   "note": "Only used here for the Wanda and America Chavez story."
+  },
+  {
+   "id": "828",
+   "name": "Earth-828",
+   "nick": "The Fantastic Four's world",
+   "kind": "earth",
+   "label": "screen",
+   "basis": "It is the first text on screen at the start of The Fantastic Four: First Steps. Director Matt Shakman said the number honours Jack Kirby's birthday, August 28.",
+   "sourceUrl": "https://www.superherohype.com/?p=614732",
+   "seenIn": [
+    "The Fantastic Four: First Steps"
+   ],
+   "note": ""
+  },
+  {
+   "id": "10005",
+   "name": "Earth-10005",
+   "nick": "The Fox X-Men world",
+   "kind": "earth",
+   "label": "wiki",
+   "basis": "Deadpool & Wolverine puts Wade Wilson's home and the old Fox X-Men films in their own universe. Press coverage and fan wikis give it the number 10005.",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Deadpool_&_Wolverine",
+   "seenIn": [
+    "Deadpool & Wolverine"
+   ],
+   "note": "We have not confirmed whether the film itself says or shows the number, so it is marked as press and fans only."
+  },
+  {
+   "id": "96283",
+   "name": "Earth-96283",
+   "nick": "The Raimi Spider-Man world",
+   "kind": "earth",
+   "label": "wiki",
+   "basis": "Press coverage and fan wikis give this number to Sam Raimi's Spider-Man films. We could not confirm it in a Marvel source.",
+   "sourceUrl": "https://screenrant.com/spider-man-universes-across-spider-verse/",
+   "seenIn": [
+    "Spider-Man: No Way Home"
+   ],
+   "note": "No Way Home brings this Spider-Man into the MCU but never says the number."
+  },
+  {
+   "id": "120703",
+   "name": "Earth-120703",
+   "nick": "The Webb Spider-Man world",
+   "kind": "earth",
+   "label": "wiki",
+   "basis": "Press coverage and fan wikis give this number to the Amazing Spider-Man films. No Marvel source gives it.",
+   "sourceUrl": "https://screenrant.com/spider-man-universes-across-spider-verse/",
+   "seenIn": [
+    "Spider-Man: No Way Home"
+   ],
+   "note": "No Way Home brings this Spider-Man into the MCU but never says the number."
+  },
+  {
+   "id": "tva",
+   "name": "The TVA",
+   "nick": "The Time Variance Authority",
+   "kind": "place",
+   "label": "screen",
+   "basis": "An office outside time that polices timelines, shown in Loki, Loki season 2 and Deadpool & Wolverine.",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Multiverse_(Marvel_Cinematic_Universe)",
+   "seenIn": [
+    "Loki",
+    "Deadpool & Wolverine"
+   ],
+   "note": "Not an Earth."
+  },
+  {
+   "id": "sacred-timeline",
+   "name": "Sacred Timeline",
+   "nick": "The one approved path of time",
+   "kind": "place",
+   "label": "screen",
+   "basis": "Named in Loki season 1; Deadpool & Wolverine and the Official Timeline book use it as the TVA's name for Earth-616's timeline.",
+   "sourceUrl": "https://comicbookmovie.com/marvel-studios/earth-616-or-earth-199999-the-marvel-cinematic-universe-finally-has-an-official-designation-a207533",
+   "seenIn": [
+    "Loki",
+    "Deadpool & Wolverine"
+   ],
+   "note": "It stopped being a single path when Sylvie killed He Who Remains."
+  },
+  {
+   "id": "void",
+   "name": "The Void",
+   "nick": "A wasteland where the TVA dumps erased things",
+   "kind": "place",
+   "label": "screen",
+   "basis": "A wasteland at the end of time shown in Loki and Deadpool & Wolverine.",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Multiverse_(Marvel_Cinematic_Universe)",
+   "seenIn": [
+    "Loki",
+    "Deadpool & Wolverine"
+   ],
+   "note": "Not an Earth. Not the same thing as Bob's Void in Thunderbolts*."
+  },
+  {
+   "id": "end-of-time",
+   "name": "The End of Time",
+   "nick": "Where the Citadel and Loki's seat stand",
+   "kind": "place",
+   "label": "screen",
+   "basis": "The Citadel at the End of Time appears in Loki seasons 1 and 2.",
+   "sourceUrl": "https://en.wikipedia.org/wiki/Multiverse_(Marvel_Cinematic_Universe)",
+   "seenIn": [
+    "Loki"
+   ],
+   "note": "Not an Earth."
+  }
+ ],
+ "people": {
+  "thor": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "bucky-barnes": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "sam-wilson": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "joaquin-torres": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "scott-lang": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "cassie-lang": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "kate-bishop": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "yelena-belova": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "red-guardian": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "john-walker": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "ava-starr": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "bob-reynolds": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "shuri": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "mbaku": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "shang-chi": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "bruce-banner": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "peter-parker": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The MCU Spider-Man. Tom Holland's version, not the Maguire or Garfield ones.",
+   "theory": "spider-man-in-space"
+  },
+  "doctor-strange": {
+   "earth": "616",
+   "label": "screen",
+   "note": "Told he is from Earth-616 in Multiverse of Madness."
+  },
+  "wong": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "james-rhodes": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "natasha-romanoff": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "clint-barton": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "carol-danvers": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "peter-quill": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616. The Guardians share the main world with the Avengers."
+  },
+  "kamala-khan": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "jennifer-walters": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "monica-rambeau": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "riri-williams": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "white-vision": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "simon-williams": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "wanda-maximoff": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main-world Wanda. Other Wandas exist in other universes."
+  },
+  "matt-murdock": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616. Charlie Cox's Matt appeared in the MCU in No Way Home."
+  },
+  "wilson-fisk": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The main MCU world, Earth-616."
+  },
+  "namor": {
+   "earth": "616",
+   "label": "screen",
+   "note": "Talokan sits under the sea of the main MCU world."
+  },
+  "namora": {
+   "earth": "616",
+   "label": "screen",
+   "note": "From Talokan, the hidden underwater kingdom in the main MCU world, like Namor."
+  },
+  "attuma": {
+   "earth": "616",
+   "label": "screen",
+   "note": "From Talokan, the hidden underwater kingdom in the main MCU world, like Namor."
+  },
+  "love-thorson": {
+   "earth": "616",
+   "label": "screen",
+   "note": "Born in Love and Thunder in the main MCU world."
+  },
+  "loki": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The 2012 Loki who escaped with the Tesseract, now at the End of Time. His path branched from Earth-616; no separate number is stated.",
+   "variantOf": "The Loki who died in Infinity War. The TVA calls the escaped Loki a variant.",
+   "theory": "loki-end-of-time"
+  },
+  "steve-rogers": {
+   "earth": "616",
+   "label": "screen",
+   "note": "From Earth-616. After Endgame he lives in the past with Peggy; no number is stated for where that is. Chris Evans also played Johnny Storm in older Fantastic Four films, a different character."
+  },
+  "peggy-carter": {
+   "earth": "616",
+   "label": "screen",
+   "note": "The 616 Peggy from Captain America and Agent Carter. Where she lives now is not stated."
+  },
+  "steve-rogers-son": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Not stated on screen. He lives with Steve and Peggy; which Earth that is has not been said."
+  },
+  "tony-stark": {
+   "earth": "616",
+   "label": "screen",
+   "note": "Died in Endgame in Earth-616. Any Tony in Doomsday would be a different version; none is announced.",
+   "variantOf": "Shares an actor with Doom. Whether Doom is a Tony variant is a theory, not a fact.",
+   "theory": "doom-is-tony-variant"
+  },
+  "victor-von-doom": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Not stated on screen. Robert Downey Jr. playing Doom is confirmed; where Doom is from is not.",
+   "variantOf": "Same actor as Tony Stark. That is a casting fact, not a statement that they are the same person.",
+   "theory": "doom-origin-earth-828"
+  },
+  "reed-richards": {
+   "earth": "828",
+   "label": "screen",
+   "note": "Reed is from Earth-828 in First Steps."
+  },
+  "sue-storm": {
+   "earth": "828",
+   "label": "screen",
+   "note": "Sue is from Earth-828 in First Steps."
+  },
+  "johnny-storm": {
+   "earth": "828",
+   "label": "screen",
+   "note": "From Earth-828. Chris Evans played a Johnny Storm in an older film, but Joseph Quinn plays this one.",
+   "variantOf": "Same face, different character: Chris Evans is also Steve Rogers. Different characters, not variants."
+  },
+  "ben-grimm": {
+   "earth": "828",
+   "label": "screen",
+   "note": "Ben is from Earth-828 in First Steps."
+  },
+  "franklin-richards": {
+   "earth": "828",
+   "label": "screen",
+   "note": "From Earth-828. Not announced for Doomsday."
+  },
+  "charles-xavier": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Played this character in Fox's X-Men films, which Deadpool & Wolverine places on Earth-10005. Which universe the Doomsday version comes from is not stated. Stewart also played a different Xavier, from Earth-838, in Multiverse of Madness.",
+   "variantOf": "Stewart played an Earth-838 Xavier in Multiverse of Madness, a different character from the Fox Xavier.",
+   "theory": "x-men-universe-dying"
+  },
+  "magneto": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Played this character in Fox's X-Men films, which Deadpool & Wolverine places on Earth-10005. Which universe the Doomsday version comes from is not stated.",
+   "theory": "x-men-universe-dying"
+  },
+  "cyclops": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Played this character in Fox's X-Men films, which Deadpool & Wolverine places on Earth-10005. Which universe the Doomsday version comes from is not stated.",
+   "theory": "x-men-universe-dying"
+  },
+  "nightcrawler": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Played this character in Fox's X-Men films, which Deadpool & Wolverine places on Earth-10005. Which universe the Doomsday version comes from is not stated.",
+   "theory": "x-men-universe-dying"
+  },
+  "mystique": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Played this character in Fox's X-Men films, which Deadpool & Wolverine places on Earth-10005. Which universe the Doomsday version comes from is not stated.",
+   "theory": "x-men-universe-dying"
+  },
+  "beast": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Not stated on screen. Kelsey Grammer's Beast appeared in the end credits of The Marvels and which universe he is from was not said.",
+   "theory": "x-men-universe-dying"
+  },
+  "gambit": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Not stated on screen. He first appeared in Deadpool & Wolverine, in the Void.",
+   "theory": "x-men-universe-dying"
+  },
+  "wolverine": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Not stated on screen. The Deadpool & Wolverine Logan is a different Logan from the one who died on Earth-10005.",
+   "variantOf": "A different Wolverine from the Earth-10005 Logan who died in Logan.",
+   "theory": "wolverine-deadpool-surprise"
+  },
+  "deadpool": {
+   "earth": "10005",
+   "label": "screen",
+   "note": "Wade Wilson is from Earth-10005 in Deadpool & Wolverine.",
+   "theory": "wolverine-deadpool-surprise"
+  },
+  "america-chavez": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Comes from a world she calls the Utopian Parallel in Multiverse of Madness. No Earth number is given."
+  },
+  "sandra-huller-cameo": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Role undisclosed, so no home universe."
+  },
+  "tobey-spider-man": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Two worlds, not one. The Maguire Spider-Man is from the Raimi films (Earth-96283, reference only) and the Garfield one from the Webb films (Earth-120703, wiki only). No Way Home does not state either number.",
+   "variantOf": "Different versions of Peter Parker from Tom Holland's."
+  },
+  "sadie-sink-role-tbd": {
+   "earth": null,
+   "label": "unknown",
+   "note": "Role unannounced, so no home universe."
+  }
+ },
+ "beats": {
+  "avengers-form": [
+   "616"
+  ],
+  "vision-dies": [
+   "616"
+  ],
+  "thanos-snap": [
+   "616"
+  ],
+  "smart-hulk": [
+   "616"
+  ],
+  "endgame-undo": [
+   "616"
+  ],
+  "tony-dies": [
+   "616"
+  ],
+  "steve-stays": [
+   "616"
+  ],
+  "loki-escapes": [
+   "616"
+  ],
+  "wandavision-grief": [
+   "616"
+  ],
+  "sam-takes-shield": [
+   "616"
+  ],
+  "tva-arrests-loki": [
+   "616",
+   "tva",
+   "sacred-timeline"
+  ],
+  "he-who-remains": [
+   "end-of-time",
+   "tva"
+  ],
+  "multiverse-branches": [
+   "616",
+   "end-of-time"
+  ],
+  "no-way-home": [
+   "616"
+  ],
+  "strange-incursion": [
+   "616"
+  ],
+  "wanda-buried": [
+   "616",
+   "838"
+  ],
+  "love-and-thunder": [
+   "616"
+  ],
+  "wakanda-forever": [
+   "616"
+  ],
+  "quantumania-kang": [
+   "616"
+  ],
+  "loki-s2-loom": [
+   "tva",
+   "end-of-time"
+  ],
+  "xmen-world": [
+   "10005"
+  ],
+  "deadpool-wolverine": [
+   "10005",
+   "616",
+   "tva",
+   "void"
+  ],
+  "agatha-billy": [
+   "616"
+  ],
+  "bnw": [
+   "616"
+  ],
+  "thunderbolts-escape": [
+   "616"
+  ],
+  "bob-void": [
+   "616"
+  ],
+  "ff-earth-828": [
+   "828"
+  ],
+  "franklin-born": [
+   "828"
+  ],
+  "doom-meets-franklin": [
+   "828"
+  ],
+  "ff-ship-arrives": [
+   "616",
+   "828"
+  ],
+  "bnd-banner": [
+   "616"
+  ],
+  "bnd-tracker": [
+   "616"
+  ],
+  "special-look": [],
+  "encore-loki-door": [
+   "616"
+  ],
+  "encore-tva-collapse": [
+   "tva",
+   "10005"
+  ],
+  "encore-banner-collected": [
+   "616"
+  ],
+  "encore-mask": [],
+  "visionquest-vision": [
+   "616"
+  ],
+  "doom-wakes-wanda": [
+   "616"
+  ],
+  "trailer-steve-ff": [
+   "616",
+   "828"
+  ],
+  "trailer-tower": [
+   "616",
+   "828"
+  ],
+  "trailer-doom": [],
+  "trailer-x-men": [
+   "616"
+  ],
+  "trailer-wakanda": [
+   "616",
+   "828"
+  ],
+  "doomsday": [
+   "616",
+   "828"
+  ]
+ },
+ "ideas": [
+  {
+   "title": "What the Earth numbers are",
+   "text": "Marvel's books, and some of the films, give each universe a number, like Earth-616 or Earth-828. The number is just a label, so people can tell the worlds apart. Some numbers are said or shown in the films. Others come only from Marvel books, the press or fan sites, and this page says which.",
+   "examples": [
+    "Earth-616: the main MCU world",
+    "Earth-828: the Fantastic Four's world",
+    "Earth-10005: the Fox X-Men world"
+   ]
+  },
+  {
+   "title": "Variants: same character, different universe",
+   "text": "A variant is another version of a character, born in a different universe or on a different path through time. They can look the same but live different lives. Loki is the clearest case: the Loki at the End of Time is not the one who died in Infinity War.",
+   "examples": [
+    "Loki at the End of Time",
+    "Doctor Strange and Christine Palmer on Earth-838",
+    "Patrick Stewart's Xavier on Earth-838, a different Xavier from the Fox films"
+   ]
+  },
+  {
+   "title": "Same face, different character",
+   "text": "Sometimes one actor plays two different characters. That does not make them variants of each other. Chris Evans played Steve Rogers and Johnny Storm, and Robert Downey Jr. plays Doom after playing Tony Stark. Whether Doom is a Tony variant is a fan theory, not something Marvel has said.",
+   "examples": [
+    "Chris Evans: Steve Rogers and, in older films, Johnny Storm",
+    "Robert Downey Jr.: Tony Stark and Doom"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "claim": "Mysterio calls the MCU Earth-616 in Far From Home; alt Christine Palmer says it in Multiverse of Madness; Across the Spider-Verse says Earth-199999; Official Timeline book (2023) says 616",
+   "url": "https://gizmodo.com/mcu-timeline-earth-616-vs-earth-199999-confirmed-marvel-1850972538"
+  },
+  {
+   "claim": "Official Timeline book has Miss Minutes call it 616, also the Sacred Timeline",
+   "url": "https://comicbookmovie.com/marvel-studios/earth-616-or-earth-199999-the-marvel-cinematic-universe-finally-has-an-official-designation-a207533"
+  },
+  {
+   "claim": "Earth-199999 first used in the 2008 Official Handbook A-Z",
+   "url": "https://gizmodo.com/mcu-timeline-earth-616-vs-earth-199999-confirmed-marvel-1850972538"
+  },
+  {
+   "claim": "Mysterio used Earth-616 and claimed Earth-833 in Far From Home",
+   "url": "https://www.inverse.com/entertainment/marvel-earth-616-earth-838-doctor-strange-2"
+  },
+  {
+   "claim": "Earth-838 shown in Multiverse of Madness; Earth-828 in First Steps; Earth-10005 in Deadpool & Wolverine; Sacred Timeline, Void, End of Time",
+   "url": "https://en.wikipedia.org/wiki/Multiverse_(Marvel_Cinematic_Universe)"
+  },
+  {
+   "claim": "Earth-828 appears as on-screen text, tribute to Jack Kirby's birthday, confirmed by Shakman",
+   "url": "https://www.superherohype.com/?p=614732"
+  },
+  {
+   "claim": "Wade travels from Earth-10005 to Earth-616; Void is a wasteland at the end of time",
+   "url": "https://en.wikipedia.org/wiki/Deadpool_&_Wolverine"
+  },
+  {
+   "claim": "TVA refers to the Fox X-Men world as Earth-10005",
+   "url": "https://www.inverse.com/entertainment/deadpool-and-wolverine-earth-10005-x-men-explained"
+  },
+  {
+   "claim": "Wade lands in an office with 'Earth-616 - The Sacred Timeline - 2018' on screen",
+   "url": "https://thedirect.com/article/deadpool-and-wolverine-earth-10005-vs-616-differences-explained"
+  },
+  {
+   "claim": "Raimi films are Earth-96283 in a Marvel.com article (not opened, 403)",
+   "url": "https://www.marvel.com/articles/comics/this-week-in-marvel-universes-earth-616"
+  },
+  {
+   "claim": "Webb films called Earth-120703 by outlets, no Marvel source found",
+   "url": "https://screenrant.com/spider-man-universes-across-spider-verse/"
+  }
+ ]
+}

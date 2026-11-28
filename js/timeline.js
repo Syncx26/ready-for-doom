@@ -47,6 +47,7 @@ nav.metaText = function (b) {
   var p = []; if (b.when) p.push(b.when);
   var f = RTD.filmShort(b.source); if (f) p.push(f);
   if (b.certainty === 'read' || b.certainty === 'theory') p.push(RTD.CERT[b.certainty]);
+  var et = RTD.earthText(RTD.beatEarths(b.id)); if (et) p.push(et);
   return p.join(' · ');
 };
 nav.label = function (b) {

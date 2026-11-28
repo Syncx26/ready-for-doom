@@ -79,7 +79,7 @@ function beatHTML(b) {
     '<details class="notes" data-key="n:' + esc(film.id) + '"><summary>Full film notes</summary>' + filmPanels(film) + '</details></section>' : '';
   return '<div class="sheet-in paper reader beat" style="--c:' + c + '">' +
     '<div class="r-head"><div class="r-bar"><button type="button" class="btn ghost sm" data-act="close">Close</button><button type="button" class="btn ghost sm only-m" data-act="expand" aria-pressed="' + el.classList.contains('full') + '">' + (el.classList.contains('full') ? 'Shrink' : 'Expand') + '</button></div>' +
-    '<div class="chips">' + certChip(b.certainty) + '<span class="chip">Chapter ' + (g.chIdx[b.chapter] + 1) + ': ' + esc(ch.title) + '</span>' + (b.when ? '<span class="chip">' + esc(b.when) + '</span>' : '') + (b.doom ? '<span class="chip doom-chip">' + RTD.doomMask('c-mask') + 'Doom is in this' + '</span>' : '') + (b.key ? '' : '<span class="chip">Extra detail</span>') + '</div>' +
+    '<div class="chips">' + certChip(b.certainty) + '<span class="chip">Chapter ' + (g.chIdx[b.chapter] + 1) + ': ' + esc(ch.title) + '</span>' + (b.when ? '<span class="chip">' + esc(b.when) + '</span>' : '') + (b.doom ? '<span class="chip doom-chip">' + RTD.doomMask('c-mask') + 'Doom is in this' + '</span>' : '') + (b.key ? '' : '<span class="chip">Extra detail</span>') + RTD.beatEarths(b.id).map(function (x) { return '<button type="button" class="chip earth-chip" data-act="earth" data-id="' + esc(x) + '" style="--c:' + RTD.earthColor(x) + '"><i></i>' + esc(RTD.earthName(x)) + '</button>'; }).join('') + '</div>' +
     '<h2 id="sheet-title" tabindex="-1" class="r-title">' + esc(b.title) + '</h2><p class="note">' + esc(Nv.branchTitle(b.id)) + '. ' + esc(Nv.counterFor(b.id)) + (b.id === g.startId ? '. Start here.' : '') + '</p></div>' +
     panels + RTD.videos.beat(b.id) +
     '<section class="whos rels"><h3 class="cap">Happens because of</h3>' + (causes ? '<ul class="rel-list">' + causes + '</ul>' : '<p class="small">Nothing earlier. This is where the story starts.</p>') + '</section>' +
@@ -148,6 +148,11 @@ function coreHTML() {
     (th ? '<section class="whos"><h3 class="cap">Hot theories</h3><div class="row wrap">' + th + '</div></section>' : '') +
     '<p class="small fine">Unofficial fan guide. Not made by or affiliated with Marvel or Disney.</p></div>';
 }
+function earthPanel(slug) {
+  var E = S.earths, pe = E && E.people[slug]; if (!pe) return '';
+  var has = pe.earth && E.byId[pe.earth];
+  return '<section class="panel p-wide t1 e-panel"><h3 class="cap">Home universe</h3><div class="chips">' + (has ? '<button type="button" class="chip earth-chip" data-act="earth" data-id="' + esc(pe.earth) + '" style="--c:' + RTD.earthColor(pe.earth) + '"><i></i>' + esc(RTD.earthName(pe.earth)) + '</button>' : '') + RTD.views.labChip(has ? pe.label : 'unknown') + '</div>' + (pe.note ? '<p>' + esc(pe.note) + '</p>' : '') + (pe.variantOf ? '<p class="small"><b>Variant:</b> ' + esc(pe.variantOf) + '</p>' : '') + (pe.theory ? '<button type="button" class="btn secondary sm" data-act="theory" data-id="' + esc(pe.theory) + '">Read the theory</button>' : '') + '</section>';
+}
 function personHTML(slug) {
   var p = S.person[slug]; if (!p) return '';
   var last = S.byId[p.lastSeen], team = RTD.TEAMS[p.team] || { t: p.team };
@@ -157,7 +162,7 @@ function personHTML(slug) {
     '<div class="p-top">' + RTD.face(p.slug, p.character, 'big') + '<div><div class="chips">' + RTD.statusChip(p.status) + chip(team.t) + '</div><h2 id="sheet-title" tabindex="-1" class="r-title">' + esc(p.character) + '</h2><p class="note">' + esc(p.actor || '') + '</p></div></div></div>' +
     RTD.gate(key, null, '<div class="comic"><section class="panel p-lead t0"><h3 class="cap">Going into Doomsday</h3><p>' + esc(p.whereTheyAre || '') + '</p></section>' +
     '<section class="panel p-wide t1"><h3 class="cap">Likely role</h3><p>' + esc(p.whyItMatters || '') + '</p></section></div>', 'This profile is hidden.', 'Show this profile') + '<div class="comic">' +
-    '<section class="panel p-narrow t2"><h3 class="cap">Last seen</h3>' + (last ? '<button type="button" class="btn secondary sm" data-act="open" data-id="' + esc(last.id) + '">' + esc(last.title) + '</button>' : '<p>' + esc(p.lastSeen ? String(p.lastSeen).replace(/-/g, ' ') : 'Not in the guide yet') + '</p>') + '</section></div>' +
+    earthPanel(slug) + '<section class="panel p-narrow t2"><h3 class="cap">Last seen</h3>' + (last ? '<button type="button" class="btn secondary sm" data-act="open" data-id="' + esc(last.id) + '">' + esc(last.title) + '</button>' : '<p>' + esc(p.lastSeen ? String(p.lastSeen).replace(/-/g, ' ') : 'Not in the guide yet') + '</p>') + '</section></div>' +
     '<p class="small src"><span>Source: ' + esc(p.source || 'none listed') + '</span>' + (/^https?:\/\//.test(p.sourceUrl || '') ? ' <a href="' + esc(p.sourceUrl) + '" target="_blank" rel="noopener noreferrer">Open the source</a>' : '') + '</p></div>';
 }
 

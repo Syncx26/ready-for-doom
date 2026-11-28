@@ -115,7 +115,7 @@ RTD.store = {
 
 /* ---------- state + tiny event bus ---------- */
 var S = RTD.S = {
-  nodes: [], roster: [], theories: [], byId: {}, person: {},
+  nodes: [], roster: [], theories: [], byId: {}, person: {}, earths: null,
   story: null, g: null, storyError: '',
   watched: new Set(), read: new Set(), mode: 'full', tlView: 'map', openAll: false, spoilers: false, order: 'release', path: 'all', depth: 3, daily: 0,
   view: 'map', sel: null, reader: false, core: false, film: null, doomOpen: false, doomTrail: false, revealed: new Set(), loaded: false
@@ -181,14 +181,36 @@ RTD.buildStory = function (raw, braw) {
   S.story = raw; S.g = RTD.tva.model(raw, braw); return true;
 };
 RTD.loadData = function () {
-  return Promise.all([RTD.fetchJSON('data/timeline.json'), RTD.fetchJSON('data/roster.json'), RTD.fetchJSON('data/theories.json'), RTD.loadManifest(), RTD.fetchStory('story'), RTD.fetchStory('branches')]).then(function (r) {
+  return Promise.all([RTD.fetchJSON('data/timeline.json'), RTD.fetchJSON('data/roster.json'), RTD.fetchJSON('data/theories.json'), RTD.loadManifest(), RTD.fetchStory('story'), RTD.fetchStory('branches'), RTD.fetchJSON('data/earths.json')]).then(function (r) {
     S.nodes = Array.isArray(r[0]) ? r[0] : []; S.roster = Array.isArray(r[1]) ? r[1] : []; S.theories = Array.isArray(r[2]) ? r[2] : [];
     S.byId = {}; S.nodes.forEach(function (n) { S.byId[n.id] = n; });
     S.person = {}; S.roster.forEach(function (p) { S.person[p.slug] = p; });
-    RTD.buildStory(r[4], r[5]);
+    RTD.buildStory(r[4], r[5]); RTD.buildEarths(r[6]);
     S.loaded = S.nodes.length > 0;
     return S.loaded;
   });
+};
+/* ---------- the multiverse: data/earths.json says which Earth each person is from and which Earths each event touches ---------- */
+RTD.EARTH_LABEL = { screen: 'Said on screen', reference: 'Marvel reference book', wiki: 'Press and fans only', unknown: 'Not stated' };
+RTD.EARTH_C = { '616': '#ffb347', '828': '#22d0d6', '838': '#7f8dff', '10005': '#ffe14a', '199999': '#ffb347' };
+RTD.buildEarths = function (raw) {
+  S.earths = null;
+  if (!raw || !Array.isArray(raw.earths)) return;
+  var E = { list: raw.earths.filter(function (e) { return e && e.id; }), byId: {}, people: raw.people || {}, beats: raw.beats || {}, ideas: Array.isArray(raw.ideas) ? raw.ideas : [] };
+  E.list.forEach(function (e) { E.byId[e.id] = e; });
+  S.earths = E;
+};
+RTD.earthName = function (id) { var e = S.earths && S.earths.byId[id]; return e ? e.name : 'Earth-' + id; };
+RTD.earthColor = function (id) { return RTD.EARTH_C[id] || '#c9a8ff'; };
+RTD.beatEarths = function (id) { var a = S.earths && S.earths.beats[id]; return Array.isArray(a) ? a.filter(function (x) { return S.earths.byId[x]; }) : []; };
+/* "Earth-616", or "Earths 616 and 828" when an event touches more than one; places like the TVA by name */
+RTD.earthText = function (ids) {
+  if (!ids || !ids.length) return '';
+  var named = ids.map(function (x) { var e = S.earths.byId[x]; return e && e.kind === 'place' ? e.name : null; });
+  var nums = ids.filter(function (x, i) { return !named[i]; }), places = named.filter(Boolean), out = [];
+  if (nums.length === 1) out.push('Earth-' + nums[0]);
+  else if (nums.length > 1) out.push('Earths ' + nums.slice(0, -1).join(', ') + ' and ' + nums[nums.length - 1]);
+  return out.concat(places).join(' · ');
 };
 RTD.reloadStory = function () { return Promise.all([RTD.fetchStory('story'), RTD.fetchStory('branches')]).then(function (r) { return RTD.buildStory(r[0], r[1]); }); };
 /* plain words for the three certainty levels */
